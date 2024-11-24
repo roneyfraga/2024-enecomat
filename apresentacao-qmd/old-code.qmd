@@ -1,0 +1,55 @@
+
+##  {#TitleSlide data-menu-title="TitleSlide" background-color="#303436" background-image="images/pharma-capa-2-v4.jpg" background-position="left" background-size="contain"}
+
+::: {style="position: absolute; left: 580px; top: 280px; height: 525px; width: 1000px; background-color: #014465; padding: 20px; padding-left: 50px; box-shadow: 15px 15px 0px 0px #a9bcd2; border-radius: 5px;"}
+[Aspectos econômicos da propriedade intelectual no setor farmacêutico]{style="font-size: 70px; font-weight: bold; line-height: 1em; margin: 0px"}
+
+<!-- [no setor farmacêutico]{style="font-size: 50px; font-weight: bold; line-height: 1em; margin: 0px"} -->
+
+<br>
+
+[Antônio Márcio Buainain]{style="font-size: 40px; font-weight: bold;"} [ -- Unicamp]{style="font-size: 30px; font-weight: bold;"} 
+
+[Adriana Carvalho de Pinto Vieira]{style="font-size: 40px; font-weight: bold;"} [ -- INCT]{style="font-size: 30px; font-weight: bold;"}
+
+[Roney Fraga Souza]{style="font-size: 40px; font-weight: bold;"} [ -- UFMT]{style="font-size: 30px; font-weight: bold;"} 
+
+:::
+
+## TL;DR in 18th century
+
+<br> <!-- espaço vertical -->
+
+::: {style="text-align: center; font-weight: bold;"}
+Too Long; Didn't Read.
+:::
+
+<br> 
+
+In the eighteenth century, the first tentative steps were taken towards specialized journals and reviews, in a vain attempt to contain or at least rationalize the growing wave of publications [@SollaPrice1976].
+
+<br> 
+
+As early as the eighteenth century, the main objective of the Philosophical Transactions of the Royal Society and the Journal des Sçavans was to assimilate works and letters that were already too numerous for an individual to follow in his daily reading and correspondence [@SollaPrice1976].
+
+## Science Growth {.smaller}
+
+::: columns
+::: {.column width="70%"}
+![](images/bornmann2015.png)
+:::
+
+::: {.column width="30%"}
+- @Bornmann2015
+ - growth rates: 
+   - from less than 1% up to the middle of the 18th century, 
+   - to 2 to 3% up to the period between the two world wars, 
+   - and 8 to 9% to 2010
+
+- Patent growth
+
+- The global data volume was predicted to grow exponentially from 4.4 zettabytes to 44 zettabytes between 2013 and 2020. By 2025, IDC predicts there will be 163 zettabytes of data [@Reinsel2017].
+:::
+:::
+
+## References
