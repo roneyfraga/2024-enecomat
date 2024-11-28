@@ -30,10 +30,10 @@ qphtml:
 	quarto preview $(file).qmd --to html
 
 qs:
-	rsync -avzhe "ssh -i ~/.chave/chave_limpa" --info=progress2 --delete ../apresentacao/ bibr@100.104.99.20:/var/www/roneyfraga.com/public_html/class/2023-jc/
+	rsync -avzhe "ssh -i ~/.chave/chave_limpa" --info=progress2 --delete ../apresentacao-qmd/ bibr@159.89.36.185:/var/www/roneyfraga.com/public_html/class/2024-enecomat/
 
 all:
 	quarto render $(file).qmd --to revealjs
-	rsync -avzhe "ssh -i ~/.chave/chave_limpa" --info=progress2 --delete ../apresentacao/ bibr@100.104.99.20:/var/www/roneyfraga.com/public_html/class/2023-jc/
+	rsync -avzhe "ssh -i ~/.chave/chave_limpa" --info=progress2 --delete ../apresentacao-qmd/ bibr@159.89.36.185:/var/www/roneyfraga.com/public_html/class/2024-enecomat/
 
 

@@ -20,65 +20,1124 @@ bibliography: references.bib
 csl: acta-medica-peruana.csl
 ---
 
-##  {#Título data-menu-title="Capa" background-color="#303436" background-image="images/pharma-capa-2-v4.jpg" background-position="left" background-size="contain"}
+##  {#Título data-menu-title="Capa" background-color="#303436" background-image="images/capa3.png" background-position="left" background-size="contain"}
 
-::: {style="position: absolute; left: 650px; top: 280px; height: 525px; width: 1000px; background-color: #014465; padding: 20px; padding-left: 50px; box-shadow: 15px 15px 0px 0px #a9bcd2; border-radius: 5px;"}
-[Aspectos econômicos da propriedade intelectual no setor farmacêutico]{style="font-size: 55px; font-weight: bold; line-height: 1em; margin: 0px"}
+::: {style="position: absolute; left: 870px; top: 380px; height: 450px; width: 700px; background-color: #014465; padding: 20px; padding-left: 50px; box-shadow: 15px 15px 0px 0px #a9bcd2; border-radius: 5px;"}
+
+[Da Gênese da Descoberta Científica às Trajetórias Tecnológicas:]{style="font-size: 50px; font-weight: bold; line-height: 1em; margin: 0px"}
+
+[teorias e métodos]{style="font-size: 45px; font-weight: bold; line-height: 1em; margin: 0px"}
 
 <br>
-
-[Equipe Técnica]{style="font-size: 25px;"} 
-
-[Professor Dr. Antônio Márcio Buainain]{style="font-size: 35px; font-weight: bold;"} 
-
-[Professora Dra. Adriana Carvalho Pinto Vieira]{style="font-size: 35px; font-weight: bold;"} 
 
 [Professor Dr. Roney Fraga Souza]{style="font-size: 35px; font-weight: bold;"} 
 
 :::
 
-## Introdução
+## Qual a importância da tecnologia para a sociedade? {.scrollable .smaller}
 
-<br>
+::: {.panel-tabset}
 
-- O enfrentamento dos desafios globais e nacionais, que tem sido pauta das discussões nos fóruns internacionais e estão sintetizados na Agenda 2030 dos Objetivos de Desenvolvimento Sustentável exige inovações em sentido amplo e multidimensional. 
-- As empresas se mantêm como protagonistas do processo de inovação, e a concorrência se mantém como o principal acicate da inovação, mas em ambiente mais complexo e desafiador, que envolve múltiplos atores, parcerias público-privada, privada-privada, redes de pesquisa, extensas cadeias globais de conhecimento, pesquisa e desenvolvimento e de produção.
-- É necessário desenvolver e manter um ambiente institucional e econômico que estimule e viabilize a inovação.
+### Fogel (1999) 
 
-## Introdução 
+![](images/fogel-1999-fig1.png){width=60% fig-align="center"}
 
-<br>
-
-- O sistema de PI é um componente essencial do marco institucional pró-inovação e pró-desenvolvimento, e que o reconhecimento das patentes é importante para estimular os investimentos em P&D, para a geração e difusão da inovação, e se constitui em um fator determinante da dinâmica de concorrência em mercados intensivos em inovação.
-
-- A legitimidade da propriedade intelectual, e das patentes em particular, são amplamente reconhecidas pela comunidade internacional. Contudo, “(...) as polêmicas não podem ser ignoradas”, e o debate deve ser enfrentado com equilíbrio, buscando elucidar tanto o papel da PI como incentivo à inovação como eventuais distorções do funcionamento do sistema de proteção que possam comprometer os fundamentos e objetivos do próprio sistema de PI.
-
-## Objetivo
-
-<br>
-
-- O objetivo da presente proposta é a preparação de um documento acadêmico, sustentando a tese de que a proteção conferida pela propriedade intelectual (PI) em geral, e pelas patentes em particular, não bloqueia o processo de inovação e nem paralisa os investimentos dos concorrentes na busca de novos produtos para disputar nichos de mercados. 
-- A pesquisa será realizada com base em estudos já publicados e evidências empíricas disponíveis, e terá como foco principal a indústria farmacêutica.
-
-::: {style="font-size: 140%;"}
-::: {.callout-note}
-# Problema
-**TL;DR** = Too Long; Didn't Read.
-:::
+::: {style="font-size: 70%; text-align: right; "}
+Fonte: Fogel (1999) Catching Up with the Economy. American Economic Review. @Fogel1999
 :::
 
-<!--
+### Roser (2023) Completa
 
-## Produtos
+![](images/technological-change-v2.png){width=30% fig-align="center"}
+
+::: {style="font-size: 80%; text-align: right; "}
+Ver Roser (2023) Technology over the long run: zoom out to see how dramatically the world can change within a lifetime. Our World in Data. @Roser2023
+:::
+
+### Roser (2023) Ampliação
+
+![](images/technological-change-v2.png){width=90% fig-align="center"}
+
+::: {style="font-size: 90%; text-align: right; "}
+Ver Roser (2023) Technology over the long run: zoom out to see how dramatically the world can change within a lifetime. Our World in Data. @Roser2023
+:::
+
+### Perspectiva 
+
+<br>
+<br>
+<br>
+
+![](images/roser-2023-linear-timeline-long-run_1600.png){width=80% fig-align="center"}
+
+::: {style="font-size: 80%; text-align: right; "}
+Ver Roser (2023) Technology over the long run: zoom out to see how dramatically the world can change within a lifetime. Our World in Data. @Roser2023
+:::
 
 <br>
 
-- Relatório de pesquisa sustentando a tese indicada acima, sobre o papel da propriedade intelectual como incentivo à inovação, com foco na indústria farmacêutica.
-- Apresentação dos resultados em evento interno para os contratantes.
-- Preparação de um artigo científico para fins de publicação em revista (journal) acadêmico reconhecido.
+::: {style="font-size: 90%; text-align: left; "}
+- O problema da perspectiva:
+  - Distância da Terra ao Sol: aproximadamente 149.6 milhões de km.
+  - Se a Terra fosse do tamanho de uma bola de tênis, o Sol (com 11,7 metros de diâmetro) estaria a aproximadamente **7,19 km** de distância.
+:::
 
+<!-- 
+- Diâmetro do Sol: aproximadamente 1.392.000 km 
+- Diâmetro da Terra: aproximadamente 12.742 km
+- Distância média da Terra ao Sol: aproximadamente 149.6 milhões de km
+- Se a Terra fosse do tamanho de uma bola de tênis, o Sol estaria a aproximadamente **7,19 km** de distância.
 -->
 
+### Reflexões 
+
+- A perspectiva de longo prazo deixa claro o quão incomumente rápida é a mudança tecnológica em nosso tempo.
+- A mudança tecnológica era extremamente lenta no passado e rápida agora.
+- Levou 2,4 milhões de anos – 12 voltas da espiral – para nossos ancestrais controlarem o fogo e usá-lo para cozer.
+- Desenrolar a espiral: últimos 12.000 anos.
+- História da comunicação: da escrita ao papel, à imprensa, ao telégrafo, ao telefone, ao rádio, até a Internet e os smartphones.
+- Em 1901 ocorreu o primeiro voo e 66 anos depois, primeiro pouso na lua.
+- A AI irá acelerar a velocidade das inovações? Décadas poderão serem reduzidas a poucos anos? [Ver AI timelines](https://ourworldindata.org/ai-timelines)
+- A **tecnologia continuará a mudar o mundo**, essa é uma `certeza`.
+
+<br>
+
+- Direção da tecnologia: desde a vacina (1796) da varíola até a bomba atômica (1945).
+
+### Evitar
+
+::: {style="font-size: 80%; text-align: center; "}
+
+- 1970
+- Beneath the Planet of the Apes (en)
+- De Volta ao Planeta dos Macacos (pt_br)
+
+:::
+
+![](images/de-volta-ao-planeta-dos-macacos-1970.png){width=65% fig-align="center"}
+
+<!--
+- Planeta Terra em 3955 d.C.
+- Seres vivos
+  - Símios (Gorilas, Chimpanzés, Orangotangos) são inteligentes
+  - Humanos são primitivos
+  - Mutantes derivados dos humanos que vivem no mundo subterrâneo adoram uma bomba atômica
+- um astronauta (Brent) atravessa uma fenda do tempo e chega Planeta dos Macacos, a terra do futuro
+- Brent descobre uma raça de mutantes que se comunicam telepaticamente e veneram uma bomba atômica
+- Os Mutantes representam uma ameaça de destruição total para o planeta.
+-->
+
+:::
+
+## Velocidade da Inovação - *proxy* {.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+::: {style="font-size: 85%; text-align: left; "}
+
+**Artigos**
+
+---------
+
+- Previsão pioneira **1960** @SollaPrice1963 
+  - 15 anos
+
+---------
+
+- Previsão de **2015** @Bornmann2015 
+  - até 1750: 231 anos
+  - entre 1750 e 1945: 29 anos
+  - entre 1945 e 2010: 9 anos
+
+---------
+
+- Previsão de **2020** @Bornmann2021
+  -  taxa de crescimento geral de 4.10% a.a. com tempo de duplicação de 17.3 anos
+  1. Fase: Emergência da física moderna e pré-industrialização (1675–1809)
+  2. Fase: Revolução Industrial (1815–1882)
+  3. Fase: Crises econômicas períodos de Guerras Mundiais e Pós-guerra (1881–1952)
+  4. Fase: Período pós-guerra (depois de 1952 até hoje)
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {style="font-size: 85%; text-align: left; "}
+
+**Patentes**
+
+---------
+
+- **1421** na Itália (guincho para transportar mármore)
+- **1449** na Inglatera (vitrais de vidro)
+- **1809** no Brasil (fabricação de tecido)
+
+:::
+
+---------
+
+![](images/patents-over-time.png){width=80% fig-align="center"}
+
+::: {style="font-size: 70%; text-align: right; "}
+Fonte: <https://data.worldbank.org>
+:::
+
+:::
+
+:::
+
+## {background-image="images/DALLE_Expanded_uncertainty_landscape_2560x1440.png" data-menu-title="Análise preliminar" background-position="center center" background-size="cover"}
+
+<br>
+<br>
+<br>
+<br>
+
+::: columns
+::: {.column width="70%"}
+
+::: {style="font-size: 70px; text-align: center; font-weight: bold; background-color:AliceBlue; color: Olive;"}
+Conseguimos prever quais tecnologias irão mudar o futuro?
+:::
+ 
+:::
+
+::: {.column width="30%"}
+
+![](images/nostradamus_v2.jpg){height="165"}
+
+:::
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: {style="font-size: 50%; color: #e6e6ff; text-align: right; "}
+Fonte: https://images.app.goo.gl/zwu7u92cyMYmDpSe8
+:::
+
+::: {style="font-size: 50%; color: #e6e6ff; text-align: left; "}
+**DALL·E 3**
+:::
+
+:::
+
+## Previsões Erradas sobre Tecnologia  {.smaller}
+
+<br>
+
+<br>
+
+1. **A Era do Papel**: Em 1975, o presidente da Xerox, Joseph C. Wilson, previu que a sociedade estaria completamente digitalizada e que o papel seria obsoleto. 
+
+2. **Computadores em Casa**: Em 1977, Ken Olsen, fundador da Digital Equipment Corporation, afirmou que "não havia razão para qualquer indivíduo ter um computador em casa". 
+
+3. **A Internet como uma Fadinha**: Em 1995, o CEO da Microsoft, Bill Gates, disse que a internet era uma "fada" e que não teria um grande impacto nos negócios. 
+
+4. **O Fim da Televisão**: Nos anos 2000, muitos especialistas previram que a televisão tradicional seria substituída por streaming e conteúdo digital. 
+
+5. **Carros Voadores**: Durante as décadas de 1950 e 1960, muitos futuristas previram que teríamos carros voadores em 2000. 
+
+6. **Inteligência Artificial Substituindo Humanos**: Nos anos 1980 e 1990, houve previsões de que a inteligência artificial substituiria completamente os humanos em muitas profissões até o início dos anos 2000. 
+
+## Previsões no Xadrez {.smaller}
+
+::: columns
+::: {.column width="40%"}
+
+![](images/bobby-fischer.png){width=80%}
+
+::: {style="font-size: 70%; text-align: left; "}
+Fonte: <https://images.app.goo.gl/PL8siUX3fx7ABzGv6>
+:::
+
+:::
+
+::: {.column width="60%"}
+
+### {.smaller}
+
+- **Regras do Jogo**
+  - Retângulo com 64 casas, uma grade em duas cores alternada de 8x8;
+  - Cada jogador começa com 16 peças: 1 rei, 1 rainha, 2 torres, 2 bispos, 2 cavalos e 8 peões;
+  - Movimentação das peças são pré-determinadas.
+
+<br>
+
+- **Bobby Fischer**
+  - Conhecido pela alta capacidade antecipar lances à frente.
+  - Pergunta: qual sua capacidade para antecipar possibilidades de jogadas?
+  - Resposta: Depende de quão aberto está o jogo, pode ser quase impossível prever várias rodadas com precisão.  
+  - Xadrez é sobre: memorização e planejamento, a criatividade é baixa.
+ 
+<br>
+
+- Em 1997 pela primeira vez um campeão mundial, **Garry Kasparov**, foi derrotado por computador, o **Deep Blue** da IBM.
+
+:::
+
+:::
+
+## Economia como um Sistema Complexo {.smaller .scrollable}
+
+::: {.callout-note}
+Diferentemente do xadrez, a economia é um sistema complexo!
+:::
+
+::: columns
+::: {.column width="50%"}
+
+::: {style="font-size: 80%; "}
+1. **Interconexão e Interdependência**:
+   - Os elementos de um sistema complexo estão interligados, e suas interações podem gerar comportamentos e padrões coletivos.
+2. **Auto-organização**:
+   - Sistemas complexos têm a capacidade de se auto-organizar, formando estruturas e padrões sem a necessidade de um controle centralizado.
+3. **Não-linearidade**:
+   - As relações entre os componentes de um sistema complexo são frequentemente não-lineares, o que significa que pequenas mudanças podem ter grandes efeitos.
+4. **Adaptabilidade**:
+   - Sistemas complexos são dinâmicos e podem se adaptar a mudanças em seu ambiente, respondendo a estímulos externos de maneira flexível.
+:::
+:::
+
+::: {.column width="50%"}
+
+::: {style="font-size: 80%; "}
+5. **Hierarquia e Subsistemas**:
+   - Sistemas complexos podem ser compostos por subsistemas que operam em diferentes níveis hierárquicos, cada um com suas próprias dinâmicas.
+6. **Fluxo de Informação**:
+   - A comunicação e o fluxo de informações entre as partes do sistema são fundamentais para sua operação e evolução.
+7. **Retroalimentação**:
+   - Os sistemas complexos operam com mecanismos de feedback, que podem ser positivos ou negativos, influenciando o comportamento do sistema como um todo.
+8. **Propriedades Emergentes**:
+   - As propriedades de um sistema complexo não podem ser compreendidas apenas pela análise de suas partes isoladas; o todo é mais que a soma das partes.
+:::
+:::
+
+::: {.callout-tip}
+Exemplos de sistemas complexos: [Pendulo duplo](https://www.youtube.com/shorts/HjwIfEyT8bI), [Pêndulo simulado](https://www.youtube.com/watch?v=4RXl0QxxHzg) e [Pêndulo 5 graus de liberdade.](https://www.youtube.com/watch?v=9LQot9YbIM0)
+:::
+
+:::
+
+
+## {background-image="images/complexities-books-cover.png" data-menu-title="Livros sobre complexidade"}
+
+## Schumpeter {.smaller}
+
+::: rows 
+::: {.rows width="30%"}
+
+::: columns
+::: {.column width="80%"}
+
+::: {.callout-note}
+Schumpeter investigou a anatomia do motor capitalista. @Dosi2023
+:::
+
+:::
+
+::: {.column width="20%"}
+![](images/schumpeter.jpg){height="120" fig-align="left"}
+
+::: {style="font-size: 50%; text-align: left; "}
+Fonte: <https://images.app.goo.gl/R2VeTdEKSDoQugGF6>
+:::
+
+:::
+:::
+:::
+
+::: {.rows width="70%"}
+
+**Livros**
+
+1. "The Theory of Economic Development" (1911): introduziu o conceito de "destruição criativa", a ideia de que o progresso econômico envolve a destruição de velhas estruturas e a criação de novas.
+
+<br>
+
+2. "Business Cycles" (1939): analisou os ciclos econômicos, baseando-se na teoria de que a inovação por empresários é o motor do crescimento econômico e que este crescimento ocorre em ciclos.
+
+<br>
+
+3. "Capitalism, Socialism and Democracy" (1942): este livro explora a relação entre inovação, democracia e mudança econômica. 
+  - **Capítulo 7: o processo de destruição criadora**
+
+
+:::
+
+:::
+
+## Destruição Criadora {.smaller}
+
+::: columns
+::: {.column width="40%"}
+
+![](images/creative-destruction-waves-prosperity.png)
+
+::: {style="font-size: 50%; text-align: left; "}
+Fonte: <https://www.the-waves.org/2023/11/15/innovation-waves-prosperity-through-creative-destruction/>
+:::
+
+:::
+
+
+::: {.column width="60%"}
+
+::: {.panel-tabset}
+
+### Ciclos {.smaller}
+
+::: {style="font-size: 85%; "}
+- Primeira onda - De 1785 a 1845, devido à expansão da máquina a vapor, o carvão substituiu a água, o vento e a força muscular, tornando o fornecimento de energia melhor, mais confiável e mais barato.
+  - Europa nos séculos IV e V: 1 moinho de água = 2 hp, liberou 30 a 60 pessoas. @Reynolds1983
+  - Englaterra de 1086, em  3.000 locais, existiam 6,082 moinhos de água.
+  - Englaterra de 1300, estimasse que existiam 10.000 moinhos de água.
+  - Século XVIII: @Munro2002 os moinhos extrapolaram seu impacto em diversas indústrias.
+<!-- liberou pessoas, aminais e pessoas escravisadas -->
+- Segunda onda - Ao longo de 55 anos, de 1845 a 1900, a máquina a vapor impulsionou a implantação da rede ferroviária.
+- Terceira onda - Telefones, lâmpadas e motores elétricos alimentados por eletricidade começaram a se desdobrar como grandes ondas de reinvenção.
+- Quarta onda - A era entre 1950 e 1990 é marcada como a quarta onda.
+- Quinta onda - O início de 1990 testemunhou o surgimento de computadores pessoais, software e telefones celulares.
+- Sexta onda - Além de impulsionar a prosperidade, as últimas cinco ondas de inovação criaram urgência em sustentabilidade.
+
+::: {style="font-size: 90%; text-align: left; "}
+Ler Freeman e Soete @Freeman2008 A economia da inovação industrial.
+:::
+:::
+
+### Empresário
+
+<br>
+
+> É útil pensar em uma inovação como algo novo que foi colocado em uso. Assim, essa inovação representa, em certo sentido, uma nova tecnologia. Embutido nesta distinção entre invenção e inovação está um processo pelo qual as invenções se tornam aplicadas. Este processo é central para o que chamamos de empreendedorismo. O empreendedorismo é um processo que envolve a organização de recursos, e o resultado desse processo é uma inovação. Claro, para que o empreendedorismo tenha valor econômico, a saída resultante ou inovação deve ter valor econômico. @Audretsch2002
+
+- Schumpeter Mark I *vs* Schumpeter Mark II
+
+### Implicações {.smaller}
+
+- O empresário busca lucro.
+- Economia deixar de tender ao equilíbrio (equilíbrio geral paretiano).
+- Os mecanismos de preços deixam de ser exclusivos para definir competição. <!--(efeito amazon)-->
+- Os resultados não são presumidos antes de um evento, e sim descobertos. 
+- A economia passa ser não direcionada, sem predeterminação para um determinado ponto final.
+- A coevolução entra em prática, com a ação de um impactando no outro.
+- As interdependências possibilitam a cocriação (invenção).
+- Os processos emergem de tempos em tempos, resultando em inovações.
+- Utiliza-se o princípio da seleção, a ideia de escolher a melhor ideia.
+- Padrões emergem a partir das iterações.
+- Trajetórias tecnológicas...
+
+:::
+:::
+:::
+
+## Trajetórias Tecnológicas {.smaller}
+
+::: {.panel-tabset}
+
+### Dosi 1982 {.smaller}
+
+::: {style="font-size: 90%; text-align: left; line-height: 1.4em;"}
+
+::: columns
+::: {.column width="60%"}
+
+- Dosi (1982) @Dosi1982 Technological Paradigms and Technological Trajectories. Research Policy. 
+  - Doutorado na SPRU (Science Policy Research Unit) da Universidade de Sussex.
+  - Orientando por Christopher Freeman.
+
+:::
+
+::: {.column width="40%"}
+
+![](images/dosi-v2.jpg){height="130" fig-align="left"}
+
+::: {style="font-size: 50%; text-align: left; "}
+Fonte: <https://images.app.goo.gl/BW7DSw3wsb2JumoP6>
+:::
+:::
+:::
+
+- Discussão anterior a Dosi, a inovação é fruto do: livre mercado *vs* desenvolvimento científico.
+
+- Paradigma Científico (Thomas Khun) é modelo de prática científica utilizado em consenso pela comunidade acadêmica.
+
+- Paradigma Tecnológico
+  - um <span style="color: CornflowerBlue;">modelo</span> e um <span style="color: CornflowerBlue;">padrão</span> de solução de determinados problemas tecnológicos, baseados em determinados princípios derivados das ciências naturais e em determinadas tecnologias matérias.
+
+- Trajetórias Tecnológicas
+  - a atividade de solução de problemas é determinada por um paradigma, que pode ser representada pelo movimento de *trade-offs* multidimensionais entre as variáveis tecnológicas que o paradigma define como relevantes.
+
+- <span style="color: CornflowerBlue;">Descontinuidade</span>: Invenções/Inovações Radiais tendem a superar Paradigmas Científicos/Tecnológicos. 
+
+- <span style="color: CornflowerBlue;">Continuidade</span>: Mudanças na mesma trajetória.
+
+- Dosi destacou os aspectos econômicos, institucionais e sociais pelos quais os conhecimentos científicos são introduzidos no sistema produtivo. @Sicsu2006
+
+- Os paradigmas e trajetórias são escolhas, realizadas multidimensionalmente.
+
+:::
+
+### Semicondutores {.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+#### Válvulas
+
+- Início do século XX: principais conhecimentos científicos sobre as válvulas. @Dosi2006
+
+![](images/valvula-v3.jpg)
+
+::: {style="font-size: 50%; text-align: left; "}
+Fonte: <https://images.app.goo.gl/htbZXPYoMeiD4UBw5>
+:::
+
+- Chegou-se ao limite da possibilidade técnica:
+  - limitada faixa de frequência
+  - grande consumo de energia
+  - a grande dispersão de calor
+  - limitada confiabilidade
+  - tamanho não redutível
+
+:::
+
+::: {.column width="50%"}
+
+#### Semicondutores
+
+- 1946 Descoberta do <span style="color: CornflowerBlue;">Transístor</span> proporcionou um salto tecnológico.
+
+![](images/transistor-v2.png){width=30%}
+
+::: {style="font-size: 50%; text-align: left; "}
+Fonte: <https://www.betacomercial.com.br/loja/produto/transistor-2n-1711>
+:::
+
+- 1970 <span style="color: CornflowerBlue;">Circuito Integrado</span>.
+
+![](images/circuito-integrado-v2.avif){width=47%}
+
+::: {style="font-size: 50%; text-align: left; "}
+Fonte: <https://images.app.goo.gl/nRkcUUXzRBgGU4gX8>
+:::
+
+:::
+:::
+
+### Fotografia {.smaller}
+
+::: columns
+::: {.column width="40%"}
+
+
+#### Química (analógica) {.smaller}
+
+::: {style="font-size: 80%; text-align: left; "}
+- Em 1884, George Eastman patenteou tecnologias de filme fotográfico com vantagens pela pequeno tamanho e boa qualidade de imagem, permitindo que a Eastman Kodak dominasse o setor de câmeras por mais de um século. @Ho2015
+
+- Em 1913, novas tecnologias de lentes e controle de luz permitiram que Oskar Barnack, da Ernst Leitz Optische Werke, da Alemanha, desenvolvesse o protótipo Leica 35 mm, que estabeleceu um novo padrão industrial para câmeras de filme.
+
+- Em 1935, a Kodak lançou o primeiro filme colorido que inaugurou a era da fotografia colorida.
+
+- Em 1963, a Polaroid lançou o filme e a câmera coloridos instantâneos, permitindo que os usuários tirassem e imprimissem fotos coloridas por conta própria.
+
+- O setor de filmes e impressão comercial foi classificado como seguindo o padrão de inovação industrial baseado na ciência, com uma trajetória que acompanha o desenvolvimento das ciências químicas e de materiais. 
+
+- O serviço de impressão de fotos criou outro setor que depende de equipamentos de impressão comercial e segue uma trajetória tecnológica de padrão dominado pelo fornecedor. @Pavitt1984
+:::
+:::
+
+::: {.column width="60%"}
+
+#### Eletrônica (digital) {.smaller}
+
+<!-- falar sobre o 11 de setembro e o fim da indústria do filme -->
+
+::: {style="font-size: 80%; text-align: left; "}
+
+- Em 1969, o dispositivo de carga acoplada (CCD) foi inventado por Willard Boyle e George Smith no AT&T Bell Labs. O CCD captura imagens ao detectar a intensidade da luz e registrá-la em semicondutores, substituindo o processo químico anterior por um processo eletrônico. @Ho2015
+
+- Em 1981, a Sony lançou a primeira câmera digital e a tecnologia logo foi adotada por muitas outras empresas de câmeras.
+
+- Embora a Kodak, a Canon, a Fujifilm e a Konica tenham dominado a era das câmeras de filme, somente a Canon manteve sua posição de liderança na era digital, aproveitando suas tecnologias ópticas avançadas e concentrando-se em câmeras digitais SLR (single-lens reflex) de alta qualidade. 
+
+- Impressão de fotos pessoais.
+
+- A relutância da Kodak em se afastar dos negócios de impressão de fotos prejudicou a empresa e levou a anos de desempenho financeiro decepcionante. 
+
+- Compartilhamento de fotos.
+
+-----------
+
+- Câmera fotográfica Canon como câmera de vídeo.
+
+- era digital até 2015: setor dominado por DSLR (Canon 5D Mark II).
+
+------------
+
+- 2015 até agora: mirrorless.
+  - 2010 Sony NEX-3 (APS-C).
+  - 2013 Sony A7 (fullframe).
+:::
+:::
+:::
+
+### Curva em S <!-- aba -->
+
+::: columns
+::: {.column width="55%"}
+
+![](images/zhang2023-fig1.png){width=110% fig-align="left"}
+
+::: {style="font-size: 80%; text-align: left; "}
+Fonte: Zhang 2023 @Zhang2023 A holistic method for radical concept generation based on technological evolution.
+:::
+
+:::
+
+::: {.column width="45%"}
+
+::: {style="font-size: 90%; text-align: left; "}
+- Função Sigmóide $\sigma(x) = \frac{1}{1 + e^{-x}}$
+
+- Mudanças ocorrem devido: @Priestley2020
+  - Difusão da atividade empreendedora.
+  - Invenções acumuladas.
+  - Melhoria no desempenho tecnológico.
+  - etc.
+
+- Início: anos de gestação podem ser necessários para uma tecnologia emergente.
+- Crescimento Rápido: geralmente é acelerada pela exposição de mercados de massa.
+- Exploração: leva a uma rápida proliferação de novos produtos e empresas.
+- Maturidade: ritmo do desenvolvimento tecnológico geralmente diminui devido à aproximação dos limites de desempenho e difusão em um mercado saturado.
+:::
+
+::: 
+:::
+:::
+
+## Identificar TT {.smaller}
+
+<br>
+
+::: columns
+::: {.column width="35%"}
+
+### Patentes {.smaller}
+
+- [USPTO](https://www.uspto.gov)
+- [INPI](https://inpi.gov.br)
+- [Google Patents](https://patents.google.com)
+- [Derwent Innovation](https://www.derwentinnovation.com)
+
+<br>
+
+### Artigos Científicos {.smaller}
+
+- [Scopus](https://www.scopus.com/)
+- [Web of Science - WoS](https://www.webofscience.com)
+- [OpenAlex](https://openalex.org/)
+
+:::
+
+::: {.column width="65%"}
+
+### Redes
+
+```{r, fig.width=14, fig.height=12}
+#| echo: true
+#| code-fold: true
+#| label: fig-rede1
+#| fig-cap: "Rede de citação"
+#| fig-subcap: 
+#|   - "Citações"
+#|   - "Citações com Layout de Árvore"
+#| layout-ncol: 2
+#| warning: false
+
+library(igraph)
+library(tibble)
+
+igraph::graph_from_data_frame(
+  tibble::tribble(
+    ~from, ~to,
+    "A", "C",
+    "B", "C",
+    "B", "D",
+    "B", "J",
+    "C", "E",
+    "C", "H",
+    "D", "F",
+    "D", "I",
+    "J", "M",
+    "E", "G",
+    "F", "H",
+    "F", "I",
+    "G", "H",
+    "I", "L",
+    "I", "M",
+    "H", "K",
+    "M", "N"
+  ),
+  directed = TRUE) ->
+  net
+
+plot(
+  net,
+  vertex.label = V(net)$name, # Rótulos dos vértices
+  vertex.color = "lightblue", # Cor dos vértices
+  vertex.size = 30, # Tamanho dos vértices
+  vertex.label.color = "black", # Cor do texto dos vértices
+  vertex.label.cex = 3, # Tamanho da fonte do texto
+  edge.arrow.size = 2, # Tamanho da seta
+  edge.width = 4, 
+  layout = igraph::layout_with_kk(net)
+)
+
+plot(
+  net,
+  vertex.label = V(net)$name, # Rótulos dos vértices
+  vertex.color = "lightblue", # Cor dos vértices
+  vertex.size = 30, # Tamanho dos vértices
+  vertex.label.color = "black", # Cor do texto dos vértices
+  vertex.label.cex = 3, # Tamanho da fonte do texto
+  edge.arrow.size = 2, # Tamanho da seta
+  edge.width = 4, 
+  layout = igraph::layout_as_tree(net, root = "B") # Layout em árvore com o nó A como raiz
+)
+```
+
+::: 
+:::
+
+
+## Main Path Analisys {.smaller}
+
+::: {.panel-tabset}
+
+### Hummon 1989 {.smaller}
+
+::: columns
+::: {.column width="35%"}
+
+::: {style="font-size: 85%; text-align: left; "}
+
+- Análise de Caminho Principal (pt_br) @Hummon1989
+
+- Hummon e Doreian (1989) propuseram a metodologia.
+
+- Objetivo: captar o principal fluxo de ideias via redes de citações (artigos ou patentes).
+
+- Directed Acyclic Graph (DAG)
+  - se nó $i$ cita nó $j$, não existe citação do nó $j$ para o nó $i$.
+
+- **Passo 1**: calcular os pesos das citações:
+  - Search path link count (SPLC); @Hummon1989
+  - Search path node pair (SPNP); @Hummon1989
+  - Node pair projection count (NPPC). @Hummon1989
+  - Search path count (SPC) @Batagelj2003
+
+- **Passo 2**: encontrar o caminho mais significativo:
+  - Local search @Hummon1989
+  - Global search 
+  - Key-route search @Liu2019
+
+:::
+:::
+
+::: {.column width="65%"}
+
+::: {style="font-size: 75%; text-align: left; "}
+- Passo 1: o valor de SPC para o link (B, D) é 5 porque cinco caminhos (B-D-F-H-K, B-D-F-I-L, B-D-F-I-M-N, B-D-I-L e B-D-I-M-N) passam por ele. 
+- Passo 2: global search (B, N) está em vermelho, é o caminho com maior peso (5 + 3 + 2 + 2 + 3 = 15). 
+:::
+
+```{r, fig.width=14, fig.height=15}
+#| echo: true
+#| code-fold: true
+#| label: fig-rede-mpa
+#| fig-cap: "Main Path Analisys"
+#| fig-subcap: 
+#|   - "Passo 1"
+#|   - "Passo 2"
+#| layout-ncol: 2
+#| warning: false
+
+spc <- function(g) {
+  linegraph <- make_line_graph(g)
+  source_edges <- V(linegraph)[degree(linegraph, mode = "in") == 0]
+  sink_edges <- V(linegraph)[degree(linegraph, mode = "out") == 0]
+  tabulate(
+    unlist(
+      lapply(
+        source_edges,
+        all_simple_paths,
+        graph = linegraph,
+        to = sink_edges,
+        mode = "out"
+      )
+    )
+  )
+}
+
+main_search <- function(g) {
+  linegraph <- make_line_graph(g)
+  V(linegraph)$spc <- spc(g)
+  source_edges <- V(linegraph)[degree(linegraph, mode = "in") == 0]
+  sink_edges <- V(linegraph)[degree(linegraph, mode = "out") == 0]
+  paths <- unlist(
+    lapply(
+      source_edges,
+      all_simple_paths,
+      graph = linegraph,
+      to = sink_edges,
+      mode = "out"
+    ),
+    recursive = FALSE
+  )
+  path_lengths <- unlist(lapply(paths, function(x) sum(x$spc)))
+  vertex_attr(linegraph, "main_path") <- 0
+  vertex_attr(
+    linegraph,
+    "main_path",
+    paths[[which(path_lengths == max(path_lengths))[[1]]]]
+  ) <- 1
+  V(linegraph)$main_path
+}
+
+plot(
+  net,
+  vertex.label = V(net)$name, # Rótulos dos vértices
+  vertex.color = "lightblue", # Cor dos vértices
+  vertex.size = 25, # Tamanho dos vértices
+  vertex.label.color = "black", # Cor do texto dos vértices
+  vertex.label.cex = 3, # Tamanho da fonte do texto
+  edge.arrow.size = 2, # Tamanho da seta
+  edge.width = 8, 
+  # edge.color = ifelse(edge_labels == 1, "red", "gray"), # Caminho principal em vermelho
+  # edge.width = ifelse(edge_labels == 1, 4, 2), # Espessura do caminho principal
+  edge.label = spc(net),
+  edge.label.cex = 5,
+  edge.label.color = 'brown',
+  layout = layout_as_tree(net, root = "B") # Layout em árvore com o nó A como raiz
+)
+
+edge_labels <- main_search(net)
+
+plot(
+  net,
+  vertex.label = V(net)$name, # Rótulos dos vértices
+  vertex.color = "lightblue", # Cor dos vértices
+  vertex.size = 25, # Tamanho dos vértices
+  vertex.label.color = "black", # Cor do texto dos vértices
+  vertex.label.cex = 3, # Tamanho da fonte do texto
+  edge.arrow.size = 2, # Tamanho da seta
+  edge.width = 8, 
+  edge.color = ifelse(edge_labels == 1, "red", "gray"), # Caminho principal em vermelho
+  edge.width = ifelse(edge_labels == 1, 4, 2), # Espessura do caminho principal
+  # edge.label = spc(net),
+  # edge.label.cex = 3,
+  layout = layout_as_tree(net, root = "B") # Layout em árvore com o nó A como raiz
+)
+```
+
+:::
+:::
+
+### Batagelj 2003 {.smaller}
+
+::: columns
+::: {.column width="30%"}
+
+<br>
+
+![](images/batagelj-v2.jpg){width=60% fig-align="center"}
+
+::: {style="font-size: 60%; text-align: left; "}
+Fonte: <https://images.app.goo.gl/uXg2ezPVmn5vhtdd9>
+:::
+
+:::
+
+::: {.column width="40%"}
+
+<br>
+
+Batagelj 2003 @Batagelj2003 propos algoritmos eficientes para tornar o método possível para grandes bases de dados.
+
+- Search path link count (SPLC) @Hummon1989
+- Search path node pair (SPNP) @Hummon1989
+- ~~Node pair projection count (NPPC)~~ @Hummon1989 $N^2$
+
+<br>
+
+E adicionou mais uma forma de calcular os pesos das citações:
+
+- Search path count (SPC) @Batagelj2003
+
+:::
+
+::: {.column width="30%"}
+
+![](images/batagelj2003fig1.png)
+
+::: {style="font-size: 60%; text-align: right; "}
+Fonte: Batagelj 2003 Efficient Algorithms for Citation Network Analysis.
+:::
+:::
+:::
+
+### Verspagem 2007 {.smaller}
+
+::: columns
+::: {.column width="70%"}
+
+![](images/verpagen2007-fig3.png)
+
+:::
+
+::: {.column width="30%"}
+
+Primeira grande aplicação do método, 3371 patentes. @Verspagen2007
+
+<br>
+
+![](images/verstagen.jpg){fig-align="center"}
+
+::: {style="font-size: 60%; text-align: right; "}
+Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
+:::
+
+
+:::
+:::
+
+###  Liu 2011 {.smaller}
+
+::: columns
+::: {.column width="30%"}
+
+- Key-route search @Liu2011 
+
+- Mais de uma rota.
+
+:::
+
+::: {.column width="70%"}
+
+![](images/liu2011-fig8.png){width=55% fig-align="center"}
+
+:::
+:::
+
+### Masago 2022 {.smaller}
+
+::: columns
+::: {.column width="40%"}
+
+
+- Topological Skeleton 
+
+> O algoritmo Topological Skeleton foi desenvolvido usando o algoritmo SPLC para identificar as trajetórias mais significativas na estrutura da rede. O novo algoritmo baseia-se na avaliação de diferentes trajetórias para a rede de citações, buscando as trajetórias com o maior valor total de SPLC a partir dos nós de pontos iniciais ou pontos finais da rede. Os valores de SPLC são considerados pesos de estrutura e estão associados a todas as bordas da rede de citações. @Masago2022
+
+:::
+
+::: {.column width="60%"}
+![](images/masago2022-fig5.png){width=85% fig-align="center"}
+:::
+
+:::
+
+### Demais contribuições
+
+<br>
+
+- Buscar caminhos utiliando abordagem estocástica. @Yeo2013
+
+- Métodos de contagens transversais de pesos: @Liu2015
+  - SPAD
+  - SPGD
+  - SPHD
+
+- Método para identificar a importância publicações intermediárias. @Subelj2020
+
+- Método baseado na persistência de conhecimento ao longo da trajetórias. @Park2017
+
+- Método que possibilita identificar caminhos intermediários derivados. @Kim2018 
+
+:::
+
+## MPA na Wikipédia {.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+**Pesos**
+
+::: {.panel-tabset}
+
+### SPC {.smaller}
+
+![](images/SPC.png)
+
+### SPLC {.smaller}
+
+![](images/SPLC.png)
+
+### SPNP {.smaller}
+
+![](images/SPNP.png)
+:::
+:::
+
+::: {.column width="50%"}
+
+**Busca** SPC
+
+::: {.panel-tabset}
+
+### Local
+
+![](images/Local_main_paths_SPC.png)
+
+
+### Global
+
+![](images/Global_main_paths_SPC.png)
+
+### Local key-route
+
+![](images/Local_key-route_main_paths_SPC.png)
+
+
+### Global key-route
+
+![](images/Global_key-route_main_paths_SPC.png)
+
+:::
+:::
+:::
+
+## MPA Softwares {.smaller}
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+- [pajek](http://mrvar.fdv.uni-lj.si/pajek/)
+  - software de cientista
+  - dependente do Windows
+
+<br>
+
+- [Python library - techminer](https://jdvelasq.github.io/techminer/main-path-analysis.html)
+  - linha de comando
+
+<br>
+
+<!--
+- [StackOverflow implementations](https://stackoverflow.com/questions/67792685/main-path-analysis-in-citation-network-using-igraph-in-r)
+-->
+
+- [Leydesdorff - histcite](https://www.leydesdorff.net/histcite/)
+  - software de cientista
+
+<br>
+
+:::
+
+::: {.column width="50%"}
+
+- Jiang 2019
+  - [software em java](https://sites.google.com/view/xiaoruijiang/research/software_and_datasets)
+  - software de cientista
+  - documentação limitada
+
+<br>
+
+- [PyMAP - mpa_splc](https://github.com/felipefrr/mpa_splc)
+  - linha de comando
+  - interface gráfica
+  - documentação limitada
+
+<br>
+
+- extensão do Gephi
+  - perdeu o código fonte
+  - dependente de uma versão do Java
+  - documentação limitada
+
+::: 
+::: 
+
+## Próximo
+
+- <span style="color:red;">TODO</span>
+  - Alan Porter
+  - Método de Emergência
+
+
+## Indicadores {.smaller}
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+- Corrocher 2021 
+  - Opportunity
+  - Cumulativeness
+  - Originality
+  - Complexity
+  - Technological cycle
+  - Stock of knowledge
+ 
+- Subelj 2020
+  - Intermediacy 
+
+- Shin 2022
+  - novelty
+
+- Li 2022
+  - estima curva em S
+
+:::
+
+::: {.column width="50%"}
+
+- Liu 2020
+  - perplexity
+
+- Kim 2018
+  - juncture 
+  - divergence
+  - convergence
+
+- Ding 2024
+  - trajectory prediction with temporal networks
+    - cited by
+    - aplied by
+    - belongs to
+
+- Chen 2012
+  - overlap between communities
+  - technology cycle time 
+
+::: 
+:::
+
+## Vertical tabset
+
+<span style="color:red;">TODO</span>
 
 ## {background-image="images/biblioteca-alexandria.jpg" data-menu-title="Análise preliminar"}
 
@@ -88,115 +1147,9 @@ csl: acta-medica-peruana.csl
 <br>
 <br>
 
+
 ::: {style="font-size: 70px; text-align: center; font-weight: bold; background-color:AliceBlue; color: Olive;"}
-Tamanho da ciência como desafio
-:::
-
-## Tempo para a ciência dobrar de tamanho {.smaller}
-
-::: columns
-::: {.column width="35%"}
-
-```{r}
-#| eval: true 
-#| echo: false
-#| warning: false
-library(highcharter) 
-library(dplyr) 
-library(readr) 
-
-periodo1 <- 1980:2022
-
-readr::read_table('analyze.txt', skip = 1, col_names = F) |> 
-  dplyr::select(1:2) |>
-  dplyr::rename(PY = X1, Papers = X2) |> 
-  dplyr::arrange(PY) ->
-  pub
-
-pub |>
-  dplyr::filter(PY %in% periodo1) |> 
-  dplyr::mutate(trend = 1:dplyr::n()) -> 
-  d
-
-d$lnp <- log(d$Papers)
-
-# linear model
-m1 <- lm(lnp ~ trend, data = d)
-# summary(m1)
-
-beta0 <- m1$coefficients[[1]]
-beta1 <- m1$coefficients[[2]]
-
-# no linear model
-m2 <- nls(Papers ~ b0 * exp(b1 * (PY - min(periodo1))), start = list(b0 = beta0, b1 = beta1), data = d)
-
-# summary(m2)
-# sjPlot::tab_model(m3, digits = 3)
-
-d$predicted <- coef(m2)[1] * exp(coef(m2)[2] * (d$PY - min(periodo1)))
-
-d |> 
-  dplyr::mutate(Year = PY) |>
-  dplyr::mutate(predicted = round(predicted, 0)) -> 
-  d
-
-periodo2 <- min(periodo1):(max(periodo1) + 4)
-predicted <- tibble::tibble(PY = periodo2, Predicted = round(coef(m2)[1] * exp(coef(m2)[2] * (periodo2 - min(periodo2))), 0)) 
-
-pub |>
-  dplyr::filter(PY %in% periodo1) |>
-  dplyr::full_join(predicted, by = 'PY') |> 
-  dplyr::arrange(PY) |> 
-  dplyr::mutate(Papers = ifelse(PY > max(periodo1), NA, Papers)) |> 
-  dplyr::rename(Year = PY) -> 
-  d2
-```
-
-<br> 
-
-- Previsão pioneira dos anos 1960 @SollaPrice1963 
-  - 15 anos
-
-<br>
-
-- Previsão com método atualizado de 2015 @Bornmann2015 
-  - até 1750: 231 anos
-  - entre 1750 e 1945: 29 anos
-  - entre 1945 e 2010: 9 anos
-
-<br>
-
-- Previsão para o setor farmacêutico
-  - Período `r (paste(min(periodo1), 'a', max(periodo1), sep = ' '))`
-  - Taxa de crescimento: `r (paste(round((exp(coef(m2)[2]) - 1) * 100, digits = 1), '% a.a.', sep = ''))`
-  - Dobrar de tamanho em: `r (paste(round(log(2) / coef(m2)[2], digits = 1), 'anos', sep = ' '))` 
-:::
-
-::: {.column width="65%"}
-
-<br>
-
-```{r}
-#| eval: true 
-#| echo: false
-#| warning: false
-#| fig-height: 6
-#| fig-cap: Publicações 
-
-highcharter::hchart(d2, "column", highcharter::hcaes(x = Year, y = Papers), name = "Publicações", showInLegend = TRUE) |>
-   highcharter::hc_add_series(d2, "line", hcaes(x = Year, y = Predicted), name = "Estimativas", showInLegend = TRUE) |> 
-   highcharter::hc_add_theme(highcharter::hc_theme_google()) |>
-   highcharter::hc_navigator(enabled = FALSE)  |> 
-   highcharter::hc_exporting(enabled = TRUE, filename = 'topic_growth_rate') |>
-   highcharter::hc_xAxis(plotBands = list(list(from = 2022, to = 2022, color = "#330000")))
-```
-
-::: {style="font-size: 20px;"}
-- Obs.: Elaborado pelos autores utilizando `pharma*` no Web of Science, apenas artigos. 
-:::
-
-:::
-
+Apresentação PI Pharma
 :::
 
 ## Coleta de dados $\approx$ 7500 documentos {data-menu-title="Coleta de dados"}
@@ -417,7 +1370,6 @@ Agrupamente de textos considerando a similaridade semântica. @Roberts2019
 
 ![](images/stm4.png){ width=60% }
 
-
 :::
 
 ::: {.column width="40%"}
@@ -439,352 +1391,5 @@ Agrupamente de textos considerando a similaridade semântica. @Roberts2019
 Destaques
 :::
 
-## P&D e inovação no setor farmacêutico 
-
-<br>
-
-::: {style="font-size: 105%;"}
-- **Complexidade**
-- **Colaborações**
-- **Ciclo de desenvolvimento**
-- **Custos e riscos**
-- **Escala**
-- **Produtividade**
-- **Receita**
-- **Lucro**
-- **Incerteza**
-:::
-
-## Complexidade 
-
-<br>
-
-::: {style="font-size: 100%;"}
-  - A **inovação** farmacêutica envolve cada vez mais a **combinação de recursos** financeiros, de capital, de tecnologia, de informação e de propriedade intelectual entre empresas farmacêuticas e outras organizações. @Bower1993
- 
-- As inovações na indústria farmacêutica dependiam de sua **própria pesquisa química**.
-- A atual pesquisa na indústria farmacêutica inclui: **biologia**, **nanotecnologia**, **computação**, e **química**.
-- Para gerenciar essas complexidades tecnológicas, o setor adotou o conceito de **consórcios de pesquisa** como um modelo de geração de conhecimento. @Allarakhia2011
-:::
-
-## Colaborações e *expertises*
-
-::: panel-tabset 
-
-## Inovação Aberta 
-
-<br>
-
-::: {style="font-size: 90%;"}
-- Devido à complexidade tecnológica e ao elevado custo da inovação de produtos - há décadas que as empresas farmacêuticas constroem a sua base de conhecimentos através da colaboração com **universidades**, **centros de investigação** e **empresas de biotecnologia**, combinando forças no desenvolvimento de novos medicamentos e compostos. [@Zhang2016; @Cammarano2017; @Bianchi2011]
-
-- A necessidade de **colaborar externamente** ao longo de todo o processo de **descoberta**, **desenvolvimento**, **fabricação** e **comercialização** é um imperativo. [@Martinez2019]
-:::
-
-## Consórcios
-
-::: {style="font-size: 80%;"}
-- Nos últimos 30 anos existiram mais de 300 consórcios de P&D nos USA, @Olk2019 aplicados a diferentes fases do pesquisa farmacêutica, a saber: [@Ng2015]
-i) pesquisa básica, ii) descoberta do medicamento, iii) pesquisa pré-clínica, iv) pesquisa clínica, v) fabricação, e por fim, vi) marketing, aprovação e pós-aprovação. 
-
-- Em 2016, considerando i\) pesquisa básica, ii) descoberta do medicamente, e iv) pesquisa clínica: 
-  - 141 consórcios de pesquisa envolvendo duas ou mais das 30 maiores empresas farmacêuticas.
-
-- Em 2016, sobre padronizações de dados e outras TIC (Tecnologias da Informação e Comunicação):
-  - 13 consórcios de pesquisa envolvendo duas ou mais das 30 maiores empresas farmacêuticas.
-:::
-
-::: {style="font-size: 125%;"}
-::: {.callout-warning}
-Ex.: Johnson & Johnson participou de 43 consórcios de pesquisa em 2016. 
-:::
-:::
-:::
-
-<!--
-
-## Exemplo Lyrica 
-
-Colaboração entre Pfizer e Universidade de Northwestern. [@Silverman2016]
-
-::: {style="font-size: 80%;"}
-- No final da década de 1980, Richard Silverman, professor de química na Universidade Northwestern, e o acadêmico visitante Ryszard Andruszkiewicz descobriram o composto pregabalina através de uma série de testes laboratoriais, que mais tarde foi comercializado pela Pfizer como o medicamento Lyrica. O medicamento foi aprovado em 120 países para o tratamento de várias doenças e é considerado um medicamento de sucesso, uma vez que as suas receitas ultrapassam o limiar de 1 bilhão de dólares por ano. Silverman, a Northwestern University e os seus parceiros de colaboração utilizaram amplamente a propriedade intelectual nos três níveis ao longo das três fases do processo de inovação aberta utilizado para desenvolver a invenção original e, posteriormente, comercializar o medicamento. [@Bican2017]
-
-- O acordo inicial entre os parceiros atribuía 6% das vendas líquidas à Universidade Northwestern, dos quais 25% eram partilhados com os dois inventores Silverman e Andruszkiewicz. [@Bican2017]
-:::
-
-
-## Japão na contramão {.smaller}
-
-<br>
-
-**Pesquisa centrada em recursos internos** @Bican2017
-
-- A descoberta de medicamentos nas empresas japonesas ocorre predominantemente ao nível da empresa. 
-- Em contrapartida, na descoberta de medicamentos, as empresas farmacêuticas europeias e norte-americanas baseiam-se mais em alianças com empresas farmacêuticas, universidades, e empresas de biotecnologia. 
-- Com explosão de novos conhecimentos biomédicos, o modelo de inovação japonês pode já não ser compatível com a competitividade global.
-
-:::
--->
-
-## Longo ciclo de desenvolvimento
-
-<br>
-
-- O setor é marcado pelos longos ciclos de pesquisa e desenvolvimento e por baixas taxas de sucesso de tratamentos inovadores. 
-
-- A inovação tecnológica na indústria farmacêutica depende de um processo de aprendizagem cumulativa e colectiva. [@Lazonick2011]
-
-- É bastante comum que um pesquisador farmacêutico nunca veja um dos seus projectos ser lançado no mercado, mesmo ao longo de uma carreira de trinta anos. @Chesbrough2013
-
-- As estimativas para o tempo de desenvolvimento a comercialização de um medicamento, são:
-  - entre 10 e 12 anos @Ng2015
-  - 11,8 anos na média @Haakonsson2012
-
-## Custos e riscos 
-
-<br>
-
-- O custo de introdução de um novo produto no mercado aumentou de cerca de 516.8 milhões de dólares em 1991 para cerca de 1,4 bilhão de dólares em 2003 (em dólares de 2023). @DiMasi2003
-
-- A taxa de crescimento estimada dos curtos são de 11,4% por ano, conforme previsão de 2003. @DiMasi2003
-
-- O ambiente exige grandes investimentos iniciais com retornos incertos a posteriori, configurando um cenário de risco.
-
-- Em 2006, os custos de P&D aumentaram 12%, enquanto as vendas aumentaram 7%. @Cekola2007 @Haakonsson2012
-
-## Escala 
-
-<br>
-
-- A indústria farmacêutica é sensível à escala, @Olk2019 caracterizada por: elevado custo/elevado risco/elevada recompensa. @Haakonsson2012 
-
-- A indústria é dominada por empresas líderes globais (big pharmas), que tem produtos viáveis por venderem em larga escala (blockbusters), com receita superior a 1 bilhão de dólares por ano. Os blockbuster normalmente são controlados temporariamente via patente por uma empresa. 
-
-- As grandes empresas respondem por 60% a 80% do total de gastos com P&D do setor. @Kermani2007
-
-- Alguma P&D é gerada por empresas de média dimensão, focada em pesquisas especializada.  
-
-- As empresas que se dedicam à produção de produtos genéricos sem marca e sem patente não são normalmente intensivas em investigação.
-
-## Produtividade
-
-<br>
-
-- O desafio da produtividade da P&D tornou-se particularmente difícil de ultrapassar no setor farmacêutico. O custo de desenvolvimento de um novo medicamento aumentou, tal como as despesas totais de P&D, enquanto a taxa de introdução de novas entidades moleculares (NME) permaneceu, na melhor das hipóteses, aproximadamente constante. @Munos2009 @Pammolli2011 
-
-- O declínio pode ser associado com a concentração dos investimento em P&D em áreas com maior risco de falha. @Pammolli2011
-
-## Receita
-
-<br>
-
-::: columns
-::: {.column width="50%"}
-
-![](images/ng2015-fig1.4.png){width=100%}
-
-::: {style="font-size: 60%;"}
-Fonte: [Ng (2015) Drugs: from discovery to approval.](https://www.wiley.com/en-us/Drugs%3A+From+Discovery+to+Approval%2C+3rd+Edition-p-9781118907276)
-:::
-:::
-
-::: {.column width="50%"}
-::: {style="font-size: 90%;"}
-- Para gerar receita o medicamento precisa chegar ao mercado rápido após concessão da patente. [@Ng2015]
-- A receita cai drasticamente quando a patente expira. 
-  - atorvastatina (Lipitor, Pfizer) patente expirou em novembro de 2011. No melhor ano de vendas, 2006, vendeu 13,7 bilhões de dólares, já em 2013 vendeu 3,45 bilhões de dólares.
-  - clopidogrel (Plavix, Bristol-Myers Squibb) caiu de 7,09 bilhões de dólares em 2011 para 0,3 bilhão de dólares em 2013.
-:::
-:::
-:::
-
-## {data-menu-title="Lucro"}
-
-::: {style="font-size: 100px; text-align: center; font-weight: bold;"}
-Lucro?
-:::
-
-<br>
-
-- **Análise em desenvolvimento para a setor farmacêutico...**
-
-- O setor da **biotecnologia** não teve um bom desempenho, nem na geração de lucros, nem na produtividade da P&D de medicamentos. @Pisano2006
-
-- As empresas de biotecnologia de capital aberto (agregadas como uma só) tiveram lucros consistentemente iguais ou inferiores, enquanto as suas receitas cresceram de forma constante. @Pisano2006
-
-- Sem a parceria e o fluxo de caixa da Big Pharma, muitos dos atuais gigantes da biotecnologia teriam morrido em crianças. @Pisano2006 @Lazonick2011
-
-## Incerteza 
-
-<br>
-
-- As incertezas no processo de P&D resultam em gastos com muitos projetos de desenvolvimento que não são bem-sucedidos na produção de um produto comercializado. @DiMasi2010
-
-- As empresas entram em cooperação com terceiros por vários motivos, por exemplo, porque isso pode ajudar as empresas a reduzir a incerteza em termos de custos e riscos. @Cammarano2017  
-
-- Apenas cerca de uma em cada 10.000 substâncias descobertas na fase de P&D no setor farmacêutico se torna um produto comercializável. @Gassmann2005 @Ziegler2013
-
-- Falso negativo @Chesbrough2013 
-  - Viagra 
-  - Cubicin
-  - Ozempic
-
-## PI no setor farmacêutico
-
-<br>
-
-::: {style="font-size: 125%;"}
-- **PI concorrência e inovação**
-- **Investimentos**
-- **Transferências**
-- **Proteção ótima?**
-- **Emergentes**
-:::
-
-## PI concorrência e inovação 
-
-<br>
-
-- A PI é condição para viabilizar a colaboração em P&D.
-
-- A colaboração em P&D dá acesso à utilização do conhecimento codificado e tácito entre parceiros.
-
-- A compra de direitos de PI é útil e permite explorar conhecimento externos com economia de tempo e recursos.
-
-- O co-patenteamento é crucial para alianças de P&D, uma vez que protege as empresas da exposição de recursos e capacidades críticas durante a transferência de conhecimento, onde o conhecimento economicamente valioso pode ser expropriado 
-
-## PI concorrência e inovação 
-
-<br>
-
-- No contexto da inovação aberta na setor farmacêutico a PI viabiliza colaboração, terceirização e incorporação de P&D externo.
-
-- Face aos elevados custos de desenvolvimento dos medicamentos e a possibilidade de imitação a baixo custo os diretos de propriedade intelectual assumem importância estratégica para a indústria farmacêutica.
-
-- Gestores de P&D da indústria farmacêutica sustentam que a proteção de patentes na indústria farmacêutica é altamente eficaz na proteção contra imitação e importante nas decisões sobre a localização de fábricas e instalações de P&D. 
-
-- O caráter discreto das tecnologias na indústria farmacêutica geram maior eficácia dos direitos de patente sobre as invenções. 
-
-<!--
-::: {style="font-size: 55%;"}
-
-- as redes de colaboração em pesquisa dependem de instrumentos de propriedade intelectual para se desenvolver. @Filieri2014
-
-- @Cammarano2017 
-  - R&D collaboration gives access to both codified and tacit knowledge residing in partners
-  - the purchase of IP rights is useful to exploit external knowledge
-  - co-patenting is crucial for R&D alliances, since it protects firms from the exposition of critical resources and capabilities during the knowledge transfer, where economically valuable knowledge may be expropriated (Belderbos et al., 2014)
-  - Among the Open Innovation (OI) practices adopted to pursue exploration, companies mostly rely on R&D collaboration, outsourcing and incorporation, while the purchase of IP rights is useful to exploit external knowledge.
-  
-- @Toma2018
-  - IP é importante em cenários de inovação aberta, como a setor farmacêutico. 
-
-- @Liu2015
-  - Numerous studies have already recognized that pharmaceutical IPRs are important for industry innovation, as new drugs or improvements to existing drugs are costly to develop and can often be imitated within a short time at relatively low cost (Mansfield et al., 1981; Cockburn et al., 2003; DiMasi et al., 2003; Adams and Brantner, 2010). Numerous surveys of R&D managers in the pharmaceutical industry show that they believe product patent protection for new drugs is highly effective in protecting against imitation and important in firm decisions on location of manufacturing plants and R&D facilities (Levin et al., 1987; Mansfield, 1994; Cohen et al., 2000).
-  - pharmaceutical patent rights provide other important incentives for industry participants.
-
-- @Ziegler2013
-  - The character of pharmaceutical and chemical inventions enables firms to effectively define patent rights over a specific chemical composition and to create temporary monopolies (Levin et al. 1987)
-  - ‘discrete technologies’, i.e., technologies where one patented substance often protects one product.
-
-:::
--->
-
-## Investimentos 
-
-<br>
-
-Em desenvolvimento...
-
-## Transferência 
-
-<br>
-
-Evidências indicam que, em setores de tecnologia relativamente alta, como produtos químicos, produtos farmacêuticos, maquinário e equipamentos elétricos, o sistema de proteção à propriedade intelectual de um país geralmente tem um efeito significativo sobre a quantidade e os tipos de transferência de tecnologia e investimento direto nesse país por parte de empresas.
-
-<!--
-
-@Mansfield2000
-  - The findings indicate that, in relatively high-technology industries like chemicals, pharmaceuticals, machinery, and electrical equipment, a country's system of intellectual property protection often has a significant effect on the amount and kinds of technology transfer and direct investment to that country by Japanese and German, as well as US firms.
--->
-
-## Proteção ótima? 
-
-<br>
-
-- Estudos estabelecem a importância da patente para inovações no setor farmacêutico, embora não exista consenso definindo o nível ótimo de proteção: DPI forte estimula o P&D, já a DPI muito forte desestimula o P&D. 
-
-- A implementação de leis de patentes, por si só, não estimula prontamente a inovação nacional, que depende também de níveis adequados de educação, liberdade econômica, estabilidade macroeconômica... 
-
-::: {style="text-align: center; font-weight: bold; background-color:AliceBlue; color: Olive;"}
-Os debates?
-:::
-
-<!--
-- @Qian2007 
-  - The main findings of this study are that in the group of sampled countries the implementation of patent laws by itself does not promptly stimulate domestic innovation. However, patent laws in nations with high levels of development, education, and economic freedom do stimulate innovation. This study also provides novel empirical support for the theory that the relationship between innovation and the IPR strength has an “inverted U” shape (Gallini, 1992; Horwitz & Lai, 1996). An optimal level of IPR appears to exist, above which additional strengthening actually tends to discourage innovation. 
-  - Although a series of surveys conducted in the United States (Mansfield, Schwartz, & Wagner, 1981; Levin et al., 1987) and Switzerland (Harabi, 1997) uniformly establish the importance of patents for pharmaceutical innovations relative to other industries, it is not clear how much patent protection is optimal.
-
-- @Cho2015
-  - Stronger IPR are beneficial to R&D.
-  - Universally strong IPR policies are likely to discourage innovation and growth.
-
--->
-
-## Emergentes {.scrollable}
-
-<br>
-
-- Resultados preliminares indicam que países em desenvolvimento se beneficiam dos medicamentos genéricos, um subproduto do sistema de propriedade intelectual.
-- Em desenvolvimento...
-
-<!--
-
-::: {style="font-size: 60%;"}
-
-- @Chowdhury2019
-  - allows emerging economies to reverse-engineer patented generic medicine formulae for selling in both local and international markets until 2033 (as per Intellectual Property Watch, 2015). This context provides an opportunity to examine the relationship between corporate performance and intellectual capital utilisation (Campanella et al., 2014).
-  - Bangladesh pharmaceutical sector provides almost 97 per cent of the total medicinal requirements of the Bangladesh market and exports medicines to global markets. With improvements in medical research, access to medical information via the internet (Murray et al., 2016) and an increase in the number of health-conscious individuals, Bangladesh pharmaceutical sector has the highest mandate to use its intellectual capital efficiently, be it in human capital, structural capital or capital employed.
-  - Bangladesh is uniquely positioned regarding local sales volumes and export volumes of quality generic medicines
-  - On the global platform, it may emerge as the leading global producer of off-patented generic drugs with backward integration, scientific facilities for quality R&D (LR Global, 2017; Murray et al., 2016). Thus, intellectual capital efficiency is a significant determinant in the sustainable organisational success of the Bangladeshi pharmaceutical industry.
-  - As of June 2016, the top 10 companies represented 69.1 per cent of the local market share, demonstrating the highly concentrated nature of the industry in terms of revenue.
-
-@ThakurWernz2022
-
-We find that differences in the IPR regime at the time a firm was founded led to subsequent differences in firms’ propensity to innovate and their nature of innovations. Building on institutional change theory, **we argue that firms created under the pre-TRIPS regime, which we refer to as de alio firms, have a lower propensity to innovate and have a focus on process innovations. De novo firms, which are firms created under TRIPS, have a greater propensity to innovate and have a focus on product innovations.** Further, we study how international technology alliances have helped Indian bio-pharmaceutical firms to overcome their limitations arising due to institutional imprints and to improve their innovation capabilities.
-
-:::
--->
-
-<!--
-## callout's {.scrollable}
-
-::: {.callout-note}
-## Note
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
-:::
-
-::: {.callout-tip}
-## Tip
-This is an example of a callout with a title.
-:::
-
-::: {.callout-caution}
-## Caution
-This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
-:::
-
-::: {.callout-warning}
-## Warning
-This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
-:::
-
-::: {.callout-import}
-## Important
-This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
-:::
--->
-
 ## Referências
+
