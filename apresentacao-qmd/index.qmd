@@ -48,7 +48,7 @@ Fonte: Fogel (1999) Catching Up with the Economy. American Economic Review. @Fog
 
 ### Roser (2023) Completa
 
-![](images/technological-change-v2.png){width=30% fig-align="center"}
+![](images/technological-change-v2.png){width=28% fig-align="center"}
 
 ::: {style="font-size: 80%; text-align: right; "}
 Ver Roser (2023) Technology over the long run: zoom out to see how dramatically the world can change within a lifetime. Our World in Data. @Roser2023
@@ -189,6 +189,10 @@ Fonte: <https://data.worldbank.org>
 
 :::
 
+::: {.notes}
+Derek John de **Solla Price** foi um físico, historiador da ciência e cientista da informação, conhecido principalmente como o pai da cienciometria. 
+:::
+
 :::
 
 ## {background-image="images/DALLE_Expanded_uncertainty_landscape_2560x1440.png" data-menu-title="Análise preliminar" background-position="center center" background-size="cover"}
@@ -229,6 +233,12 @@ Fonte: https://images.app.goo.gl/zwu7u92cyMYmDpSe8
 **DALL·E 3**
 :::
 
+::: {.notes}
+- Michel de Nostredame, geralmente latinizado como Nostradamus, foi um astrólogo, médico e vidente francês de renome, mais conhecido por seu livro Les Prophéties, uma coleção de 942 quadras poéticas supostamente prevendo eventos futuros
+- Nascimento 1503
+- Morte 1566
+:::
+
 :::
 
 ## Previsões Erradas sobre Tecnologia  {.smaller}
@@ -248,6 +258,12 @@ Fonte: https://images.app.goo.gl/zwu7u92cyMYmDpSe8
 5. **Carros Voadores**: Durante as décadas de 1950 e 1960, muitos futuristas previram que teríamos carros voadores em 2000. 
 
 6. **Inteligência Artificial Substituindo Humanos**: Nos anos 1980 e 1990, houve previsões de que a inteligência artificial substituiria completamente os humanos em muitas profissões até o início dos anos 2000. 
+
+::: {.notes}
+- Não sou futorologista
+- A futurologia é um campo multidisciplinar que estuda tendências para prever o futuro, com o objetivo de antecipar cenários e situações complexas. 
+- A futurologia não tem o objetivo de acertar um futuro, mas sim de explorar as várias possibilidades de futuros. 
+:::
 
 ## Previsões no Xadrez {.smaller}
 
@@ -283,6 +299,11 @@ Fonte: <https://images.app.goo.gl/PL8siUX3fx7ABzGv6>
 
 - Em 1997 pela primeira vez um campeão mundial, **Garry Kasparov**, foi derrotado por computador, o **Deep Blue** da IBM.
 
+:::
+
+::: {.notes}
+- Magnus Carlsen, Norueguês de 34 anos
+- Hans Niemann, acusado de trapaça 
 :::
 
 :::
@@ -372,6 +393,10 @@ Diferentemente do xadrez, a economia é um sistema complexo!
 ### Sincronização
 
 {{< video https://www.youtube.com/watch?v=T58lGKREubo width="1200px" height="680px" >}}
+
+::: {.notes}
+- emergindo ordem do caos
+:::
 
 :::
 
@@ -1936,16 +1961,16 @@ gru <- birddog::sniff_groups(net2,
 
 ## Biofertilizantes - `4.5` Groups contents {.smaller .scrollable}
 
-::: {style="font-size: 80%; text-align: left; "}
-|  			 		 |                                                                                                                                                                                                                                                                                                                                           |                                                                                                    |
-|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-|  			Group 			 			 		                                |  			Keywords 		                                                                                                                                                                                                                                                                                                                                |  			Description 		                                                                                      |
-|  			g01 		                                    |  			microalgae 			biomass; fixing cyanobacteria; algal biomass; anabaena sp.; 			proline content; mm nacl; c. vulgaris; polyphenol oxidase; 			antioxidant enzymes; wastewater treatment; microalgae cultivation; 			chlorella vulgaris; ascorbate peroxidase; nostoc muscorum; aqueous 			extract 		                                                         |  			Bactérias, microalgas e cianobactérias tolerantes ao estresse para melhorar o crescimento e a produtividade das culturas 		      |
-|  			g02 		                                    |  			phylogenetic 			analysis; hydrogen cyanide; acetic acid; insoluble phosphate; pgp 			traits; inorganic phosphate; p solubilization; acetic acid 			production; phosphate solubilization; solubilization index; growth 			promotion; enterobacter sp.; complete genome; endophytic bacteria; 			rhizobacterial isolates 		                                 |  			Bactérias endofíticas solubilizadoras de fosfato: Potencial de promoção do crescimento de plantas (PGP) 		               |
-|  			g03 		                                    |  			food 			waste ; anaerobic digestion; biogas production; bovine 			biofertilizer; methane production; swine manure; bovine manure; 			cycle assessment; black soldier; liquid digestate; life cycle 			assessment; waste treatment; solid waste; anaerobic digestates; 			olive mill wastewater 		                                                         |  			Produção de biofertilizante e biogás por meio de resíduos de alimentos e esterco 		                               |
-|  			g04 		                                    |  			net 			returns; available n; am fungi; effect of integrated nutrient 			management; integrated nutrient; kg zn; 30 cm; microbial biomass 			carbon; biomass carbon; mycorrhizal inoculation; effect of 			integrated nutrient; kg p2o5 ha; p2o5 ha; treatment combinations; 			sources of nutrients  			 		                                                  |  			Adubos orgânicos e micróbios para o gerenciamento integrado de nutrientes  			 		                              |
-|  			g05 		                                    |  			soil 			microbiome; continuous cropping; fungal community; fusarium wilt; 			microbial communities; bacterial communities; fungal communities; 			banana fusarium; microbial community composition; community 			composition; soil microbial diversity; redundancy analysis; 			relative abundances; soil microbial communities; disease 			suppression  			 		 |  			Microbioma e diversidade microbiana para supressão de doenças em um cenário de agricultura sustentável 		 |
-|  			g06 		                                    |  			cm 			inter; row spacing; inoculation with biofertilizer; 23.8 t; 23.8 t 			ha; rotten straw; 150 kg; absorbent polymer; kitchen waste oil; 			waste oil; yellow passion; oil yield; foliar contents; tiller 			number; pgpr strains 		                                                                                                                |  			Estratégias de Azospirillum como uma rizobactéria promotora do crescimento de plantas (PGPR) 		                       |
+::: {style="font-size: 78%; text-align: left; "}
+|  			 		 |                                |                                                                                                    |
+|------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Group 			 			 		                      |	Keywords 		                                                                                                                                                                                                                                                                                                                                |  			**Description** 		                                                                                      |
+| g01 		                                    |	microalgae 			biomass; fixing cyanobacteria; algal biomass; anabaena sp.; 			proline content; mm nacl; c. vulgaris; polyphenol oxidase; 			antioxidant enzymes; wastewater treatment; microalgae cultivation; 			chlorella vulgaris; ascorbate peroxidase; nostoc muscorum; aqueous 			extract 		                                                         |  			[Bactérias, microalgas e cianobactérias tolerantes ao estresse para melhorar o crescimento e a produtividade das culturas]{style="font-size: 120%; "}		      |
+| g02 		                                    |	phylogenetic 			analysis; hydrogen cyanide; acetic acid; insoluble phosphate; pgp 			traits; inorganic phosphate; p solubilization; acetic acid 			production; phosphate solubilization; solubilization index; growth 			promotion; enterobacter sp.; complete genome; endophytic bacteria; 			rhizobacterial isolates 		                                 |  			[Bactérias endofíticas solubilizadoras de fosfato: Potencial de promoção do crescimento de plantas (PGP)]{style="font-size: 120%; "}		               |
+| g03 		                                    |	food 			waste ; anaerobic digestion; biogas production; bovine 			biofertilizer; methane production; swine manure; bovine manure; 			cycle assessment; black soldier; liquid digestate; life cycle 			assessment; waste treatment; solid waste; anaerobic digestates; 			olive mill wastewater 		                                                         |  			[Produção de biofertilizante e biogás por meio de resíduos de alimentos e esterco]{style="font-size: 120%; "} 		                               |
+| g04 		                                    |	net 			returns; available n; am fungi; effect of integrated nutrient 			management; integrated nutrient; kg zn; 30 cm; microbial biomass 			carbon; biomass carbon; mycorrhizal inoculation; effect of 			integrated nutrient; kg p2o5 ha; p2o5 ha; treatment combinations; 			sources of nutrients  			 		                                                  |  			[Adubos orgânicos e micróbios para o gerenciamento integrado de nutrientes]{style="font-size: 120%; "} 			 		                              |
+| g05 		                                    |	soil 			microbiome; continuous cropping; fungal community; fusarium wilt; 			microbial communities; bacterial communities; fungal communities; 			banana fusarium; microbial community composition; community 			composition; soil microbial diversity; redundancy analysis; 			relative abundances; soil microbial communities; disease 			suppression  			 		 |  			[Microbioma e diversidade microbiana para supressão de doenças em um cenário de agricultura sustentável]{style="font-size: 120%; "} 		 |
+| g06 		                                    |	cm 			inter; row spacing; inoculation with biofertilizer; 23.8 t; 23.8 t 			ha; rotten straw; 150 kg; absorbent polymer; kitchen waste oil; 			waste oil; yellow passion; oil yield; foliar contents; tiller 			number; pgpr strains 		                                                                                                                |  			 [Estratégias de Azospirillum como uma rizobactéria promotora do crescimento de plantas (PGPR)]{style="font-size: 120%; "} 		                       |
 :::
 
 ## `4.6` Groups evolution `g01` {.smaller .scrollable}
@@ -2804,7 +2829,7 @@ plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showl
 
 ::::
 
-## Hubs  {.smaller}
+## Biofertilizantes - Hubs  {.smaller}
 
 :::: {.panel-tabset}
 
@@ -2939,7 +2964,7 @@ Fonte: Guimera and Amaral (2005) @Guimera2005 Functional cartography of complex 
 
 ::::
 
-## Distribuição geográfica  {.smaller}
+## Biofertilizantes - Distribuição geográfica  {.smaller}
 
 :::: {.panel-tabset}
 
@@ -2973,14 +2998,29 @@ Fonte: Guimera and Amaral (2005) @Guimera2005 Functional cartography of complex 
 
 ::::
 
-## STM
+## Biofertilizantes - STM
+
+<br>
+<br>
+<br>
+
+![](images/topic-modeling-working.png){width="66%" fig-align="center"}
+
+::: {style="font-size: 50%; text-align: right ; "}
+Fonte: <https://images.app.goo.gl/PGwTHKQUgcjt4BMP9>
+:::
+
+::: {.notes}
+Cansaço da audiência.
+:::
 
 ## TODO  {.smaller}
 
 :::: columns
 ::: {.column width="40%"}
 
-**Indicadores por grupo**
+::: {.callout-tip}
+## Indicadores por grupo
 
 - [ ] Corrocher 2021 @Corrocher2021
   - Opportunity
@@ -2995,12 +3035,13 @@ Fonte: Guimera and Amaral (2005) @Guimera2005 Functional cartography of complex 
   - novelty
 - [ ] Li 2022 @Li2022
   - estima curva em S
-
+:::
 :::
 
 ::: {.column width="40%"}
 
-**Indicadores por grupo**
+::: {.callout-tip}
+## Indicadores por grupo
 
 - [ ]  Liu 2020 @Liu2020
   - perplexity
@@ -3016,22 +3057,28 @@ Fonte: Guimera and Amaral (2005) @Guimera2005 Functional cartography of complex 
 - [ ] Chen 2012 @Chen2012
   - overlap between communities
   - technology cycle time 
-
+:::
 :::
 
 ::: {.column width="20%"}
 
 <br>
 
-**Difusão tecnológica**
+::: {.callout-note}
+## Difusão tecnológica
 
-Conectar as trajetórias com indicadores de maturidade tecnológica. Exemplo TRL.
+- Conectar as trajetórias com indicadores de presença da tecnologia no mercado. 
+- Exemplo TRL (Technology Readiness Levels).
+:::
 
 <br>
 
-**birddog**
+
+::: {.callout-important}
+## birddog
 
 Lançar para o plúblico o pacote de R `birddog`.
+:::
 
 :::
 :::: 
@@ -3067,7 +3114,10 @@ Lançar para o plúblico o pacote de R `birddog`.
 
 - Ver Small 2014 @Small2014 and Xu 2019 @Xu2019.
 
-<!-- - Ex.: Acrocomia na Alemanha -->
+
+::: {.notes}
+Ex.: Acrocomia na Alemanha
+:::
 
 :::
 ::::
