@@ -3134,14 +3134,21 @@ Ex.: Acrocomia na Alemanha
 <br>
 <br>
 
-- Sala 310, Faculdade de Economia - UFMT, Cuiabá - MT 
-- [roneyfraga.com](https://roneyfraga.com)
-- <roneyfraga@gmail.com>
-- `@roneyfraga` [telegram]{style="font-size: 85%; "}
-- [http://lattes.cnpq.br/6380212729787758](http://lattes.cnpq.br/6380212729787758)
-- [https://github.com/roneyfraga](https://github.com/roneyfraga)
-- [https://scholar.google.com.br](https://scholar.google.com.br/citations?user=xsbuansAAAAJ&hl=pt-BR)
-- [www.researchgate.net](https://www.researchgate.net/profile/Roney-Souza-2)
+Sala 310, Faculdade de Economia - UFMT, Cuiabá - MT.
+
+[roneyfraga.com](https://roneyfraga.com)
+
+<roneyfraga@gmail.com>
+
+`@roneyfraga` [telegram]{style="font-size: 85%; "}
+
+[http://lattes.cnpq.br/6380212729787758](http://lattes.cnpq.br/6380212729787758)
+
+[https://github.com/roneyfraga](https://github.com/roneyfraga)
+
+[https://scholar.google.com.br](https://scholar.google.com.br/citations?user=xsbuansAAAAJ&hl=pt-BR)
+
+[www.researchgate.net](https://www.researchgate.net/profile/Roney-Souza-2)
 
 ::: footer
 [https://github.com/roneyfraga/2024-enecomat](https://github.com/roneyfraga/2024-enecomat)
