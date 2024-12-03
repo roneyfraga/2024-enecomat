@@ -179,7 +179,9 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 
 ---------
 
-![](images/patents-over-time.png){width=80% fig-align="center"}
+<br>
+
+![](images/patents-over-time-v2.png){width=100% fig-align="center"}
 
 ::: {style="font-size: 70%; text-align: right; "}
 Fonte: <https://data.worldbank.org>
@@ -287,9 +289,54 @@ Fonte: <https://images.app.goo.gl/PL8siUX3fx7ABzGv6>
 
 ## Economia como um Sistema Complexo {.smaller .scrollable}
 
+::: {.panel-tabset}
+
+### &darr; Xadrez &uarr; Pêndulo
+
+::: columns
+::: {.column width="40%"}
+
+::: {style="font-size: 80%; "}
 ::: {.callout-note}
 Diferentemente do xadrez, a economia é um sistema complexo!
 :::
+
+- 1987 prêmio oferecido pelo rei da Suécia para provar que o sistema solar é estável
+
+- 1989 **Henri Poincaré**, descobriu o contrário, a teoria do caos
+  - matemático e físico francês
+  - o sistema solar é instável
+  - se jupter e mercúrio entrarem em ressonância eles irão desastabilizar o sistema solar
+
+- 1950 **Edward Lorenz**
+  - matemático e meteorologista dos EUA, com 38 anos
+  - previsões de meteorologia, quando mudava de 6 dígitos para 3 dígitos, os resultados das previsões alteravam radicalmente
+  - A teoria do caos trata de sistemas complexos que apresentam um fenômeno fundamental de instabilidade chamado sensibilidade às condições iniciais que, modulando uma propriedade suplementar de recorrência, torna-os não previsíveis na prática a longo prazo. 
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.panel-tabset}
+
+### Pêndulo
+
+{{< video https://www.youtube.com/watch?v=U39RMUzCjiU width="900px" height="600px" >}}
+
+### Pêndulo 5 graus
+
+{{< video https://www.youtube.com/watch?v=9LQot9YbIM0 width="900px" height="600px" >}}
+
+### Pêndulo simulado
+
+{{< video https://www.youtube.com/watch?v=q1-cwamhwag width="900px" height="600px" aspect-ratio="21x9" start="430" >}}
+
+:::
+:::
+:::
+
+### Características
 
 ::: columns
 ::: {.column width="50%"}
@@ -318,14 +365,55 @@ Diferentemente do xadrez, a economia é um sistema complexo!
 8. **Propriedades Emergentes**:
    - As propriedades de um sistema complexo não podem ser compreendidas apenas pela análise de suas partes isoladas; o todo é mais que a soma das partes.
 :::
-:::
-
-::: {.callout-tip}
-Exemplos de sistemas complexos: [Pendulo duplo](https://www.youtube.com/shorts/HjwIfEyT8bI), [Pêndulo simulado](https://www.youtube.com/watch?v=4RXl0QxxHzg) e [Pêndulo 5 graus de liberdade.](https://www.youtube.com/watch?v=9LQot9YbIM0)
-:::
 
 :::
+:::
 
+### Sincronização
+
+{{< video https://www.youtube.com/watch?v=T58lGKREubo width="1200px" height="680px" >}}
+
+:::
+
+<!-- 
+https://www.youtube.com/watch?v=q1-cwamhwag 
+
+- 1987 prêmio oferecido pelo rei da Suécia para provar que o sistema solar é estável
+
+- Henri Poincaré, descobriu o contrário
+  - matemático e físico francês
+  - descobriu a teoria da caos em 1899
+  - o sistema solar é instável
+
+- se jupter e mercúrio entrarem em ressonância eles irão desastabilizar o sistema solar
+- silumações: 
+  - i. os aproximando do sol
+  - ii. os afastando do sol
+  - iii. provacando uma colisão entre mercúrio e jupiter
+- 5 milhões é o ano para o evento ocorrer 
+
+- Edward Lorenz
+  - American mathematician and meteorologist
+  - 1950, com 38 anos
+  - previsões de meteorologia, quando mudava de 6 dígitos para 3 dígitos, os resultados das previsões alteravam radicalmente
+  - A teoria do caos trata de sistemas complexos que apresentam um fenômeno fundamental de instabilidade chamado sensibilidade às condições iniciais que, modulando uma propriedade suplementar de recorrência, torna-os não previsíveis na prática a longo prazo. 
+  - efeito borboleta
+  - Atrator de Lorenz, mapa dos sistemas complexos em ação
+  - pêndulo duplo, melhor exemplo, menos abstrato, pequena mudança no começo altera o resultado final
+
+Pergunta que ainda não temos resposta:
+  - se o caos é tão comum, pq o mundo parece tão ordenado?
+  - aparentimento os sistemas se adaptam quando estão perto de tornar-se totalmente caótico
+  - adaptative systems:
+    - criaturas vivas
+    - instituições
+    - sociedade
+  - self organized criticality
+
+- eficiência é a mistura ideal de caos e ordem
+
+
+-->
 
 ## {background-image="images/complexities-books-cover.png" data-menu-title="Livros sobre complexidade"}
 
@@ -358,7 +446,7 @@ Fonte: <https://images.app.goo.gl/R2VeTdEKSDoQugGF6>
 
 **Livros**
 
-1. "The Theory of Economic Development" (1911): introduziu o conceito de "destruição criativa", a ideia de que o progresso econômico envolve a destruição de velhas estruturas e a criação de novas.
+1. "The Theory of Economic Development" (1911): introduziu o conceito de "destruição criadora", a ideia de que o progresso econômico envolve a destruição de velhas estruturas e a criação de novas.
 
 <br>
 
@@ -367,8 +455,10 @@ Fonte: <https://images.app.goo.gl/R2VeTdEKSDoQugGF6>
 <br>
 
 3. "Capitalism, Socialism and Democracy" (1942): este livro explora a relação entre inovação, democracia e mudança econômica. 
-  - **Capítulo 7: o processo de destruição criadora**
 
+::: {style="font-size: 110%; text-align: center; "}
+- **Capítulo 7: o processo de destruição criadora**
+:::
 
 :::
 
@@ -469,11 +559,11 @@ Fonte: <https://images.app.goo.gl/BW7DSw3wsb2JumoP6>
 
 - Paradigma Científico (Thomas Khun) é modelo de prática científica utilizado em consenso pela comunidade acadêmica.
 
-- Paradigma Tecnológico
-  - um <span style="color: CornflowerBlue;">modelo</span> e um <span style="color: CornflowerBlue;">padrão</span> de solução de determinados problemas tecnológicos, baseados em determinados princípios derivados das ciências naturais e em determinadas tecnologias matérias.
+- **Paradigma Tecnológico**
+  - soluções de determinados problemas tecnológicos, baseados em determinados princípios derivados das ciências naturais e em determinadas tecnologias matérias.
 
-- Trajetórias Tecnológicas
-  - a atividade de solução de problemas é determinada por um paradigma, que pode ser representada pelo movimento de *trade-offs* multidimensionais entre as variáveis tecnológicas que o paradigma define como relevantes.
+- **Trajetórias Tecnológicas**
+  - as soluções de problemas são determinadas por um paradigma, que pode ser representada pelo movimento de *trade-offs* multidimensionais entre as variáveis tecnológicas que o paradigma define como relevantes.
 
 - <span style="color: CornflowerBlue;">Descontinuidade</span>: Invenções/Inovações Radiais tendem a superar Paradigmas Científicos/Tecnológicos. 
 
@@ -718,21 +808,22 @@ plot(
 ::: 
 :::
 
+## {background-image="images/redes-capa.png" data-menu-title="Livros sobre redes"}
 
 ## Main Path Analisys {.smaller}
 
 ::: {.panel-tabset}
 
-### Hummon 1989 {.smaller}
+### MPA {.smaller}
 
 ::: columns
 ::: {.column width="35%"}
 
 ::: {style="font-size: 85%; text-align: left; "}
 
-- Análise de Caminho Principal (pt_br) @Hummon1989
+- Análise de Caminho Principal (pt_br) 
 
-- Hummon e Doreian (1989) propuseram a metodologia.
+- Hummon e Doreian (1989) @Hummon1989 propuseram a metodologia.
 
 - Objetivo: captar o principal fluxo de ideias via redes de citações (artigos ou patentes).
 
@@ -760,7 +851,7 @@ plot(
 - Passo 2: global search (B, N) está em vermelho, é o caminho com maior peso (5 + 3 + 2 + 2 + 3 = 15). 
 :::
 
-```{r, fig.width=14, fig.height=15}
+```{r, fig.width=14, fig.height=13}
 #| echo: true
 #| code-fold: true
 #| label: fig-rede-mpa
@@ -770,6 +861,8 @@ plot(
 #|   - "Passo 2"
 #| layout-ncol: 2
 #| warning: false
+
+# https://stackoverflow.com/questions/67792685/main-path-analysis-in-citation-network-using-igraph-in-r
 
 spc <- function(g) {
   linegraph <- make_line_graph(g)
@@ -852,6 +945,90 @@ plot(
 :::
 :::
 
+### Hummon 1989
+
+:::: columns
+::: {.column width="30%"}
+
+- Norman P. Hummon
+- University of Pittsburgh, USA
+- more info [here](https://scholargps.com/scholars/93910088269039/norman-p-hummon)
+
+<br>
+
+![](images/doreian.webp){width="40%"}
+
+- Patrick Doreian
+- University of Pittsburgh, USA
+
+:::
+
+::: {.column width="70%"}
+
+![](images/hummon1989-fig4.png){width=80% fig-align="center"}
+
+::: {style="font-size: 70%; text-align: right; "}
+Fonte: Hummon e Dereian (1989) @Hummon1989 Connectivity in a citation network: The development of DNA theory. Social Networks.
+:::
+
+:::
+::::
+
+### Wikipédia
+
+::: {style="font-size: 70%; text-align: center; "}
+Fonte: <https://en.wikipedia.org/wiki/Main_path_analysis>
+:::
+
+::: columns
+::: {.column width="50%"}
+
+**Passo 1: Pesos** 
+
+::: {.panel-tabset}
+
+### SPC {.smaller}
+
+![](images/SPC.png)
+
+### SPLC {.smaller}
+
+![](images/SPLC.png)
+
+### SPNP {.smaller}
+
+![](images/SPNP.png)
+:::
+:::
+
+::: {.column width="50%"}
+
+**Passo 2: Busca** `SPC`
+
+::: {.panel-tabset}
+
+### Local
+
+![](images/Local_main_paths_SPC.png)
+
+
+### Global
+
+![](images/Global_main_paths_SPC.png)
+
+### Local key-route
+
+![](images/Local_key-route_main_paths_SPC.png)
+
+
+### Global key-route
+
+![](images/Global_key-route_main_paths_SPC.png)
+
+:::
+:::
+:::
+
 ### Batagelj 2003 {.smaller}
 
 ::: columns
@@ -864,6 +1041,9 @@ plot(
 ::: {style="font-size: 60%; text-align: left; "}
 Fonte: <https://images.app.goo.gl/uXg2ezPVmn5vhtdd9>
 :::
+
+- University of Ljubljana
+- Slovenia
 
 :::
 
@@ -916,6 +1096,7 @@ Primeira grande aplicação do método, 3371 patentes. @Verspagen2007
 Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 :::
 
+- Maastricht University, Netherlands
 
 :::
 :::
@@ -929,6 +1110,17 @@ Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 
 - Mais de uma rota.
 
+![](images/liu.jpg){width="65%" fig-align="center"}
+
+::: {style="font-size: 60%; text-align: right; "}
+Fonte: <https://images.app.goo.gl/cpckusuPLndzqniY9>
+:::
+
+::: {style="font-size: 80%; text-align: right; "}
+- National Taiwan University of Science and Technology
+- Taiwan
+:::
+
 :::
 
 ::: {.column width="70%"}
@@ -938,27 +1130,66 @@ Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 :::
 :::
 
+### Kim 2018
+
+::: columns
+::: {.column width="30%"}
+
+::: {style="font-size: 80%; text-align: right; "}
+- Identifica não apenas o caminho principal único, mas também caminhos derivados emanando de junções tecnológicas no caminho principal. @Kim2018
+:::
+
+![](images/kim.png){width="65%" fig-align="center"}
+
+::: {style="font-size: 60%; text-align: right; "}
+Fonte: <https://images.app.goo.gl/cpckusuPLndzqniY9>
+:::
+
+::: {style="font-size: 80%; text-align: right; "}
+- Statistical Inference & Information Theory Laboratory
+- KAIST Electrical Engineering
+- Republic of Korea
+:::
+
+:::
+
+::: {.column width="70%"}
+![](images/kim2018-fig3.png){width=85% fig-align="center"}
+:::
+:::
+
 ### Masago 2022 {.smaller}
 
 ::: columns
 ::: {.column width="40%"}
 
-
+::: {style="font-size: 80%; text-align: left; "}
 - Topological Skeleton 
 
-> O algoritmo Topological Skeleton foi desenvolvido usando o algoritmo SPLC para identificar as trajetórias mais significativas na estrutura da rede. O novo algoritmo baseia-se na avaliação de diferentes trajetórias para a rede de citações, buscando as trajetórias com o maior valor total de SPLC a partir dos nós de pontos iniciais ou pontos finais da rede. Os valores de SPLC são considerados pesos de estrutura e estão associados a todas as bordas da rede de citações. @Masago2022
+> O algoritmo Topological Skeleton foi desenvolvido usando o algoritmo SPLC para identificar as trajetórias mais significativas na estrutura da rede. @Masago2022
+:::
+
+![](images/masago-roney.jpg){width="90%" fig-align="center"}
+
+::: {style="font-size: 80%; text-align: left; "}
+- Unicamp, Brasil
+:::
 
 :::
 
 ::: {.column width="60%"}
-![](images/masago2022-fig5.png){width=85% fig-align="center"}
+![](images/masago2022-fig12.png){width=85% fig-align="center"}
 :::
 
 :::
 
-### Demais contribuições
+### et al.
 
-<br>
+::: columns
+
+::: {.column width="40%"}
+
+#### Avanços metodológicos
 
 - Buscar caminhos utiliando abordagem estocástica. @Yeo2013
 
@@ -970,68 +1201,11 @@ Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 - Método para identificar a importância publicações intermediárias. @Subelj2020
 
 - Método baseado na persistência de conhecimento ao longo da trajetórias. @Park2017
-
-- Método que possibilita identificar caminhos intermediários derivados. @Kim2018 
-
 :::
 
-## MPA na Wikipédia {.smaller}
+::: {.column width="30%"}
 
-::: columns
-::: {.column width="50%"}
-
-**Pesos**
-
-::: {.panel-tabset}
-
-### SPC {.smaller}
-
-![](images/SPC.png)
-
-### SPLC {.smaller}
-
-![](images/SPLC.png)
-
-### SPNP {.smaller}
-
-![](images/SPNP.png)
-:::
-:::
-
-::: {.column width="50%"}
-
-**Busca** SPC
-
-::: {.panel-tabset}
-
-### Local
-
-![](images/Local_main_paths_SPC.png)
-
-
-### Global
-
-![](images/Global_main_paths_SPC.png)
-
-### Local key-route
-
-![](images/Local_key-route_main_paths_SPC.png)
-
-
-### Global key-route
-
-![](images/Global_key-route_main_paths_SPC.png)
-
-:::
-:::
-:::
-
-## MPA Softwares {.smaller}
-
-<br>
-
-::: columns
-::: {.column width="50%"}
+#### Softwares
 
 - [pajek](http://mrvar.fdv.uni-lj.si/pajek/)
   - software de cientista
@@ -1055,23 +1229,21 @@ Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="30%"}
 
-- Jiang 2019
+#### Softwares
+
+- Jiang 2019 @Jiang2019
   - [software em java](https://sites.google.com/view/xiaoruijiang/research/software_and_datasets)
   - software de cientista
   - documentação limitada
-
-<br>
 
 - [PyMAP - mpa_splc](https://github.com/felipefrr/mpa_splc)
   - linha de comando
   - interface gráfica
   - documentação limitada
 
-<br>
-
-- extensão do Gephi
+- extensão do [Gephi](https://gephi.org/)
   - perdeu o código fonte
   - dependente de uma versão do Java
   - documentação limitada
@@ -1079,317 +1251,1826 @@ Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 ::: 
 ::: 
 
-## Próximo
+:::
 
-- <span style="color:red;">TODO</span>
-  - Alan Porter
-  - Método de Emergência
-
-
-## Indicadores {.smaller}
+## {background-image="images/choose-a-path.png" background="#43464B" data-menu-title="Existe caminho alternativo?" background-size="cover"}
 
 <br>
+
+::: {style="font-size: 160%; text-align: center; "}
+Existe outro caminho?
+:::
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: {style="font-size: 40%; text-align: right; "}
+Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
+:::
+
+## Literatura da Emergência {.smaller}
+
+::: {.panel-tabset}
+
+### Forecasting {.smaller}
+
+- technological forecasting 
+  - Coates 2001 @Coates2001 
+  - Daim 2006 @Daim2006 
+  - Porter 2011 @Porter2011 
+  - Amparo 2012 @Amparo2012
+  - Robinson 2013 @Robinson2013 
+  - Lee 2021 @Lee2021 
+
+### Mapping {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
 
-- Corrocher 2021 
+- mapping science/technology 
+  - Klavans 2008 @Klavans2008 
+  - Rafols 2010 @Rafols2010 
+  - Teixeira 2011 @Teixeira2011
+  - Amparo 2012 @Amparo2012 
+  - Boyack 2013 @Boyack2013 
+  - Deorsola 2013 @Deorsola2013 
+  - Jeong 2021 @Jeong2021 
+:::
+  
+::: {.column width="50%"}
+- roadmap 
+  - Jeong 2021 @Jeong2021 
+  - Kostoff 2001 @Kostoff2001 
+:::
+:::
+
+### Topics {.smaller}
+
+- research fronts/topics/fields/domains/trends/landscape/structure
+  - Jo 2007 @Jo2007
+  - Shibata 2008 @Shibata2008 
+  - Kajikawa 2008 @Kajikawa2008
+  - Tseng 2009 @Tseng2009
+  - Upham 2009 @Upham2009 
+  - Shibata 2011 @Shibata2011 
+  - Fujita 2012 @Fujita2012 
+  - Lamirel 2012 @Lamirel2012
+  - Huang 2013 @Huang2013 
+  - Maltseva 2020 @Maltseva2020
+  - Qian 2021 @Qian2021
+
+### Emergence {.smaller}
+
+::: columns
+::: {.column width="30%"}
+
+- Kontostathis 2004 @Kontostathis2004
+- Morris 2005 @Morris2005
+- Daim 2006 @Daim2006
+- LucioArias 2007 @LucioArias2007 
+- Shibata 2008 @Shibata2008
+- Lee 2008 @Lee2008
+- Bettencourt 2008 @Bettencourt2008 
+- Takeda 2008 @Takeda2008
+- Upham 2009 @Upham2009
+- Cozzens 2010 @Cozzens2010
+- Schiebel 2010 @Schiebel2010
+- Ohniwa 2010 @Ohniwa2010
+
+:::
+
+::: {.column width="30%"}
+
+- Glanzel 2011 @Glanzel2011
+- Shibata 2011 @Shibata2011
+- Alexander 2012 @Alexander2012 
+- Clausen 2012 @Clausen2012
+- Arora 2012 @Arora2012
+- Robinson 2013 @Robinson2013
+- Liu 2013 @Liu2013
+- Jaric 2014 @Jaric2014
+- Small 2014 @Small2014
+- Furukawa 2015 @Furukawa2015
+- Rotolo 2015 @Rotolo2015
+- Carley 2017 @Carley2017 
+:::
+
+::: {.column width="30%"}
+
+- Garner 2017 @Garner2017 
+- Carley 2018 @Carley2018 
+- Teran 2018 @Teran2018
+- Ranaei 2019 @Ranaei2019 
+- Porter 2019 @Porter2019 
+- Wang 2019 @Wang2019
+- Kwon 2019 @Kwon2019
+- Burmaoglu 2019 @Burmaoglu2019 
+- Porter 2020 @Porter2020 
+- Choi 2021 @Choi2021 
+- Jang 2021 @Jang2021
+
+:::
+:::
+
+### Rotolo 2015 {.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+::: {style="font-size: 80%; text-align: left; "}
+
+O estudo de Rotolo 2015 @Rotolo2015, *"What is an emerging technology?"*, gerou a base conceitual necessária para a consolidação dos estudos de emergência como um campo do conhecimento. O autor sustenta que os estudos de emergência estão concentrados na área em *Science and Technology Studies*, e que os atributos de uma tecnologia emergente são:
+
+i. novidade radical; 
+ii. crescimento relativamente rápido; 
+iii. coerência; 
+iv. impacto proeminente; e 
+v. incerteza e ambiguidade. 
+
+----------------------
+
+Carley 2017 @Carley2017 propõem que a emergência deva apresentar propriedades de mais fácil mensuração que as propriedades sugeridas por @Rotolo2015. As tecnologias emergentes têm: 
+
+i. novidade; 
+ii. persistência; 
+iii. comunidade; e 
+iv. crescimento.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/rotolo2015-fig2.png){width=90%}
+
+::: {style="font-size: 60%; text-align: right; "}
+Fonte: Rotolo (2015) What is an emerging technology?
+:::
+
+::: {style="font-size: 80%; text-align: left; "}
+- SPRU (Science Policy Research Unit) University of Sussex Business School, United Kingdom 
+:::
+
+:::
+:::
+
+### Xu 2019 {.smaller}
+::: columns
+::: {.column width="40%"}
+
+::: {style="font-size: 80%; text-align: left; "}
+
+- Nomeclaturas
+  - emerging research topics
+  - emerging topics
+  - research fronts
+  - emerging trends
+  - emerging technologies
+  - emerging research fields
+
+<br>
+
+- Três estágios de desenvolvimento de campo de tópicos de pesquisa emergentes
+  - o estágio de emergência
+  - o estágio de exploração
+  - o estágio de desenvolvimento
+
+<br>
+
+- Beijing University of Technology, China
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+![](images/xu2019-fig5v2.png){width=80%}
+
+:::
+:::
+
+:::
+
+## Redes bibliográficas {.smaller}
+
+::: panel-tabset 
+
+### Redes {.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+![](images/shibata2009-fig1.png)
+
+- citação direta
+- co-citação
+- acoplamento bibliográfico
+:::
+
+::: {.column width="50%"}
+
+- Autores que discutiram as diferentes redes
+  - Jarneving (2007) @Jarneving2005
+  - Shibata et al. (2008, 2009) @Shibata2008 @Shibata2009
+  - Boyack and Klavans (2010) @Boyack2010
+
+<br>
+
+- Não existe consenso. 
+
+:::
+:::
+
+### Batagelj 2013 {.smaller}
+
+::: {style="font-size: 80%; text-align: left; "}
+`Batagelj and Cerinšek - 2013 - On bibliographic networks` @Batagelj2013
+:::
+
+::: columns
+::: {.column width="50%"}
+
+![](images/batagelj2013nm.png)
+
+:::
+::: {.column width="50%"}
+
+![](images/batagelj2013ct.png){width=80%}
+
+:::
+:::
+
+### Softwares {.smaller}
+
+<br>
+
+| Software       | Description                                           | 
+|----------------|-------------------------------------------------------|
+| Bibliometrix   | R package for bibliometric analysis                   | 
+| BibExcel       | Tool for analyzing bibliographic data                 | 
+| VOSviewer      | Tool for constructing visual bibliometric networks    | 
+| CitNetExplorer  | Analyzes citation networks                           | 
+| Scopus/WoS     | Database with built-in analytical tools               | 
+| CiteSpace      | Java application                                      | 
+| SITKIS         | Bibliometric tool that works on Java and MS Access    | 
+| CiteSpace      | Java application for visualizing and analyzing trends and patterns in scientific literature |
+| Netdraw        | Windows program for visualizing social network data   | 
+| Sci2           | Modular toolset specifically designed for the study of science |
+
+:::
+
+## Small et al. {.smaller .scrollable}
+
+::: panel-tabset 
+
+### Quem são {.smaller}
+
+::: columns
+::: {.column width="30%"}
+
+![](images/small.png){width="60%"}
+
+- Henry Small
+  - [SciTech Strategies](https://www.scitech-strategies.com/)
+  - USA
+
+:::
+
+::: {.column width="30%"}
+
+![](images/klavans.png){width=60%}
+
+- Richard Klavans
+  - [SciTech Strategies](https://www.scitech-strategies.com/)
+  - USA
+
+:::
+::: {.column width="30%"}
+
+![](images/boyack.png){width="60%"}
+
+- Kevin Boyack
+  - [SciTech Strategies](https://www.scitech-strategies.com/)
+  - USA
+
+:::
+:::
+
+### Publicações
+
+![](images/scitech-publications){width=70% fig-align="center"}
+
+::: {style="font-size: 60%; text-align: right; "}
+Fonte: <https://www.scitech-strategies.com/publications/>
+:::
+
+### 2014
+
+::: columns
+::: {.column width="25%"}
+
+Small et al. (2014) Identifying emerging topics in science and technology. Research Policy. @Small2014
+
+> 70 topics from recent years as emergent.
+
+> the Scopus database (1996–2010, over 17 million articles) is clustered in two different ways:  co-citation and  direct citation .
+:::
+
+::: {.column width="75%"}
+![](images/small2015-tab5.png){fig-align="center"}
+:::
+:::
+
+### Macro *vs* Micro
+
+<br>
+
+A equipe da SciTech trabalha com modelos macro, que utilizam toda a base Scopus.
+
+<br>
+
+Quando a assunto são as análises micro, Small et al. @Small2014 afirmam:
+
+<br>
+
+::: {style="font-size: 120%; text-align: left; "}
+> Direct citation ... used by Shibata et al. (2008, 2010) to cluster sets of documents on gallium nitride, complex networks, and regenerative medicine. Annual clusterings were done with a fixed starting year – e.g., 1990–2000, 1990–2001, 1990–2002, etc. – and clusters from each model with high overlap were matched and linked to show evolution in field structure. **This method is capable of effectively showing births, deaths, splits, and merges in the cluster structure.**
+:::
+:::
+
+## Porter et al. {.smaller}
+
+::: columns
+::: {.column width="33%"}
+
+![](images/porter.jpg)
+
+::: {style="font-size: 80%; text-align: left; "}
+- focus on "analyses of emerging technologies" 
+- 230+ publications
+- Ph.D. Engineering and Psychology (1972), UCLA
+- B.S. Chemical Engineering (1967), Caltech
+- Professor at Georgia Institute of Technology, USA
+:::
+
+:::
+
+::: {.column width="33%"}
+
+![](images/porter2005-tech-mining.jpg){width="91%"}
+
+::: {style="font-size: 100%; text-align: center; "}
+2005
+:::
+
+:::
+
+::: {.column width="33%"}
+![](images/porter2005-forecasting.jpg)
+
+::: {style="font-size: 100%; text-align: center; "}
+2011
+:::
+
+:::
+:::
+
+## Shibata et al. {.smaller}
+
+::: panel-tabset 
+
+### Quem são
+
+::: columns
+::: {.column width="30%"}
+
+![](images/shibata-v2.jpg)
+
+::: {style="font-size: 80%; text-align: left; "}
+- Naoki Shibata
+  - B.Eng. Systems Innovation, Japan, 2004
+  - Ph.D. Management of Technology for Innovation, Japan, 2009
+  - Researcher at Stanford University, USA
+  - Invested 40+ startups, USA
+  - Founded AppGrooves
+  - Partner at [NVS Capital](https://nsvwolfcapital.com/about), USA
+  - Ass. Prof. University of Tokyo
+:::
+:::
+
+::: {.column width="30%"}
+
+![](images/kajikawa.png){width="65%"}
+
+::: {style="font-size: 80%; text-align: left; "}
+- Yuya Kajikawa
+  - Department of Innovation Science 
+  - School of Environment and Society 
+  - Tokyo Institute of Technology, Japan
+:::
+
+:::
+
+::: {.column width="30%"}
+
+::: {style="font-size: 80%; text-align: left; "}
+
+![](images/matsushima-v2.jpg){width="75%"}
+
+- [Katsumori Matsushima](http://ipr-ctr.t.u-tokyo.ac.jp/en/matsushima.html)
+  - Innovation Policy Research Center
+  - Institute of Engineering Innovation
+  - The University of Tokyo, Japan
+:::
+
+`et al.`
+
+:::
+:::
+
+### Método
+
+![](images/shibata2011-fig1.png){width="80%" fig-align="center"}
+
+::: {style="font-size: 80%; text-align: right; "}
+Fonte: Shibata et al. (2011) @Shibata2011 Detecting emerging research fronts in regenerative medicine by the citation network analysis of scientiﬁc publications.
+:::
+
+### Figure 3
+
+![](images/shibata2011-fig3.png){width="80%" fig-align="center"}
+
+### Figure 4
+
+![](images/shibata2011-fig4.png){width="75%" fig-align="center"}
+
+### Figure 5
+
+![](images/shibata2011-fig5.png){width="100%" fig-align="center"}
+
+### Figure 6
+
+![](images/shibata2011-fig6.png){width="70%" fig-align="center"}
+
+### Table 1
+
+![](images/shibata2011-tab1.png){width="70%" fig-align="center"}
+
+
+:::
+
+## {data-menu-title="Souza et al."}
+
+<div>
+```{=html}
+<iframe class="slide-deck" src="mm/markmap-method.html" height="880" width="1900" style="border:3px solid darkgray;"> </iframe>
+```
+</div>
+
+## Biofertilizantes - `1.` Collect data {.smaller}
+
+::: rows 
+::: {.rows width="30%"}
+
+Downloaded on Web of Science plataform.
+
+<https://www.webofscience.com/wos/woscc/summary/1cb38313-573e-418f-8b92-66058edde184-cb86aaea/relevance/1>
+
+4,698 results from Web of Science Core Collection for: 
+
+::: {style="font-size: 120%; text-align: left; "}
+biofertilizer OR biofertiliser OR bio-fertilizer OR bio-fertiliser (Topic) AND Article OR Review Article OR Book Chapters OR Early Access (Document Types)
+:::
+
+downloaded on febrary 09, 2024.
+
+------------
+
+:::
+
+::: {.rows width="60%"}
+
+![](images/biofertilizer-wos-query-v2.png){width="70%" fig-align="center"}
+
+:::
+:::
+
+## Biofertilizantes - `2.` Import data {.smaller}
+
+<br>
+
+```{r}
+#| eval: false
+#| echo: true
+#| code-fold: show
+#| output: false
+#| warning: false
+
+library(bibliometrix)
+
+arquivos <- fs::dir_ls('bibs', regexp = '.bib$')
+
+tictoc::tic()
+M <- bibliometrix::convert2df(file = arquivos, dbsource = "wos", format = "bibtex")
+tictoc::toc()
+# 25 secs - rambo
+ 
+```
+
+<br>
+
+|  			Table 			Comparison of biofertilizer field vs. Web of Science 		 |                       |                        |
+|-------------------------------------------------------------------|-----------------------|------------------------|
+|  			Measure 		                                                         |  			Biofertilizer 			field 		 |  			Web 			of Science (WoS) 		 |
+|  			Annual 			growth rate 		                                              |  			20.1% 		               |  			6.7% 		                 |
+|  			Doubling-time 			Years 		                                             |  			3.8 		                 |  			10.7 		                 |
+
+## Biofertilizantes - `3.` Field analysis {.smaller .scrollable}
+
+```{r, fig.width=14}
+#| echo: true
+#| code-fold: true
+#| label: fig-biof-field-analysis
+#| fig-cap: "WoS Field Analysis"
+#| warning: false
+
+library(tidyverse)
+library(ggthemes) 
+library(gt)
+library(ggHoriPlot) 
+
+plot_horizon_field <- function(field) {
+    top_n_sc_py |>  
+      dplyr::mutate(SC2 = janitor::make_clean_names(SC, allow_dupes = T)) |> 
+      dplyr::filter(SC2 == field) |>
+      ggplot() +
+      geom_horizon(aes(PY, papers), origin = 'min', horizonscale = 5) +
+      scale_fill_hcl(palette = 'BluGrn', reverse = T) +
+      theme_few() +
+      scale_x_continuous(limits = c(1980, 2022), breaks = seq(1980, 2022, 5), expand = c(0, 0.4)) +
+      scale_y_continuous(expand = c(0, 0)) +
+      theme(panel.spacing.y = unit(0, "lines"),
+            strip.text.y = element_text(size = 11, angle = 0, hjust = 0),
+            legend.position = 'none',
+            axis.text.y = element_blank(),
+            axis.title.y = element_blank(),
+            axis.ticks.y = element_blank(),
+            axis.title.x = element_blank(),
+            axis.ticks.x = element_blank(),
+            panel.border = element_blank(),
+            axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1, size = 50)) 
+}
+
+rio::import('biofertilizer/top_n_sc_py.rds') -> top_n_sc_py
+
+rio::import('biofertilizer/tab_field_analysis.rds') |>
+  gt::gt() |>
+  gt::tab_header(title = "Fields Attributes") |>
+  gt::cols_label(name2 = gt::md("Field"), 
+                 papers = gt::md('Papers'),
+                 average_age = gt::md('Average age'),
+                 growth_rate_percentage_year = gt::md("Growth rate"), 
+                 doubling_time = gt::md("Doubling time"),
+                 SC = gt::md("Horizon plot")) |>
+  gt::text_transform(locations = gt::cells_body(columns = 'SC'), 
+                     fn = function(column) { 
+                       purrr::map(column, plot_horizon_field) |> 
+                         gt::ggplot_image(aspect_ratio = 3, height = 100)}) |> 
+  gt::tab_source_note(source_note = gt::md("**Source**: Web of Science. Data extracted, organized and estimated by the authors.")) |>
+  gt::tab_footnote(footnote = "Average publication year. Example, 2015+6m means that the articles were published on average in the year of 2015 plus 6 months. Time span, 2010 until 2022.", locations = gt::cells_column_labels(columns = average_age)) |>
+  gt::tab_footnote(footnote = "y = years, m = months. Calculated by ln(2)/b1 where b1 is the econometric model coefficient.", locations = gt::cells_column_labels(columns = doubling_time)) |>
+  gt::tab_footnote(footnote = "Publications between 1980 and 2022. Chart type horizon plot.", locations = gt::cells_column_labels(columns = SC))
+
+```
+
+
+## Biofertilizantes - `4.1` and `4.2` Citation network {.smaller .scrollable}
+
+- Total documents 4698
+- Giant component of our network holds 4604 papers.
+
+```{r}
+#| eval: false
+#| echo: true
+#| code-fold: show
+#| warning: false
+
+library(birddog)
+
+tictoc::tic() 
+net <- birddog::sniff_network(M, type = 'bibliographic coupling', database_source = 'wos') 
+tictoc::toc() 
+# 79 mins - rambo
+
+```
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+
+cgn <- function(x) {gsub('^.*_', '', x)} 
+
+M <- rio::import('biofertilizer/M.rds') 
+net <- rio::import('biofertilizer/net-coupling.rds') 
+```
+
+
+```{r}
+#| eval: true
+#| echo: true
+#| code-fold: show
+#| warning: false
+
+comp <- birddog::sniff_components(net)
+
+net2 <- comp$network
+
+comp$components |>
+  dplyr::rename(documents = quantity_publications) |> 
+  dplyr::mutate(average_age = round(average_age, 1)) |>
+  dplyr::slice(1:4) |>
+  knitr::kable()
+```
+
+## Biofertilizantes - `4.3` and `4.4` Building groups {.smaller}
+
+
+```{r}
+#| eval: false 
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+gru <- birddog::sniff_groups(net2, 
+                             min_group_size = 50, 
+                             keep_component = 'component01', 
+                             cluster_component = 'component01', 
+                             algorithm = 'louvain')
+
+```
+
+<br>
+
+|  				Group 			 |  				Documents 			 |  				Average 				age 			 |  				Growth 				rate per year 			 |  				Doubling-time 				years 			 | Hubs |
+|---------|-------------|---------------|------------------------|-----------------------|----------------------|
+|  				g01 			   |  				899 			       |  				2018 			        |  				29% 			                  |  				2.7 			                 | 14 |
+|  				g02 			   |  				891 			       |  				2019 			        |  				19.4% 			                |  				3.9 			                 | 17 |
+|  				g03 			   |  				839 			       |  				2018 			        |  				16.5% 			                |  				4.5 			                 | 29 |
+|  				g04 			   |  				781 			       |  				2017 			        |  				13.9% 			                |  				5.3 			                 | 14 |
+|  				g05 			   |  				727 			       |  				2020 			        |  				31.2% 			                |  				2.6 			                 | 11 |
+|  				g06 			   |  				463 			       |  				2016 			        |  				5.4% 			                 |  				13.1 			                | 3  |
+
+## Biofertilizantes - `4.5` Groups contents {.smaller .scrollable}
+
+::: {style="font-size: 80%; text-align: left; "}
+|  			 		 |                                                                                                                                                                                                                                                                                                                                           |                                                                                                    |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|  			Group 			 			 		                                |  			Keywords 		                                                                                                                                                                                                                                                                                                                                |  			Description 		                                                                                      |
+|  			g01 		                                    |  			microalgae 			biomass; fixing cyanobacteria; algal biomass; anabaena sp.; 			proline content; mm nacl; c. vulgaris; polyphenol oxidase; 			antioxidant enzymes; wastewater treatment; microalgae cultivation; 			chlorella vulgaris; ascorbate peroxidase; nostoc muscorum; aqueous 			extract 		                                                         |  			Bactérias, microalgas e cianobactérias tolerantes ao estresse para melhorar o crescimento e a produtividade das culturas 		      |
+|  			g02 		                                    |  			phylogenetic 			analysis; hydrogen cyanide; acetic acid; insoluble phosphate; pgp 			traits; inorganic phosphate; p solubilization; acetic acid 			production; phosphate solubilization; solubilization index; growth 			promotion; enterobacter sp.; complete genome; endophytic bacteria; 			rhizobacterial isolates 		                                 |  			Bactérias endofíticas solubilizadoras de fosfato: Potencial de promoção do crescimento de plantas (PGP) 		               |
+|  			g03 		                                    |  			food 			waste ; anaerobic digestion; biogas production; bovine 			biofertilizer; methane production; swine manure; bovine manure; 			cycle assessment; black soldier; liquid digestate; life cycle 			assessment; waste treatment; solid waste; anaerobic digestates; 			olive mill wastewater 		                                                         |  			Produção de biofertilizante e biogás por meio de resíduos de alimentos e esterco 		                               |
+|  			g04 		                                    |  			net 			returns; available n; am fungi; effect of integrated nutrient 			management; integrated nutrient; kg zn; 30 cm; microbial biomass 			carbon; biomass carbon; mycorrhizal inoculation; effect of 			integrated nutrient; kg p2o5 ha; p2o5 ha; treatment combinations; 			sources of nutrients  			 		                                                  |  			Adubos orgânicos e micróbios para o gerenciamento integrado de nutrientes  			 		                              |
+|  			g05 		                                    |  			soil 			microbiome; continuous cropping; fungal community; fusarium wilt; 			microbial communities; bacterial communities; fungal communities; 			banana fusarium; microbial community composition; community 			composition; soil microbial diversity; redundancy analysis; 			relative abundances; soil microbial communities; disease 			suppression  			 		 |  			Microbioma e diversidade microbiana para supressão de doenças em um cenário de agricultura sustentável 		 |
+|  			g06 		                                    |  			cm 			inter; row spacing; inoculation with biofertilizer; 23.8 t; 23.8 t 			ha; rotten straw; 150 kg; absorbent polymer; kitchen waste oil; 			waste oil; yellow passion; oil yield; foliar contents; tiller 			number; pgpr strains 		                                                                                                                |  			Estratégias de Azospirillum como uma rizobactéria promotora do crescimento de plantas (PGPR) 		                       |
+:::
+
+## `4.6` Groups evolution `g01` {.smaller .scrollable}
+
+```{r}
+#| eval: false
+#| echo: false
+#| fold: true
+#| warning: false
+# do not overwrite; it is a louvain layout
+
+file_net4 <- 'biofertilizer/net4.rds'
+if (fs::file_exists(file_net4)) { 
+  net4 <- rio::import(file_net4) 
+} else {
+  net4 <- birddog::sniff_cumulative_groups(net3, time_span = 1989:2022, min_group_size = 5, top_n_keywords = 5, algorithm = 'louvain')
+  rio::export(net4, file_net4) 
+}
+
+tracked_documents_proportion = 0.1
+intra_group_proportion = 0.2
+
+grupos <- sort(unique(V(net3)$group))
+documents_over_groups_formation <- vector(mode = 'list', length = length(grupos)) 
+
+for (i in seq_along(grupos)) {
+
+  net3 |> 
+    tidygraph::activate(nodes) |> 
+    dplyr::filter(group == grupos[i]) |>
+    dplyr::pull(name) -> 
+    tracked_documents
+
+  tr_groups <- birddog::sniff_cumulative_groups_attributes(cummulative_network = net4, min_group_size = 3, attributes = 'groups', documents_to_track = tracked_documents)
+  tr_docs <- birddog::sniff_cumulative_groups_attributes(cummulative_network = net4, min_group_size = 3, attributes = 'documents', documents_to_track = tracked_documents)
+
+  tr_groups |>
+    purrr::map(\(x) x |> dplyr::filter(prop_tracked_documents >= tracked_documents_proportion | prop_tracked_intra_group >= intra_group_proportion)) |>
+    # purrr::map(\(x) x |> dplyr::filter( prop_tracked_intra_group >= intra_group_proportion)) |>
+    purrr::map(\(x) x |> dplyr::mutate(id = paste0('y', network_until, '_', gsub('^.*_', '', group)))) |>
+    dplyr::bind_rows() |>
+    dplyr::mutate(PY.sd = network_until - average_age_group) -> 
+    dados
+
+  gru$aggregate |>
+    dplyr::rename(average_age_group = average_age) |>
+    dplyr::filter(group == grupos[i]) |>
+    dplyr::mutate(network_until = max(dados$network_until, na.rm = T) + 1, 
+                  tracked_documents = quantity_papers, 
+                  prop_tracked_intra_group = 1, 
+                  prop_tracked_documents = 1, 
+                  PY.sd = network_until - average_age_group, 
+                  id = grupos[i]) -> 
+  group_tracked_complete
+
+  group_tracked_complete |> 
+    dplyr::bind_rows(dados) -> 
+    dados2 
+
+  colors <- c("#F7F4F9", "#E7E1EF", "#D4B9DA", "#C994C7", "#DF65B0", "#E7298A", "#CE1256", "#980043", "#67001F")
+
+  dados2$color <- highcharter::colorize(dados2$prop_tracked_documents, colors)
+
+  rio::export(dados2, paste0('biofertilizer/net4-dados2-', cgn(grupos[i]), '.rds'))
+
+}
+```
+
+:::: {.panel-tabset}
+
+### v1ec {.smaller}
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+x <- c("id", "Group Size", "Average Age Group", "Average Age Tracked Documents", "Tracked Documents", "Tracked Proportion", "Tracked Intra Group Proportion", 'Tracked Documents Keywords', 'Group Keywords')
+y <- sprintf("{point.%s:.2f}", c("id", "quantity_papers", "average_age_group", "average_age_tracked_documents", "tracked_documents", "prop_tracked_documents", "prop_tracked_intra_group", "keywords_tracked_documents", 'keywords'))
+tltip <- highcharter::tooltip_table(x, y)
+  
+dados2 <- rio::import('biofertilizer/net4-dados2-g01.rds')
+
+highcharter::hchart(dados2, "scatter", highcharter::hcaes(network_until, PY.sd, size = tracked_documents, color = color), minSize = 2, maxSize = 20, showInLegend = F) |>
+    highcharter::hc_add_theme(highcharter::hc_theme(chart = list(backgroundColor = 'white'))) |>
+    highcharter::hc_xAxis(title = list(text = "Year")) |>
+    highcharter::hc_yAxis(title = list(text = "Year Standard Deviation")) |>
+    highcharter::hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = tltip) |> 
+    highcharter::hc_title(style = list(color = highcharter::hex_to_rgba("black", 0.5))) |>
+    highcharter::hc_exporting(enabled = TRUE, filename = 'groups_evolution') |>
+    highcharter::hc_navigator(enabled = FALSE) 
+```
+
+### v2ec
+
+```{r}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+dados2$Year <- dados2$network_until
+
+  ggplot(dados2, aes(x = Year, y = PY.sd, size = tracked_documents, colour = prop_tracked_documents)) +
+    geom_point(aes(frame = Year), alpha = 0.7, show.legend = F) +
+    scale_size_area(max_size = 7, guide = "none") +
+    scale_color_gradient2(midpoint = mean(dados2$prop_tracked_documents) * 1.2, low = "#D4B9DA", mid="#E7298A", high="#980043") +
+    scale_y_continuous(limits = round(c(min(dados2[, 'PY.sd']), max(dados2[, 'PY.sd']) + 1), digits = 0), breaks = round(seq(min(dados2[, 'PY.sd']), (max(dados2[, 'PY.sd']) + 1), by = 1), digits = 0)) +
+    scale_x_continuous(limits=c(min(dados2[, 'network_until']), max(dados2[, 'network_until']) + 1), breaks = round(seq(min(dados2[, 'network_until']), (max(dados2[, 'network_until'])), by = 1), digits = 0)) + 
+    theme_bw() + ylab('Year Standard Deviation') + xlab('Year') +
+    theme(panel.spacing.y = unit(0, "lines"), 
+          strip.text.y = element_text(size = 11, angle = 0, hjust = 0), 
+          legend.position = 'none', 
+          axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) -> 
+    p
+
+  plotly::ggplotly(p) |> 
+    plotly::animation_opts(1000, easing = "elastic", redraw = T)
+```
+
+### v3ec
+
+![](biofertilizer/component01_g01_groups_evolution.png)
+
+### v4ec
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+library(igraph)
+library(igraph)
+library(ggraph)
+library(tidygraph)
+library(fs)
+library(plotly)
+library(RColorBrewer)
+
+# if exist read files; else write
+fls <- "biofertilizer/net4_groups_similarity.rds"
+if (fs::file_exists(fls)) {
+  groups_similarity <- rio::import(fls)
+} else {
+  rio::export(groups_similarity, fls)
+}
+
+fla <- "biofertilizer/net4_groups_attributes.rds"
+if (fs::file_exists(fla)) {
+  groups_attributes <- rio::import(fla)
+} else {
+  rio::export(groups_attributes, fla)
+}
+
+grupo <- "component01_g01"
+jaccard_similarity <- 0.2
+prop_tracked_intra_group_treshold <- 0.2
+
+# criar uma rede baseado nos caminhos por jaccard similarity
+groups_similarity[[grupo]] |>
+  dplyr::filter(weight >= jaccard_similarity) |>
+  igraph::graph_from_data_frame() |>
+  tidygraph::as_tbl_graph() ->
+  net
+
+groups_attributes[[grupo]] |>
+  dplyr::mutate(name = paste0("y", network_until, gsub("^.*_", "", group))) |>
+  dplyr::relocate(name) ->
+  dados3
+
+net |>
+  tidygraph::activate(nodes) |>
+  dplyr::left_join(dados3, by = dplyr::join_by(name)) |>
+  dplyr::mutate(size = quantity_papers * prop_tracked_intra_group) |>
+  dplyr::filter(prop_tracked_intra_group >= prop_tracked_intra_group_treshold, tracked_documents > 1) |>
+  dplyr::arrange(dplyr::desc(network_until)) ->
+  net2
+
+net2 |>
+  tidygraph::activate(nodes) |>
+  {
+    \(x) ggraph::create_layout(x, layout = "sugiyama", layers = igraph::V(x)$network_until)
+  }() ->
+  sugi
+
+# z sugiyama position
+sugi |>
+  dplyr::select(x, y, name, year = network_until, size, orig_index = .ggraph.orig_index) |>
+  dplyr::arrange(year) ->
+  sugi2
+
+net2 |> 
+  tidygraph::as_tbl_graph() |>
+  tidygraph::activate(nodes) |>
+  dplyr::mutate(sugiyama = sugi$x) |>
+  dplyr::arrange(network_until) -> 
+  net3
+
+## -----
+# Sample data
+
+x <- igraph::V(net3)$network_until 
+z <- igraph::V(net3)$size 
+y <- igraph::V(net3)$sugiyama
+
+cores <- brewer.pal(n = length(unique(y)), name = "RdBu")
+
+plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showlegend = F) |>
+  layout( title = "3D Scatter Plot", scene = list(xaxis = list(title = 'Years'), yaxis = list(title = 'Route'), zaxis = list(title = 'Publications')))
+
+```
+
+### v5ec
+
+::::
+
+## `4.6` Groups evolution `g02` {.smaller .scrollable}
+
+:::: {.panel-tabset}
+
+### v1ec {.smaller}
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+x <- c("id", "Group Size", "Average Age Group", "Average Age Tracked Documents", "Tracked Documents", "Tracked Proportion", "Tracked Intra Group Proportion", 'Tracked Documents Keywords', 'Group Keywords')
+y <- sprintf("{point.%s:.2f}", c("id", "quantity_papers", "average_age_group", "average_age_tracked_documents", "tracked_documents", "prop_tracked_documents", "prop_tracked_intra_group", "keywords_tracked_documents", 'keywords'))
+tltip <- highcharter::tooltip_table(x, y)
+  
+dados2 <- rio::import('biofertilizer/net4-dados2-g02.rds')
+
+highcharter::hchart(dados2, "scatter", highcharter::hcaes(network_until, PY.sd, size = tracked_documents, color = color), minSize = 2, maxSize = 20, showInLegend = F) |>
+    highcharter::hc_add_theme(highcharter::hc_theme(chart = list(backgroundColor = 'white'))) |>
+    highcharter::hc_xAxis(title = list(text = "Year")) |>
+    highcharter::hc_yAxis(title = list(text = "Year Standard Deviation")) |>
+    highcharter::hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = tltip) |> 
+    highcharter::hc_title(style = list(color = highcharter::hex_to_rgba("black", 0.5))) |>
+    highcharter::hc_exporting(enabled = TRUE, filename = 'groups_evolution') |>
+    highcharter::hc_navigator(enabled = FALSE) 
+```
+
+### v2ec
+
+```{r}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+dados2$Year <- dados2$network_until
+
+  ggplot(dados2, aes(x = Year, y = PY.sd, size = tracked_documents, colour = prop_tracked_documents)) +
+    geom_point(aes(frame = Year), alpha = 0.7, show.legend = F) +
+    scale_size_area(max_size = 7, guide = "none") +
+    scale_color_gradient2(midpoint = mean(dados2$prop_tracked_documents) * 1.2, low = "#D4B9DA", mid="#E7298A", high="#980043") +
+    scale_y_continuous(limits = round(c(min(dados2[, 'PY.sd']), max(dados2[, 'PY.sd']) + 1), digits = 0), breaks = round(seq(min(dados2[, 'PY.sd']), (max(dados2[, 'PY.sd']) + 1), by = 1), digits = 0)) +
+    scale_x_continuous(limits=c(min(dados2[, 'network_until']), max(dados2[, 'network_until']) + 1), breaks = round(seq(min(dados2[, 'network_until']), (max(dados2[, 'network_until'])), by = 1), digits = 0)) + 
+    theme_bw() + ylab('Year Standard Deviation') + xlab('Year') +
+    theme(panel.spacing.y = unit(0, "lines"), 
+          strip.text.y = element_text(size = 11, angle = 0, hjust = 0), 
+          legend.position = 'none', 
+          axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) -> 
+    p
+
+  plotly::ggplotly(p) |> 
+    plotly::animation_opts(1000, easing = "elastic", redraw = T)
+```
+
+### v3ec
+
+![](biofertilizer/component01_g02_groups_evolution.png)
+
+### v4ec
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+grupo <- "component01_g02"
+jaccard_similarity <- 0.2
+prop_tracked_intra_group_treshold <- 0.2
+
+# criar uma rede baseado nos caminhos por jaccard similarity
+groups_similarity[[grupo]] |>
+  dplyr::filter(weight >= jaccard_similarity) |>
+  igraph::graph_from_data_frame() |>
+  tidygraph::as_tbl_graph() ->
+  net
+
+groups_attributes[[grupo]] |>
+  dplyr::mutate(name = paste0("y", network_until, gsub("^.*_", "", group))) |>
+  dplyr::relocate(name) ->
+  dados3
+
+net |>
+  tidygraph::activate(nodes) |>
+  dplyr::left_join(dados3, by = dplyr::join_by(name)) |>
+  dplyr::mutate(size = quantity_papers * prop_tracked_intra_group) |>
+  dplyr::filter(prop_tracked_intra_group >= prop_tracked_intra_group_treshold, tracked_documents > 1) |>
+  dplyr::arrange(dplyr::desc(network_until)) ->
+  net2
+
+net2 |>
+  tidygraph::activate(nodes) |>
+  {
+    \(x) ggraph::create_layout(x, layout = "sugiyama", layers = igraph::V(x)$network_until)
+  }() ->
+  sugi
+
+# z sugiyama position
+sugi |>
+  dplyr::select(x, y, name, year = network_until, size, orig_index = .ggraph.orig_index) |>
+  dplyr::arrange(year) ->
+  sugi2
+
+net2 |> 
+  tidygraph::as_tbl_graph() |>
+  tidygraph::activate(nodes) |>
+  dplyr::mutate(sugiyama = sugi$x) |>
+  dplyr::arrange(network_until) -> 
+  net3
+
+## -----
+# Sample data
+
+x <- igraph::V(net3)$network_until 
+z <- igraph::V(net3)$size 
+y <- igraph::V(net3)$sugiyama
+
+cores <- brewer.pal(n = length(unique(y)), name = "RdBu")
+
+plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showlegend = F) |>
+  layout( title = "3D Scatter Plot", scene = list(xaxis = list(title = 'Years'), yaxis = list(title = 'Route'), zaxis = list(title = 'Publications')))
+
+```
+
+### v5ec
+
+::::
+
+## `4.6` Groups evolution `g03` {.smaller .scrollable}
+
+:::: {.panel-tabset}
+
+### v1ec {.smaller}
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+x <- c("id", "Group Size", "Average Age Group", "Average Age Tracked Documents", "Tracked Documents", "Tracked Proportion", "Tracked Intra Group Proportion", 'Tracked Documents Keywords', 'Group Keywords')
+y <- sprintf("{point.%s:.2f}", c("id", "quantity_papers", "average_age_group", "average_age_tracked_documents", "tracked_documents", "prop_tracked_documents", "prop_tracked_intra_group", "keywords_tracked_documents", 'keywords'))
+tltip <- highcharter::tooltip_table(x, y)
+  
+dados2 <- rio::import('biofertilizer/net4-dados2-g03.rds')
+
+highcharter::hchart(dados2, "scatter", highcharter::hcaes(network_until, PY.sd, size = tracked_documents, color = color), minSize = 2, maxSize = 20, showInLegend = F) |>
+    highcharter::hc_add_theme(highcharter::hc_theme(chart = list(backgroundColor = 'white'))) |>
+    highcharter::hc_xAxis(title = list(text = "Year")) |>
+    highcharter::hc_yAxis(title = list(text = "Year Standard Deviation")) |>
+    highcharter::hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = tltip) |> 
+    highcharter::hc_title(style = list(color = highcharter::hex_to_rgba("black", 0.5))) |>
+    highcharter::hc_exporting(enabled = TRUE, filename = 'groups_evolution') |>
+    highcharter::hc_navigator(enabled = FALSE) 
+```
+
+### v2ec
+
+```{r}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+dados2$Year <- dados2$network_until
+
+  ggplot(dados2, aes(x = Year, y = PY.sd, size = tracked_documents, colour = prop_tracked_documents)) +
+    geom_point(aes(frame = Year), alpha = 0.7, show.legend = F) +
+    scale_size_area(max_size = 7, guide = "none") +
+    scale_color_gradient2(midpoint = mean(dados2$prop_tracked_documents) * 1.2, low = "#D4B9DA", mid="#E7298A", high="#980043") +
+    scale_y_continuous(limits = round(c(min(dados2[, 'PY.sd']), max(dados2[, 'PY.sd']) + 1), digits = 0), breaks = round(seq(min(dados2[, 'PY.sd']), (max(dados2[, 'PY.sd']) + 1), by = 1), digits = 0)) +
+    scale_x_continuous(limits=c(min(dados2[, 'network_until']), max(dados2[, 'network_until']) + 1), breaks = round(seq(min(dados2[, 'network_until']), (max(dados2[, 'network_until'])), by = 1), digits = 0)) + 
+    theme_bw() + ylab('Year Standard Deviation') + xlab('Year') +
+    theme(panel.spacing.y = unit(0, "lines"), 
+          strip.text.y = element_text(size = 11, angle = 0, hjust = 0), 
+          legend.position = 'none', 
+          axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) -> 
+    p
+
+  plotly::ggplotly(p) |> 
+    plotly::animation_opts(1000, easing = "elastic", redraw = T)
+```
+
+### v3ec
+
+![](biofertilizer/component01_g03_groups_evolution.png)
+
+### v4ec
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+grupo <- "component01_g03"
+jaccard_similarity <- 0.2
+prop_tracked_intra_group_treshold <- 0.2
+
+# criar uma rede baseado nos caminhos por jaccard similarity
+groups_similarity[[grupo]] |>
+  dplyr::filter(weight >= jaccard_similarity) |>
+  igraph::graph_from_data_frame() |>
+  tidygraph::as_tbl_graph() ->
+  net
+
+groups_attributes[[grupo]] |>
+  dplyr::mutate(name = paste0("y", network_until, gsub("^.*_", "", group))) |>
+  dplyr::relocate(name) ->
+  dados3
+
+net |>
+  tidygraph::activate(nodes) |>
+  dplyr::left_join(dados3, by = dplyr::join_by(name)) |>
+  dplyr::mutate(size = quantity_papers * prop_tracked_intra_group) |>
+  dplyr::filter(prop_tracked_intra_group >= prop_tracked_intra_group_treshold, tracked_documents > 1) |>
+  dplyr::arrange(dplyr::desc(network_until)) ->
+  net2
+
+net2 |>
+  tidygraph::activate(nodes) |>
+  {
+    \(x) ggraph::create_layout(x, layout = "sugiyama", layers = igraph::V(x)$network_until)
+  }() ->
+  sugi
+
+# z sugiyama position
+sugi |>
+  dplyr::select(x, y, name, year = network_until, size, orig_index = .ggraph.orig_index) |>
+  dplyr::arrange(year) ->
+  sugi2
+
+net2 |> 
+  tidygraph::as_tbl_graph() |>
+  tidygraph::activate(nodes) |>
+  dplyr::mutate(sugiyama = sugi$x) |>
+  dplyr::arrange(network_until) -> 
+  net3
+
+## -----
+# Sample data
+
+x <- igraph::V(net3)$network_until 
+z <- igraph::V(net3)$size 
+y <- igraph::V(net3)$sugiyama
+
+cores <- brewer.pal(n = length(unique(y)), name = "RdBu")
+
+plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showlegend = F) |>
+  layout( title = "3D Scatter Plot", scene = list(xaxis = list(title = 'Years'), yaxis = list(title = 'Route'), zaxis = list(title = 'Publications')))
+
+```
+
+### v5ec
+
+::::
+
+## `4.6` Groups evolution `g04` {.smaller .scrollable}
+
+:::: {.panel-tabset}
+
+### v1ec {.smaller}
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+x <- c("id", "Group Size", "Average Age Group", "Average Age Tracked Documents", "Tracked Documents", "Tracked Proportion", "Tracked Intra Group Proportion", 'Tracked Documents Keywords', 'Group Keywords')
+y <- sprintf("{point.%s:.2f}", c("id", "quantity_papers", "average_age_group", "average_age_tracked_documents", "tracked_documents", "prop_tracked_documents", "prop_tracked_intra_group", "keywords_tracked_documents", 'keywords'))
+tltip <- highcharter::tooltip_table(x, y)
+  
+dados2 <- rio::import('biofertilizer/net4-dados2-g04.rds')
+
+highcharter::hchart(dados2, "scatter", highcharter::hcaes(network_until, PY.sd, size = tracked_documents, color = color), minSize = 2, maxSize = 20, showInLegend = F) |>
+    highcharter::hc_add_theme(highcharter::hc_theme(chart = list(backgroundColor = 'white'))) |>
+    highcharter::hc_xAxis(title = list(text = "Year")) |>
+    highcharter::hc_yAxis(title = list(text = "Year Standard Deviation")) |>
+    highcharter::hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = tltip) |> 
+    highcharter::hc_title(style = list(color = highcharter::hex_to_rgba("black", 0.5))) |>
+    highcharter::hc_exporting(enabled = TRUE, filename = 'groups_evolution') |>
+    highcharter::hc_navigator(enabled = FALSE) 
+```
+
+### v2ec
+
+```{r}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+dados2$Year <- dados2$network_until
+
+  ggplot(dados2, aes(x = Year, y = PY.sd, size = tracked_documents, colour = prop_tracked_documents)) +
+    geom_point(aes(frame = Year), alpha = 0.7, show.legend = F) +
+    scale_size_area(max_size = 7, guide = "none") +
+    scale_color_gradient2(midpoint = mean(dados2$prop_tracked_documents) * 1.2, low = "#D4B9DA", mid="#E7298A", high="#980043") +
+    scale_y_continuous(limits = round(c(min(dados2[, 'PY.sd']), max(dados2[, 'PY.sd']) + 1), digits = 0), breaks = round(seq(min(dados2[, 'PY.sd']), (max(dados2[, 'PY.sd']) + 1), by = 1), digits = 0)) +
+    scale_x_continuous(limits=c(min(dados2[, 'network_until']), max(dados2[, 'network_until']) + 1), breaks = round(seq(min(dados2[, 'network_until']), (max(dados2[, 'network_until'])), by = 1), digits = 0)) + 
+    theme_bw() + ylab('Year Standard Deviation') + xlab('Year') +
+    theme(panel.spacing.y = unit(0, "lines"), 
+          strip.text.y = element_text(size = 11, angle = 0, hjust = 0), 
+          legend.position = 'none', 
+          axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) -> 
+    p
+
+  plotly::ggplotly(p) |> 
+    plotly::animation_opts(1000, easing = "elastic", redraw = T)
+```
+
+### v3ec
+
+![](biofertilizer/component01_g04_groups_evolution.png)
+
+### v4ec
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+grupo <- "component01_g04"
+jaccard_similarity <- 0.2
+prop_tracked_intra_group_treshold <- 0.2
+
+# criar uma rede baseado nos caminhos por jaccard similarity
+groups_similarity[[grupo]] |>
+  dplyr::filter(weight >= jaccard_similarity) |>
+  igraph::graph_from_data_frame() |>
+  tidygraph::as_tbl_graph() ->
+  net
+
+groups_attributes[[grupo]] |>
+  dplyr::mutate(name = paste0("y", network_until, gsub("^.*_", "", group))) |>
+  dplyr::relocate(name) ->
+  dados3
+
+net |>
+  tidygraph::activate(nodes) |>
+  dplyr::left_join(dados3, by = dplyr::join_by(name)) |>
+  dplyr::mutate(size = quantity_papers * prop_tracked_intra_group) |>
+  dplyr::filter(prop_tracked_intra_group >= prop_tracked_intra_group_treshold, tracked_documents > 1) |>
+  dplyr::arrange(dplyr::desc(network_until)) ->
+  net2
+
+net2 |>
+  tidygraph::activate(nodes) |>
+  {
+    \(x) ggraph::create_layout(x, layout = "sugiyama", layers = igraph::V(x)$network_until)
+  }() ->
+  sugi
+
+# z sugiyama position
+sugi |>
+  dplyr::select(x, y, name, year = network_until, size, orig_index = .ggraph.orig_index) |>
+  dplyr::arrange(year) ->
+  sugi2
+
+net2 |> 
+  tidygraph::as_tbl_graph() |>
+  tidygraph::activate(nodes) |>
+  dplyr::mutate(sugiyama = sugi$x) |>
+  dplyr::arrange(network_until) -> 
+  net3
+
+## -----
+# Sample data
+
+x <- igraph::V(net3)$network_until 
+z <- igraph::V(net3)$size 
+y <- igraph::V(net3)$sugiyama
+
+cores <- brewer.pal(n = length(unique(y)), name = "RdBu")
+
+plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showlegend = F) |>
+  layout( title = "3D Scatter Plot", scene = list(xaxis = list(title = 'Years'), yaxis = list(title = 'Route'), zaxis = list(title = 'Publications')))
+
+```
+
+### v5ec
+
+::::
+
+## `4.6` Groups evolution `g05` {.smaller .scrollable}
+
+:::: {.panel-tabset}
+
+### v1ec {.smaller}
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+x <- c("id", "Group Size", "Average Age Group", "Average Age Tracked Documents", "Tracked Documents", "Tracked Proportion", "Tracked Intra Group Proportion", 'Tracked Documents Keywords', 'Group Keywords')
+y <- sprintf("{point.%s:.2f}", c("id", "quantity_papers", "average_age_group", "average_age_tracked_documents", "tracked_documents", "prop_tracked_documents", "prop_tracked_intra_group", "keywords_tracked_documents", 'keywords'))
+tltip <- highcharter::tooltip_table(x, y)
+ 
+dados2 <- rio::import('biofertilizer/net4-dados2-g05.rds')
+
+highcharter::hchart(dados2, "scatter", highcharter::hcaes(network_until, PY.sd, size = tracked_documents, color = color), minSize = 2, maxSize = 20, showInLegend = F) |>
+    highcharter::hc_add_theme(highcharter::hc_theme(chart = list(backgroundColor = 'white'))) |>
+    highcharter::hc_xAxis(title = list(text = "Year")) |>
+    highcharter::hc_yAxis(title = list(text = "Year Standard Deviation")) |>
+    highcharter::hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = tltip) |> 
+    highcharter::hc_title(style = list(color = highcharter::hex_to_rgba("black", 0.5))) |>
+    highcharter::hc_exporting(enabled = TRUE, filename = 'groups_evolution') |>
+    highcharter::hc_navigator(enabled = FALSE) 
+```
+
+### v2ec
+
+```{r}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+dados2$Year <- dados2$network_until
+
+  ggplot(dados2, aes(x = Year, y = PY.sd, size = tracked_documents, colour = prop_tracked_documents)) +
+    geom_point(aes(frame = Year), alpha = 0.7, show.legend = F) +
+    scale_size_area(max_size = 7, guide = "none") +
+    scale_color_gradient2(midpoint = mean(dados2$prop_tracked_documents) * 1.2, low = "#D4B9DA", mid="#E7298A", high="#980043") +
+    scale_y_continuous(limits = round(c(min(dados2[, 'PY.sd']), max(dados2[, 'PY.sd']) + 1), digits = 0), breaks = round(seq(min(dados2[, 'PY.sd']), (max(dados2[, 'PY.sd']) + 1), by = 1), digits = 0)) +
+    scale_x_continuous(limits=c(min(dados2[, 'network_until']), max(dados2[, 'network_until']) + 1), breaks = round(seq(min(dados2[, 'network_until']), (max(dados2[, 'network_until'])), by = 1), digits = 0)) + 
+    theme_bw() + ylab('Year Standard Deviation') + xlab('Year') +
+    theme(panel.spacing.y = unit(0, "lines"), 
+          strip.text.y = element_text(size = 11, angle = 0, hjust = 0), 
+          legend.position = 'none', 
+          axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) -> 
+    p
+
+  plotly::ggplotly(p) |> 
+    plotly::animation_opts(1000, easing = "elastic", redraw = T)
+```
+
+### v3ec
+
+![](biofertilizer/component01_g05_groups_evolution.png)
+
+### v4ec
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+grupo <- "component01_g05"
+jaccard_similarity <- 0.2
+prop_tracked_intra_group_treshold <- 0.2
+
+# criar uma rede baseado nos caminhos por jaccard similarity
+groups_similarity[[grupo]] |>
+  dplyr::filter(weight >= jaccard_similarity) |>
+  igraph::graph_from_data_frame() |>
+  tidygraph::as_tbl_graph() ->
+  net
+
+groups_attributes[[grupo]] |>
+  dplyr::mutate(name = paste0("y", network_until, gsub("^.*_", "", group))) |>
+  dplyr::relocate(name) ->
+  dados3
+
+net |>
+  tidygraph::activate(nodes) |>
+  dplyr::left_join(dados3, by = dplyr::join_by(name)) |>
+  dplyr::mutate(size = quantity_papers * prop_tracked_intra_group) |>
+  dplyr::filter(prop_tracked_intra_group >= prop_tracked_intra_group_treshold, tracked_documents > 1) |>
+  dplyr::arrange(dplyr::desc(network_until)) ->
+  net2
+
+net2 |>
+  tidygraph::activate(nodes) |>
+  {
+    \(x) ggraph::create_layout(x, layout = "sugiyama", layers = igraph::V(x)$network_until)
+  }() ->
+  sugi
+
+# z sugiyama position
+sugi |>
+  dplyr::select(x, y, name, year = network_until, size, orig_index = .ggraph.orig_index) |>
+  dplyr::arrange(year) ->
+  sugi2
+
+net2 |> 
+  tidygraph::as_tbl_graph() |>
+  tidygraph::activate(nodes) |>
+  dplyr::mutate(sugiyama = sugi$x) |>
+  dplyr::arrange(network_until) -> 
+  net3
+
+## -----
+# Sample data
+
+x <- igraph::V(net3)$network_until 
+z <- igraph::V(net3)$size 
+y <- igraph::V(net3)$sugiyama
+
+cores <- brewer.pal(n = length(unique(y)), name = "RdBu")
+
+plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showlegend = F) |>
+  layout( title = "3D Scatter Plot", scene = list(xaxis = list(title = 'Years'), yaxis = list(title = 'Route'), zaxis = list(title = 'Publications')))
+
+```
+
+### v5ec
+
+::::
+
+## `4.6` Groups evolution `g06` {.smaller .scrollable}
+
+:::: {.panel-tabset}
+
+### v1ec {.smaller}
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+x <- c("id", "Group Size", "Average Age Group", "Average Age Tracked Documents", "Tracked Documents", "Tracked Proportion", "Tracked Intra Group Proportion", 'Tracked Documents Keywords', 'Group Keywords')
+y <- sprintf("{point.%s:.2f}", c("id", "quantity_papers", "average_age_group", "average_age_tracked_documents", "tracked_documents", "prop_tracked_documents", "prop_tracked_intra_group", "keywords_tracked_documents", 'keywords'))
+tltip <- highcharter::tooltip_table(x, y)
+ 
+dados2 <- rio::import('biofertilizer/net4-dados2-g06.rds')
+
+highcharter::hchart(dados2, "scatter", highcharter::hcaes(network_until, PY.sd, size = tracked_documents, color = color), minSize = 2, maxSize = 20, showInLegend = F) |>
+    highcharter::hc_add_theme(highcharter::hc_theme(chart = list(backgroundColor = 'white'))) |>
+    highcharter::hc_xAxis(title = list(text = "Year")) |>
+    highcharter::hc_yAxis(title = list(text = "Year Standard Deviation")) |>
+    highcharter::hc_tooltip(useHTML = TRUE, headerFormat = "", pointFormat = tltip) |> 
+    highcharter::hc_title(style = list(color = highcharter::hex_to_rgba("black", 0.5))) |>
+    highcharter::hc_exporting(enabled = TRUE, filename = 'groups_evolution') |>
+    highcharter::hc_navigator(enabled = FALSE) 
+```
+
+### v2ec
+
+```{r, fig.width=14}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+dados2$Year <- dados2$network_until
+
+  ggplot(dados2, aes(x = Year, y = PY.sd, size = tracked_documents, colour = prop_tracked_documents)) +
+    geom_point(aes(frame = Year), alpha = 0.7, show.legend = F) +
+    scale_size_area(max_size = 7, guide = "none") +
+    scale_color_gradient2(midpoint = mean(dados2$prop_tracked_documents) * 1.2, low = "#D4B9DA", mid="#E7298A", high="#980043") +
+    scale_y_continuous(limits = round(c(min(dados2[, 'PY.sd']), max(dados2[, 'PY.sd']) + 1), digits = 0), breaks = round(seq(min(dados2[, 'PY.sd']), (max(dados2[, 'PY.sd']) + 1), by = 1), digits = 0)) +
+    scale_x_continuous(limits=c(min(dados2[, 'network_until']), max(dados2[, 'network_until']) + 1), breaks = round(seq(min(dados2[, 'network_until']), (max(dados2[, 'network_until'])), by = 1), digits = 0)) + 
+    theme_bw() + ylab('Year Standard Deviation') + xlab('Year') +
+    theme(panel.spacing.y = unit(0, "lines"), 
+          strip.text.y = element_text(size = 11, angle = 0, hjust = 0), 
+          legend.position = 'none', 
+          axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) -> 
+    p
+
+  plotly::ggplotly(p) |> 
+    plotly::animation_opts(1000, easing = "elastic", redraw = T)
+```
+
+### v3ec
+
+![](biofertilizer/component01_g06_groups_evolution.png)
+
+### v4ec
+
+```{r, fig.width=14, fig.height=6}
+#| eval: true
+#| echo: true
+#| code-fold: true
+#| warning: false
+
+grupo <- "component01_g06"
+jaccard_similarity <- 0.2
+prop_tracked_intra_group_treshold <- 0.2
+
+# criar uma rede baseado nos caminhos por jaccard similarity
+groups_similarity[[grupo]] |>
+  dplyr::filter(weight >= jaccard_similarity) |>
+  igraph::graph_from_data_frame() |>
+  tidygraph::as_tbl_graph() ->
+  net
+
+groups_attributes[[grupo]] |>
+  dplyr::mutate(name = paste0("y", network_until, gsub("^.*_", "", group))) |>
+  dplyr::relocate(name) ->
+  dados3
+
+net |>
+  tidygraph::activate(nodes) |>
+  dplyr::left_join(dados3, by = dplyr::join_by(name)) |>
+  dplyr::mutate(size = quantity_papers * prop_tracked_intra_group) |>
+  dplyr::filter(prop_tracked_intra_group >= prop_tracked_intra_group_treshold, tracked_documents > 1) |>
+  dplyr::arrange(dplyr::desc(network_until)) ->
+  net2
+
+net2 |>
+  tidygraph::activate(nodes) |>
+  {
+    \(x) ggraph::create_layout(x, layout = "sugiyama", layers = igraph::V(x)$network_until)
+  }() ->
+  sugi
+
+# z sugiyama position
+sugi |>
+  dplyr::select(x, y, name, year = network_until, size, orig_index = .ggraph.orig_index) |>
+  dplyr::arrange(year) ->
+  sugi2
+
+net2 |> 
+  tidygraph::as_tbl_graph() |>
+  tidygraph::activate(nodes) |>
+  dplyr::mutate(sugiyama = sugi$x) |>
+  dplyr::arrange(network_until) -> 
+  net3
+
+## -----
+# Sample data
+
+x <- igraph::V(net3)$network_until 
+z <- igraph::V(net3)$size 
+y <- igraph::V(net3)$sugiyama
+
+cores <- brewer.pal(n = length(unique(y)), name = "RdBu")
+
+plot_ly(x = ~x, y = ~y, z = ~z, color = ~y, size = ~z, type = "scatter3d", showlegend = F) |>
+  layout( title = "3D Scatter Plot", scene = list(xaxis = list(title = 'Years'), yaxis = list(title = 'Route'), zaxis = list(title = 'Publications')))
+
+```
+
+### v5ec
+
+::::
+
+## Hubs  {.smaller}
+
+:::: {.panel-tabset}
+
+### Guimera 2006
+
+![](images/Zi_Pi_colors.png){width="45%" fig-align="center"}
+
+::: {style="font-size: 70%; text-align: right; "}
+Fonte: Guimera and Amaral (2005) @Guimera2005 Functional cartography of complex metabolic networks. Nature.
+:::
+
+### g01 {.smaller .scrollable}
+
+::: {style="font-size: 80%; text-align: left; "}
+
+|  				Zone 			 |  				Paper 			                                |  				Zi 			    |  				Pi 			   |  				TC 			  |  				Ki 			 |  				ki 			 |
+|--------|----------------------------------------|---------|--------|-------|------|------|
+|  				R5 			   |  				Garcia-Gonzalez 				and Sommerfeld (109) 			 |  				13,64 			 |  				0,08 			 |  				188 			 |  				73 			 |  				70 			 |
+|        |  				Ronga 				et 				al. 				(110) 			                   |  				8,83 			  |  				0,00 			 |  				205 			 |  				46 			 |  				46 			 |
+|        |  				Renuka 				et 				al. 				(111) 			                  |  				7,83 			  |  				0,13 			 |  				193 			 |  				44 			 |  				41 			 |
+|        |  				Coppens 				et 				al. 				(112) 			                 |  				7,63 			  |  				0,17 			 |  				154 			 |  				44 			 |  				40 			 |
+|        |  				Dineshkumar 				et 				al. 				(113) 			             |  				6,63 			  |  				0,15 			 |  				69 			  |  				38 			 |  				35 			 |
+|        |  				Dineshkumar 				et 				al. 				(114) 			             |  				5,83 			  |  				0,21 			 |  				88 			  |  				35 			 |  				31 			 |
+|        |  				Hernández-Herrera 				et 				al. 				(115) 			       |  				4,83 			  |  				0,07 			 |  				205 			 |  				27 			 |  				26 			 |
+|        |  				Wuang 				et 				al. 				(116) 			                   |  				4,03 			  |  				0,16 			 |  				153 			 |  				24 			 |  				22 			 |
+|        |  				Chittora 				et 				al. 				(117) 			                |  				3,63 			  |  				0,29 			 |  				103 			 |  				24 			 |  				20 			 |
+|        |  				Wagner 				(118) 			                         |  				3,43 			  |  				0,25 			 |  				178 			 |  				22 			 |  				19 			 |
+|        |  				Kumari, 				Kaur and Bhatnagar (119) 			     |  				3,23 			  |  				0,26 			 |  				122 			 |  				21 			 |  				18 			 |
+|        |  				Saadatnia 				and Riahi (120) 			            |  				3,23 			  |  				0,25 			 |  				82 			  |  				21 			 |  				18 			 |
+|        |  				Sivasankari 				et 				al. 				(121) 			             |  				2,63 			  |  				0,12 			 |  				146 			 |  				16 			 |  				15 			 |
+|  				R6 			   |  				Singh 				et 				al. (122) 			                   |  				4,83 			  |  				0,39 			 |  				293 			 |  				34 			 |  				26 			 |
+:::
+
+### g02 {.smaller .scrollable}
+
+::: {style="font-size: 80%; text-align: left; "}
+|  				Zone 			 |  				Paper 			                                 |  				Zi 			    |  				Pi 			   |  				TC 			  |  				Ki 			 |  				ki 			 |
+|--------|-----------------------------------------|---------|--------|-------|------|------|
+|  				R5 			   |  				Son 				et 				al. (123) 			                      |  				5,22 			  |  				0,10 			 |  				180 			 |  				19 			 |  				18 			 |
+|        |  				Malboobi 				et 				al. (124) 			                 |  				4,28 			  |  				0,21 			 |  				76 			  |  				17 			 |  				15 			 |
+|        |  				Park, 				Lee and Son (125) 			               |  				3,65 			  |  				0,13 			 |  				79 			  |  				14 			 |  				13 			 |
+|        |  				Zhao 				et 				al. (126) 			                     |  				3,03 			  |  				0,26 			 |  				106 			 |  				13 			 |  				11 			 |
+|        |  				Park 				et 				al. (127) 			                     |  				2,72 			  |  				0,17 			 |  				57 			  |  				11 			 |  				10 			 |
+|  				R6 			   |  				Alori, 				Glick, and Babalola (128) 			      |  				16,47 			 |  				0,59 			 |  				722 			 |  				92 			 |  				54 			 |
+|        |  				Olanrewaju, 				Glick, and Babalola (129) 			 |  				8,34 			  |  				0,64 			 |  				481 			 |  				55 			 |  				28 			 |
+|        |  				Etesami, 				Emami and Alikhani (130) 			     |  				6,47 			  |  				0,57 			 |  				198 			 |  				36 			 |  				22 			 |
+|        |  				Etesami 				and Maheshwari (131) 			          |  				3,97 			  |  				0,66 			 |  				371 			 |  				36 			 |  				14 			 |
+|        |  				Mohite 				(132) 			                          |  				6,78 			  |  				0,31 			 |  				287 			 |  				28 			 |  				23 			 |
+|        |  				Chang 				and Yang (133) 			                  |  				3,97 			  |  				0,57 			 |  				120 			 |  				23 			 |  				14 			 |
+|        |  				Radzki 				et 				al. 				(134) 			                   |  				2,72 			  |  				0,60 			 |  				130 			 |  				17 			 |  				10 			 |
+|        |  				Wang 				et 				al. 				(135) 			                     |  				2,72 			  |  				0,59 			 |  				56 			  |  				17 			 |  				10 			 |
+|        |  				Lee 				et 				al. 				(136) 			                      |  				3,03 			  |  				0,42 			 |  				58 			  |  				15 			 |  				11 			 |
+|        |  				Sadeghi 				et 				al. 				(137) 			                  |  				3,03 			  |  				0,44 			 |  				186 			 |  				15 			 |  				11 			 |
+|        |  				Panhwar 				et 				al. 				(138) 			                  |  				2,72 			  |  				0,45 			 |  				61 			  |  				14 			 |  				10 			 |
+|        |  				Fu 				et 				al. 				(139) 			                       |  				2,72 			  |  				0,39 			 |  				108 			 |  				13 			 |  				10 			 |
+:::
+
+### g03 {.smaller .scrollable}
+
+
+::: {style="font-size: 80%; text-align: left; "}
+|  				Zone 			 |  				Paper 			                           |  				Zi 			   |  				Pi 			   |  				TC 			  |  				Ki 			 |  				ki 			 |
+|--------|-----------------------------------|--------|--------|-------|------|------|
+|  				R5 			   |  				Barzee 				et 				al. 				(140) 			             |  				6,14 			 |  				0,14 			 |  				63 			  |  				13 			 |  				12 			 |
+|        |  				Silva 				et 				al. 				(141) 			              |  				5,03 			 |  				0,28 			 |  				32 			  |  				12 			 |  				10 			 |
+|        |  				Coelho 				et 				al. 				(142) 			             |  				5,03 			 |  				0,17 			 |  				60 			  |  				11 			 |  				10 			 |
+|        |  				Dias 				et 				al. 				(143) 			               |  				5,03 			 |  				0,00 			 |  				19 			  |  				10 			 |  				10 			 |
+|        |  				Kunz, 				Miele and Steinmetz (144) 			 |  				5,03 			 |  				0,00 			 |  				108 			 |  				10 			 |  				10 			 |
+|        |  				Xiao 				et 				al. (145) 			               |  				3,93 			 |  				0,20 			 |  				101 			 |  				9 			  |  				8 			  |
+|        |  				Barati 				et 				al. 				(146) 			             |  				3,93 			 |  				0,00 			 |  				110 			 |  				8 			  |  				8 			  |
+|        |  				Ma, 				Yin and Liu (157) 			           |  				2,82 			 |  				0,00 			 |  				52 			  |  				6 			  |  				6 			  |
+|        |  				Souza 				et 				al. (158) 			              |  				2,82 			 |  				0,00 			 |  				11 			  |  				6 			  |  				6 			  |
+|        |  				Rehman 				et 				al. (159) 			             |  				2,82 			 |  				0,00 			 |  				122 			 |  				6 			  |  				6 			  |
+|        |  				Yasar 				et 				al. (160) 			              |  				2,82 			 |  				0,00 			 |  				47 			  |  				6 			  |  				6 			  |
+|  				R6 			   |  				Owamah 				et 				al. (161) 			             |  				7,80 			 |  				0,47 			 |  				84 			  |  				21 			 |  				15 			 |
+|        |  				Lima 				et 				al. (162) 			               |  				5,03 			 |  				0,58 			 |  				19 			  |  				16 			 |  				10 			 |
+|        |  				Du 				et 				al. (163) 			                 |  				5,03 			 |  				0,36 			 |  				82 			  |  				13 			 |  				10 			 |
+|        |  				Alfa 				et 				al. (164) 			               |  				3,93 			 |  				0,50 			 |  				61 			  |  				12 			 |  				8 			  |
+|        |  				Mórtola 				et 				al. (165) 			            |  				3,93 			 |  				0,32 			 |  				33 			  |  				10 			 |  				8 			  |
+|        |  				Aghbashlo 				et 				al. (166) 			          |  				3,38 			 |  				0,46 			 |  				100 			 |  				10 			 |  				7 			  |
+|        |  				Dias 				et 				al. (167) 			               |  				3,38 			 |  				0,35 			 |  				27 			  |  				9 			  |  				7 			  |:::
+:::
+
+### g04 {.smaller .scrollable}
+
+::: {style="font-size: 80%; text-align: left; "}
+|  				Zone 			 |  				Paper 			                         |  				Zi 			    |  				Pi 			   |  				TC 			  |  				Ki 			 |  				ki 			 |
+|--------|---------------------------------|---------|--------|-------|------|------|
+|  				R5 			   |  				Douds 				Jr. et 				al. (168) 			        |  				5,03 			  |  				0,20 			 |  				59 			  |  				9 			  |  				8 			  |
+|        |  				Douds 				Jr. et 				al. (169) 			        |  				5,03 			  |  				0,00 			 |  				42 			  |  				8 			  |  				8 			  |
+|        |  				Suthar 				(170) 			                  |  				4,35 			  |  				0,00 			 |  				137 			 |  				7 			  |  				7 			  |
+|        |  				Rezaei-Chiyaneh 				et 				al. (171) 			  |  				3,67 			  |  				0,24 			 |  				15 			  |  				7 			  |  				6 			  |
+|        |  				Juwarkar 				and Jambhulkar (172) 			 |  				2,99 			  |  				0,00 			 |  				69 			  |  				5 			  |  				5 			  |
+|        |  				Saha 				et 				al. (173) 			             |  				2,99 			  |  				0,00 			 |  				33 			  |  				5 			  |  				5 			  |
+|  				R6 			   |  				Begum 				et 				al. (174) 			            |  				13,18 			 |  				0,56 			 |  				553 			 |  				33 			 |  				20 			 |
+|        |  				Machiani 				et 				al. (175) 			         |  				5,71 			  |  				0,52 			 |  				31 			  |  				15 			 |  				9 			  |
+|        |  				Pathma 				and Sakthivel (176) 			    |  				4,35 			  |  				0,65 			 |  				173 			 |  				14 			 |  				7 			  |
+|        |  				Tarraf 				et 				al. (177) 			           |  				2,99 			  |  				0,68 			 |  				58 			  |  				10 			 |  				5 			  |
+|        |  				Ostadi 				et 				al. (178) 			           |  				3,67 			  |  				0,49 			 |  				49 			  |  				9 			  |  				6 			  |
+|        |  				Al-Sayed 				et 				al. (179) 			         |  				2,99 			  |  				0,56 			 |  				40 			  |  				8 			  |  				5 			  |
+|        |  				Douds 				Jr. et 				al. (180) 			        |  				2,99 			  |  				0,53 			 |  				62 			  |  				8 			  |  				5 			  |
+|  				R7 			   |  				Aseri 				et 				al. (181) 			            |  				2,99 			  |  				0,81 			 |  				131 			 |  				22 			 |  				5 			  |
+:::
+
+### g05 {.smaller .scrollable}
+
+::: {style="font-size: 80%; text-align: left; "}
+|  				Zone 			 |  				Paper 			                        |  				Zi 			    |  				Pi 			   |  				TC 			  |  				Ki 			  |  				ki 			 |
+|--------|--------------------------------|---------|--------|-------|-------|------|
+|  				R5 			   |  				Fu 				et 				al. (182) 			              |  				12,77 			 |  				0,11 			 |  				208 			 |  				73 			  |  				69 			 |
+|        |  				Shen 				et 				al. (183) 			            |  				9,37 			  |  				0,14 			 |  				160 			 |  				55 			  |  				51 			 |
+|        |  				Xiong 				et 				al. (184) 			           |  				9,56 			  |  				0,04 			 |  				162 			 |  				53 			  |  				52 			 |
+|        |  				Shen 				et 				al. (185) 			            |  				5,97 			  |  				0,27 			 |  				78 			  |  				39 			  |  				33 			 |
+|        |  				Tao 				et 				al. (186) 			             |  				2,95 			  |  				0,00 			 |  				160 			 |  				17 			  |  				17 			 |
+|        |  				Zhang 				et 				al. (187) 			           |  				2,57 			  |  				0,12 			 |  				65 			  |  				16 			  |  				15 			 |
+|  				R6 			   |  				Bardwaj 				et al. (14) 			          |  				12,95 			 |  				0,62 			 |  				484 			 |  				122 			 |  				70 			 |
+|        |  				Basu 				et 				al. (31) 			             |  				3,52 			  |  				0,67 			 |  				279 			 |  				41 			  |  				20 			 |
+|        |  				Mącik, 				Gryta, and Frąc (188) 			 |  				3,14 			  |  				0,70 			 |  				104 			 |  				41 			  |  				18 			 |
+|        |  				Mitter 				et 				al. (189) 			          |  				2,95 			  |  				0,66 			 |  				99 			  |  				32 			  |  				17 			 |
+|        |  				Igiehon 				and Babalola (190) 			   |  				2,95 			  |  				0,58 			 |  				133 			 |  				29 			  |  				17 			 |
+:::
+
+### g06 {.smaller .scrollable}
+
+::: {style="font-size: 80%; text-align: left; "}
+|  				Zone 			 |  				Paper 			                             |  				Zi 			    |  				Pi 			   |  				TC 			  |  				Ki 			  |  				ki 			 |
+|--------|-------------------------------------|---------|--------|-------|-------|------|
+|  				R6 			   |  				Wu 				et 				al. (191) 			                   |  				15,68 			 |  				0,61 			 |  				423 			 |  				113 			 |  				67 			 |
+|        |  				Okon 				and Labandera-Gonzalez (192) 			 |  				4,50 			  |  				0,55 			 |  				448 			 |  				31 			  |  				20 			 |
+|        |  				Çakmakçı, 				Kantar, and Sahin (193) 			 |  				3,08 			  |  				0,54 			 |  				107 			 |  				24 			  |  				14 			 |
+:::
+
+::::
+
+## Distribuição geográfica  {.smaller}
+
+:::: {.panel-tabset}
+
+### todos
+
+![](biofertilizer/geographical-distribution-all-groups.png){width="70%" fig-align="center"}
+
+### g01
+
+![](biofertilizer/geographical-distribution-g01.png){width="70%" fig-align="center"}
+
+### g02
+
+![](biofertilizer/geographical-distribution-g02.png){width="70%" fig-align="center"}
+
+### g03
+
+![](biofertilizer/geographical-distribution-g03.png){width="70%" fig-align="center"}
+
+### g04
+
+![](biofertilizer/geographical-distribution-g04.png){width="70%" fig-align="center"}
+
+### g05
+
+![](biofertilizer/geographical-distribution-g05.png){width="70%" fig-align="center"}
+
+### g06
+
+![](biofertilizer/geographical-distribution-g06.png){width="70%" fig-align="center"}
+
+::::
+
+## STM
+
+## TODO  {.smaller}
+
+:::: columns
+::: {.column width="40%"}
+
+**Indicadores por grupo**
+
+- [ ] Corrocher 2021 @Corrocher2021
   - Opportunity
   - Cumulativeness
   - Originality
   - Complexity
   - Technological cycle
   - Stock of knowledge
- 
-- Subelj 2020
+- [ ]  Subelj 2020 @Subelj2020 
   - Intermediacy 
-
-- Shin 2022
+- [ ] Shin 2022 @Shin2022
   - novelty
-
-- Li 2022
+- [ ] Li 2022 @Li2022
   - estima curva em S
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 
-- Liu 2020
+**Indicadores por grupo**
+
+- [ ]  Liu 2020 @Liu2020
   - perplexity
-
-- Kim 2018
+- [ ] Kim 2018 @Kim2018
   - juncture 
   - divergence
   - convergence
-
-- Ding 2024
+- [ ] Ding 2024 @Ding2024
   - trajectory prediction with temporal networks
     - cited by
     - aplied by
     - belongs to
-
-- Chen 2012
+- [ ] Chen 2012 @Chen2012
   - overlap between communities
   - technology cycle time 
 
-::: 
 :::
 
-## Vertical tabset
-
-<span style="color:red;">TODO</span>
-
-## {background-image="images/biblioteca-alexandria.jpg" data-menu-title="Análise preliminar"}
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-::: {style="font-size: 70px; text-align: center; font-weight: bold; background-color:AliceBlue; color: Olive;"}
-Apresentação PI Pharma
-:::
-
-## Coleta de dados $\approx$ 7500 documentos {data-menu-title="Coleta de dados"}
-
-::: panel-tabset 
-
-### Pharma
+::: {.column width="20%"}
 
 <br>
 
-```
-191 results from Web of Science Core Collection for: 
+**Difusão tecnológica**
 
-"intellectual property" (All Fields) AND 
-pharma* (All Fields) and 6.3 Management or 6.10 Economics or 1.1
-
-- Article 
-- Reviews Article
-```
+Conectar as trajetórias com indicadores de maturidade tecnológica. Exemplo TRL.
 
 <br>
 
-::: {style="font-size: 70%;"}
-Relatório completo: <https://roneyfraga.com/projects/2023-jc>
-:::
+**birddog**
 
-### Research and Development
-
-<br>
-
-```
-1,607 results from Web of Science Core Collection for: 
-
-Results for 
-"intellectual property" (All Fields) AND 
-research (All Fields) AND 
-development (All Fields) 
-
-Limited to 
-
-- 6.3 Management or 
-- 6.10 Economics or 
-- 3.4 Crop Science or 
-- 6.238 Bibliometrics, Scientometrics & Research Integrity or 
-- 6.122 Economic Theory or 
-- 6.263 Agricultural Policy or 
-- 6.27 Political Science 
-```
-
-### Competition
-
-<br>
-
-```
-1,973 results from Web of Science Core Collection for: 
-
-"intellectual property" OR "patent*" (All Fields) and 
-monopol* OR competition OR "market power" (All Fields) and 
-Article or Review Article (Document Types) and 
-Economics or Management or Business or Business Finance or Pharmacology Pharmacy or Computer Science Information Systems or Political Science (Web of Science Categories)
-```
-
-### Innovation
-
-<br>
-
-```
-3,694 results from Web of Science Core Collection for: 
-
-( TITLE-ABS-KEY ( "intellectual property" ) AND TITLE-ABS-KEY ( innovation* ) ) AND 
-( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) ) 
-
-Limited to 
-
-- Economics, Econometrics and Finance
-- Business, Management and Accounting
-- Social Sciences
-```
+Lançar para o plúblico o pacote de R `birddog`.
 
 :::
+:::: 
 
+## A quem interessa? {.smaller}
 
-## Metodologia: ciência da ciência {.smaller}
-
-::: panel-tabset 
-
-<!--
-## SciSci {.smaller}
-
-<br>
-
-#### Análises baseadas em dados
-
-::: columns
-::: {.column width="70%"}
-
-- @Fortunato2018: 
-  - A ciência é uma rede, auto-organizada e em evolução. 
-  - Padrões que caracterizam os campos científicos são visualizados por meio de redes de citação e colaboração. 
-  - Compreende-se a ciência via: análises interdisciplinares orientadas por dados,  junto a cienciometria, a economia e a sociologia da ciência.
-:::
-
-::: {.column width="30%" .smaller}
-- Bases de dados:
-  - Web of Science; 
-  - Scopus;
-  - EPO; 
-  - INPI; 
-  - USPTO;
-  - Lattes.
-:::
-:::
--->
-
-## Redes {.smaller}
-
-::: columns
-::: {.column width="63%"}
-
-![](images/tipos-redes-v2.png){ width=90% }
-
-<br>
-
-- A ciência é uma rede, auto-organizada e em evolução. [@Fortunato2018; @Shibata2009; @Batagelj2013; @Barabasi2016; @Souza2021; @Souza2022]
-
-:::
-
-::: {.column width="37%" .smaller}
-```{r}
-#| fig-width: 6
-#| fig-height: 6
-# Load data
-library(networkD3)
-data(MisLinks)
-data(MisNodes)
-
-# Plot
-networkD3::forceNetwork(Links = MisLinks, Nodes = MisNodes, Source = "source",
-             Target = "target", Value = "value", NodeID = "name",
-             Group = "group", opacity = 0.9,
-             )
-```
-:::
-:::
-
-## Prestígio 
-
-::: columns
+:::: columns
 ::: {.column width="50%"}
 
-Prestígio calculado via número de citações. @Guimera2005
-
 <br>
 
-Citações intra-grupo:
+1. Pesquisadores e Acadêmicos
+2. Indústrias e Empresas
+3. Governo e Formuladores de Políticas Públicas
+4. Investidores e Capital de Risco
+5. Sociedade em Geral
+6. Instituições de Ensino Superior
+7. Agências de Fomento à Pesquisa
 
-$$
-z_i = {k_i - \bar k_{s_i} \over \sigma_{k_{s_i}}}
-$$
-
-<br>
-
-Citação entre grupos:
-
-$$
-P_i = 1 - \sum_{s=1}^{S} \left({k_{s_i} \over K_i} \right)^2
-$$
 :::
 
 ::: {.column width="50%"}
-![](images/Zi_Pi_colors.png){ width=70% }
 
-- **Hubs:** R7, R6 e R5 (prestígio elevado) 
-- **non-Hubs**: R4, R3, R2, R1
-:::
-:::
+> NSF TRACES program of the 1960s attempted to trace important events in the R&D process. 
 
-## Mineração de texto
+> DARPA’s Topic Detection and Tracking (TDT) program started in the late 1990s and ran for several years.
 
-::: columns
-::: {.column width="60%"}
+> IARPA’s Foresight and Understanding from Scientific Exposition (FUSE) program was funded in 2011.
 
-**Abordagem básica**
+> Contest of Measuring Tech Emergence, promote further the development of emerging research topics (2018–2019).
 
-<br>
+> Emerging Research Areas and their Coverage supported by the European Research Council (ERC).
 
-**Part of Speech**
+- Ver Small 2014 @Small2014 and Xu 2019 @Xu2019.
 
-![](images/part-to-speech.png)
-
-[Fonte: <https://www.kaianalytics.com/post/5-text-analysis-nlp-buzzwords>]{style="font-size: 20px"}
-:::
-
-::: {.column width="40%" .smaller}
-
-<br>
-
-**Filtros linguísticos** @Frantzi2000
-
-![](images/linguistic-filter.png){ width=70% }
-
-**Importência dos termos (keyword)**
-
-![](images/tfidf.jpg)
-
-[Fonte: <https://ibb.co/4Pn0YCF>]{style="font-size: 20px"}
-:::
-:::
-
-## Modelagem Estrutural de Tópicos
-
-::: columns
-::: {.column width="60%"}
-
-**Structural Topic Modeling -- STM**.
-
-Agrupamente de textos considerando a similaridade semântica. @Roberts2019
-
-![](images/stm4.png){ width=60% }
+<!-- - Ex.: Acrocomia na Alemanha -->
 
 :::
-
-::: {.column width="40%"}
-![](images/stm5.png){ width=70% }
-:::
-:::
-
-:::
-
-## {background="#43464B" background-image="images/book-page-blur-v2.jpg" data-menu-title="Destaques"}
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-::: {style="font-size: 110px; text-align: center; font-weight: bold; color: #e64b00;"}
-Destaques
-:::
+::::
 
 ## Referências
 

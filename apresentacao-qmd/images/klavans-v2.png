@@ -1,0 +1,1162 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="description" content='The International Society for Informetrics and Scientometrics (ISSI) is an international association of scholars and professionals active in the interdisciplinary study science of science, science communication, and science policy.'>
+    
+    <link rel="canonical" href="https://www.issi-society.org/awards/derek-de-solla-price-memorial-medal/"/>
+    <title>Derek de Solla Price Memorial Medal | International Society for Scientometrics and Informetrics</title>
+    <meta name="description" content="The International Society for Informetrics and Scientometrics (ISSI) is an international association of scholars and professionals active in the interdisciplinary study science of science, science communication, and science policy.">
+	<meta property="og:type" content="website">
+    <meta property="og:title" content="Derek de Solla Price Memorial Medal | International Society for Scientometrics and Informetrics" />
+    <meta property="og:image" content="https://www.issi-society.org/media/1312/issi-og-graph_web.png" />
+    <meta property="og:url" content="https://www.issi-society.org/awards/derek-de-solla-price-memorial-medal/" />
+    <meta property="og:description" content="The International Society for Informetrics and Scientometrics (ISSI) is an international association of scholars and professionals active in the interdisciplinary study science of science, science communication, and science policy." />
+    <meta property="og:site_name" content="International Society for Scientometrics and Informetrics" />	
+
+
+    <!-- WEB FONT -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/plugins.css">
+    <link rel="stylesheet" href="/css/palette.css">
+    <link rel="stylesheet" href="/css/layout.css">
+    <link rel="stylesheet" href="/css/issi.css">
+	
+    <!-- INTERNAL STYLES -->
+        <style>
+        #site,
+        header {
+	        right:auto; left:auto;
+	        max-width:1500px; margin:0 auto;
+	    }
+
+        header #logo {
+	        width: 111px; 
+            height: 60px;
+	    }
+
+        header #logo a {
+            width: 111px;
+            height: 60px;
+            background-image: url('/media/1277/logo-issi-bg-white.png?width=111&amp;height=60');
+            background-repeat:no-repeat; background-position:center;
+        }
+
+        @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5), only screen and (-webkit-min-device-pixel-ratio : 2), only screen and (min-device-pixel-ratio : 2) {
+            header #logo a {
+                background-image: url('/media/1277/logo-issi-bg-white.png');
+                background-size: 111px 60px;
+            }
+        }
+    </style>
+
+
+    <!-- SCRIPTS -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <script src="/scripts/bootstrap.js"></script>
+    <script src="/scripts/plugins.js"></script>
+    <script src="/scripts/application.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.6/jquery.validate.unobtrusive.min.js"></script>
+    <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+	<!--[if IE]>
+	<link rel="stylesheet" href="/css/ie.css">
+	<![endif]-->
+
+	
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ICONS -->
+            <link rel="shortcut icon" href="/media/1072/favicon.ico?width=32&height=32" type="image/ico" />
+        <link rel="apple-touch-icon" sizes="57x57" href="/media/1072/favicon.ico?width=57&height=57">
+        <link rel="apple-touch-icon" sizes="60x60" href="/media/1072/favicon.ico?width=60&height=60">
+        <link rel="apple-touch-icon" sizes="72x72" href="/media/1072/favicon.ico?width=72&height=72">
+        <link rel="apple-touch-icon" sizes="76x76" href="/media/1072/favicon.ico?width=76&height=76">
+        <link rel="apple-touch-icon" sizes="114x114" href="/media/1072/favicon.ico?width=114&height=114">
+        <link rel="apple-touch-icon" sizes="120x120" href="/media/1072/favicon.ico?width=120&height=120">
+        <link rel="apple-touch-icon" sizes="144x144" href="/media/1072/favicon.ico?width=144&height=144">
+        <link rel="apple-touch-icon" sizes="152x152" href="/media/1072/favicon.ico?width=152&height=152">
+        <link rel="apple-touch-icon" sizes="180x180" href="/media/1072/favicon.ico?width=180&height=180">
+        <link rel="icon" type="image/png" href="/media/1072/favicon.ico?width=16&height=16" sizes="16x16">
+        <link rel="icon" type="image/png" href="/media/1072/favicon.ico?width=32&height=32" sizes="32x32">
+        <link rel="icon" type="image/png" href="/media/1072/favicon.ico?width=96&height=96" sizes="96x96">
+        <link rel="icon" type="image/png" href="/media/1072/favicon.ico?width=192&height=192" sizes="192x192">
+        <meta name="msapplication-square70x70logo" content="/media/1072/favicon.ico?width=70&height=70" />
+        <meta name="msapplication-square150x150logo" content="/media/1072/favicon.ico?width=150&height=150" />
+        <meta name="msapplication-wide310x150logo" content="/media/1072/favicon.ico?width=310&height=150" />
+        <meta name="msapplication-square310x310logo" content="/media/1072/favicon.ico?width=310&height=310" />
+
+
+
+    
+
+    
+
+</head>
+<body  class="standard-page">
+
+    <!-- SITE -->
+    <div id="site">
+
+        <!-- HEADER -->
+        <header>
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- LOGO -->
+                        <div id="logo"><a href="/">International Society for Scientometrics and Informetrics</a></div>
+
+
+                    <!--// LOGO -->
+                    <!-- EXPAND -->
+                    <a class="expand">
+                        <em>Menu</em>
+                        <span class="line top"></span>
+                        <span class="line mid"></span>
+                        <span class="line bottom"></span>
+                    </a>
+                    <!--// EXPAND -->
+                    <!-- NAVIGATION -->
+                    <div class="navigation">
+
+                        <!-- REVEAL -->
+                        <div class="reveal">
+
+                            
+        <nav class="main">
+            <ul>
+                        <li >
+                            <a href="/"   >
+                                <span>
+                                    Home
+                                </span>
+                            </a>
+                                                    </li>
+                        <li >
+                            <a href="/join/"   >
+                                <span>
+                                    Join
+                                </span>
+                            </a>
+                                                    </li>
+                        <li >
+                            <a href="/about/"   >
+                                <span>
+                                    About
+                                </span>
+                            </a>
+                                                    </li>
+                        <li  class="has-child">
+                            <a href="/awards/"  class="active"  >
+                                <span>
+                                    Awards
+                                </span>
+                            </a>
+                                <i class="ion-chevron-down"></i>
+                                <ul>
+            <li >
+                <a  class="active" href="/awards/derek-de-solla-price-memorial-medal/">
+                    <span>
+Derek de Solla Price Memorial Medal                    </span>
+                </a>
+                            </li>
+            <li >
+                <a  href="/awards/issi-paper-of-the-year-award/">
+                    <span>
+ISSI Paper of the Year Award                    </span>
+                </a>
+                            </li>
+            <li >
+                <a  href="/awards/eugene-garfield-doctoral-dissertation-scholarship-2023/">
+                    <span>
+Eugene Garfield Doctoral Dissertation Scholarship 2023                    </span>
+                </a>
+                            </li>
+            <li >
+                <a  href="/awards/issi-student-travel-award/">
+                    <span>
+ISSI Student Travel Award                    </span>
+                </a>
+                            </li>
+    </ul>
+                        </li>
+                        <li >
+                            <a href="/conferences/"   >
+                                <span>
+                                    Conferences
+                                </span>
+                            </a>
+                                                    </li>
+                        <li  class="has-child">
+                            <a href="/workshops/"   >
+                                <span>
+                                    Workshops
+                                </span>
+                            </a>
+                                <i class="ion-chevron-down"></i>
+                                <ul>
+            <li >
+                <a  href="/workshops/reproducible-scientometrics-research-issi2017/">
+                    <span>
+Reproducible Scientometrics Research (ISSI2017)                    </span>
+                </a>
+                            </li>
+    </ul>
+                        </li>
+                        <li  class="has-child">
+                            <a href="/publications/"   >
+                                <span>
+                                    Publications
+                                </span>
+                            </a>
+                                <i class="ion-chevron-down"></i>
+                                <ul>
+            <li >
+                <a  href="/publications/quantitative-science-studies/">
+                    <span>
+Quantitative Science Studies                    </span>
+                </a>
+                            </li>
+            <li  class="has-child">
+                <a  href="/publications/issi-newsletter/">
+                    <span>
+ISSI Newsletter                    </span>
+                </a>
+                    <i class="ion-chevron-down hidden-lg hidden-md hidden-sm"></i><i class="ion-chevron-right hidden-xs"></i>
+                    <ul>
+            <li >
+                <a  href="/publications/issi-newsletter/editorial-guidelines/">
+                    <span>
+Editorial guidelines                    </span>
+                </a>
+                            </li>
+    </ul>
+            </li>
+            <li >
+                <a  href="/publications/issi-festschrift-series/">
+                    <span>
+ISSI Festschrift Series                    </span>
+                </a>
+                            </li>
+            <li >
+                <a  href="/publications/issi-conference-proceedings/">
+                    <span>
+ISSI Conference Proceedings                    </span>
+                </a>
+                            </li>
+            <li >
+                <a  href="/publications/international-journal-of-scientometrics-and-informetrics-1995-1996/">
+                    <span>
+International Journal of Scientometrics and Informetrics (1995-1996)                    </span>
+                </a>
+                            </li>
+    </ul>
+                        </li>
+                        <li >
+                            <a href="/links/"   >
+                                <span>
+                                    Links
+                                </span>
+                            </a>
+                                                    </li>
+                        <li >
+                            <a href="/news/"   >
+                                <span>
+                                    News
+                                </span>
+                            </a>
+                                                    </li>
+                        <li >
+                            <a href="/blog/"   >
+                                <span>
+                                    Blog
+                                </span>
+                            </a>
+                                                    </li>
+                        <li >
+                            <a href="/open-citations/"   >
+                                <span>
+                                    Open citations
+                                </span>
+                            </a>
+                                                    </li>
+                        <li >
+                            <a href="/data-access/"   >
+                                <span>
+                                    Data access
+                                </span>
+                            </a>
+                                                    </li>
+            </ul>
+        </nav>
+
+
+
+
+                            	<div class="site-search">
+		<form role="search" action="/search-results/" method="get" name="searchForm">
+			<div class="form-group">
+                <label class="control-label hidden" for="email">Search the site</label>
+                <input type="text" class="form-control" id="search_field" name="search_field" placeholder='Search the site'>
+			</div>
+            <button type="submit" class="c1-bg c5-text"><i class="ion-ios-search-strong"></i></button>
+		</form>
+	</div>
+
+
+
+                            	
+    <nav class="top">
+        <ul>
+                        <li>
+                            <a href="/mailing-list/"  >Mailing list</a>      
+                        </li>
+                        <li>
+                            <a href="/contact/"  >Contact</a>      
+                        </li>
+                        <li>
+                            <a href="/sitemap/"  >Sitemap</a>      
+                        </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-user c1-text"></i>Members Area<i class="fa fa-angle-down after"></i></a>
+                        <ul class="dropdown-menu pull-right" role="menu">
+                            <li><a href="/login/"><i class="fa fa-sign-in c1-text"></i>Login</a></li>
+                        </ul>
+                    </li>
+        </ul>                                                            
+	</nav> 
+
+
+
+
+                        </div>
+                        <!--// REVEAL -->
+                    </div>
+                    <!--// NAVIGATION -->
+                </div>
+
+            </div>
+        </header>
+        <!--// HEADER -->
+        
+
+
+
+
+
+<!-- CONTENT -->
+<section class="content">
+
+    <!-- CONTAINER -->
+    <div class="container">
+
+        <!-- ROW -->
+        <div class="row">
+
+            <!-- CONTENT COL -->
+            <div id="left-col" class="col-md-8 col-xs-12">
+
+                        <h1 class="heading main" itemprop="headline">Derek de Solla Price Memorial Medal</h1>
+
+
+
+                <!-- IMAGE -->
+                
+
+                <!--// IMAGE -->
+
+                
+
+                
+
+
+
+  
+
+
+                    <!-- PAGE COMPONENT TEXT -->
+    <div class="spc textblock" id="pos_4242" >
+        <p><img style="width: 200px; height: 200px; float: right; margin-left: 15px; margin-bottom: 15px;" src="/media/1011/price_medal.gif?width=200&amp;height=200" alt="" data-id="1254">The awarding ceremony of the Derek de Solla Price Memorial Medal has become an essential part of the programme of ISSI conferences since the foundation of the Society in 1993. The Price Medal was conceived and launched by Tibor Braun, founder and former Editor-in-Chief of the international journal <em><a href="http://link.springer.com/journal/11192" target="_blank">Scientometrics</a></em>, and is periodically awarded by the journal to scientists with outstanding contributions to the fields of quantitative studies of science. The journal <em>Scientometrics</em> is an international journal for all quantitative aspects of the science of science, communication in science and science policy co-published by Akadémiai Kiadó, Budapest, and Springer, Dordrecht. The first medal was awarded to Eugene Garfield in 1984. The medal was first awarded annually, later, since 1993, biannually. You can view a short biography of Derek de Solla Price <a href="http://users.telenet.be/ronald.rousseau/html/price_awardees.html" target="_blank">here</a>.</p>
+<p>The procedure consists of two parts: nominating and voting. Nominations are made by a panel comprised of the editors and members of the advisory board of <em>Scientometrics</em> together with former Price awardees. First, the nomination panel is asked to nominate in a non-ranked list up to six scientists they feel have contributed most to the field of quantitative studies of science. Following receipt of nominations, ballots for voting are sent to the committee members. The winner of the award is the person (or team) with the highest score.</p>
+<h3>Price award winners</h3>
+    </div>
+    <!--// PAGE COMPONENT TEXT -->
+    		<!-- PAGE COMPONENT ACCORDION -->
+            <div class="spc accordion" id="pos_4223" >
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div role="tab" id="heading-1">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-1" aria-expanded="true" aria-controls="collapse-4223-1">
+                                2023 - Kevin W. Boyack (USA) and Richard Klavans (USA) (jointly)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-1">
+                        <div class="panel-body">
+                            <div>
+<p><img style="width: 210px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1444/dick_klavans.png" alt="Dick Klavans"></p>
+<p><strong>Richard (Dick) Klavans (USA)</strong> (1948-)</p>
+<p>Dick was inspired by Thomas Kuhn’s insights into the structure of scientific revolutions and Henry Small’s bibliometric approach to characterizing how research is structured and evolves. After completing his PhD in Economics at the University of Pennsylvania in 1989, he formed a company (SciTech Strategies) to make these insights useful to practitioners. In early years, the firm created large scale maps of research for practitioners in corporations (Abbott Labs, Astra Zeneca, Dupont, Glaxo, Kellogg, Kraft, Pfizer, SmithKline Beecham, and Unilever).</p>
+</div>
+<div style="clear: both;"><img style="width: 210px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1445/kwb_istanbul.png" alt="Kevin" data-id="1831">
+<p><strong>Kevin W. Boyack (USA)</strong> (1962-)</p>
+<p>Kevin received his PhD in Chemical Engineering at Brigham Young University in 1990. After studying combustion processes at Sandia National Laboratories, he became involved in a project where a new visualization technique developed at Sandia (VxInsight/VxOrd) was used to create highly detailed maps of the ISI databases used to aid Sandia’s internal funding allocation and collaboration activities. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Dick and Kevin met and started collaborating in the early 2000s. They both saw the usefulness of using global (vs. local) models of the peer-reviewed literature for the purpose of research planning. Kevin joined Dick at SciTech Strategies in 2007. Since then, their work has continually aimed at increasing our knowledge of the structure and dynamics of science and technology with a particular focus on accuracy. In addition to working with industry, SciTech has created large scale maps and models for government agencies (DOE, NSF, NIH and IARPA) and universities (Univ. of Michigan Medical School). The firm’s algorithms for detecting research communities are also used in Scival<sup>©</sup>–Elsevier’s research intelligence tool. Current projects focus on predicting which research communities will have exceptional growth in funding, growth in publications and translational impact. </p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-2">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-2" aria-expanded="true" aria-controls="collapse-4223-2">
+                                2021 - Ludo Waltman (Netherlands)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-2">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 30px;" src="/media/1426/ludo-2021-2.png?width=210&amp;height=280" alt="" data-udi="umb://media/b80a7a03546c49b1a45010dfa3c95d01" /> <strong>Ludo Waltman</strong> (NL 1982-)</p>
+<p>Ludo Waltman is professor of Quantitative Science Studies and deputy director at the <a rel="noopener" href="https://www.cwts.nl/" target="_blank">Centre for Science and Technology Studies (CWTS)</a> at Leiden University. Ludo has a background in computer science and economics. After receiving his PhD degree in economics at Erasmus University Rotterdam, he switched to the field of scientometrics and quantitative science studies. Ludo’s research focuses on developing new infrastructures, algorithms, and tools to support research assessment, science policy, and scholarly communication. Together with his colleague <a rel="noopener" href="https://www.cwts.nl/people/neesjanvaneck" target="_blank">Nees Jan van Eck</a>, Ludo has developed the well-known <a rel="noopener" href="https://www.vosviewer.com/" target="_blank">VOSviewer software tool</a> for bibliometric visualization. Ludo is former Editor-in-Chief of <em>Journal of Informetrics</em> and currently serves as Editor-in-Chief of <em><a rel="noopener" href="https://direct.mit.edu/qss" target="_blank">Quantitative Science Studies</a></em>.<br /><br />ORCID: <a rel="noopener" href="https://orcid.org/0000-0001-8249-1752" target="_blank">https://orcid.org/0000-0001-8249-1752</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-3">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-3" aria-expanded="true" aria-controls="collapse-4223-3">
+                                2019 - Lutz Bornmann (Germany)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-3">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; float: left; margin-right: 10px; margin-bottom: 30px;" src="/media/1398/1811_bornmann_5293_zugeschnitten.png?width=250&amp;height=311" alt="" data-udi="umb://media/184d5fcc06464e56bd89e91c092884fe" /></p>
+<p><strong>Lutz Bornmann </strong>(Germany 1967-)</p>
+<p>Lutz Bornmann is habilitated sociologist of science and works at the Division for Science and Innovation Studies in the Administrative Headquarters of the Max Planck Society in Munich (Germany). He received his PhD in sociology from the University of Kassel (Germany) and started his research in scientometrics in the early 2000s at the International Centre for Higher Education Research Kassel (INCHER-Kassel) and ETH Zurich (Switzerland, Professorship for Social Psychology and Research on Higher Education). His research interests include research evaluation, peer review, bibliometrics, and altmetrics. He is member of the editorial board of Quantitative Science Studies (MIT Press), PLOS ONE (Public Library of Science), and Scientometrics (Springer) as well as advisory editorial board member of EMBO Reports (Nature Publishing group). He is principal developer of the program CRExplorer (<a rel="noopener" href="http://www.crexplorer.net" target="_blank">www.crexplorer.net</a>), which can be used for investigating the historical roots of researchers, topics, fields, and institutions.</p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-4">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-4" aria-expanded="true" aria-controls="collapse-4223-4">
+                                2017 - Judit Bar-Ilan (Israel)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-4">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 30px;" src="/media/1318/judit.png?width=210&amp;height=280" alt="Judit Bar-Ilan" data-id="1920"></p>
+<p><strong>Judit Bar-Ilan </strong>(1958-2019) </p>
+<p><span>Judit Bar-Ilan was professor at the Department of Information Science of Bar-Ilan University in Israel. She received her PhD in computer science from the Hebrew University of Jerusalem and started her research in information science in the mid-1990s at the School of Library, Archive and Information Studies of the Hebrew University of Jerusalem. She moved to the Department of Information Science at Bar-Ilan University in 2002.</span></p>
+<p>She was the Editor-in-Chief and the founder of The Journal of Altmetrics and member of several editorial boards of international journals, among others of JASIST, Scientometrics, Journal of Informetrics, PLoS ONE, Online Information Review and Frontiers in Research Metrics and Analytics and Quantitative Science Studies. She was active in the fields of informetrics, information retrieval, internet research, information behavior and usability. She was the academic head of MALMAD, the Israeli Inter-University Center for Digital Information Services since 2015.</p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-5">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-5" aria-expanded="true" aria-controls="collapse-4223-5">
+                                2015 - Mike Thelwall (UK)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-5">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1220/mike-thelwall.png?width=210&amp;height=280" alt="2015 Mike Thelwall (United Kingdom)" data-id="1920"></p>
+<p><a rel="noopener noreferrer" href="http://www.wlv.ac.uk/about-us/our-schools-and-institutes/faculty-of-science-and-engineering/all-faculty-staff/school-of-mathematics-and-computer-science-staff/professor-mike-thelwall/" target="_blank"><strong>Mike Thelwall</strong></a> (UK 1965-)</p>
+<p>The Editorial Board and the Publishers of Scientometrics are glad to announce that the 2015 Derek John de Solla Price Medal has been awarded to Michael Thelwall for his distinguished contribution to the field of sciento-metrics.</p>
+<p><a rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s11192-015-1647-x" target="_blank">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-6">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-6" aria-expanded="true" aria-controls="collapse-4223-6">
+                                2013 - Blaise Cronin (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-6">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1221/blaise-cronin.png?width=210&amp;height=280" alt="Blaise Cronin (USA)" data-id="1921"></p>
+<p><a rel="noopener" href="http://www.ils.indiana.edu/people/profile.html?profile_id=4" target="_blank"><strong>Blaise Cronin</strong></a> (USA 1949-)</p>
+<p>The Derek Price Medal Prize Selection Panel and the Publishers of Scientometrics are glad to announce that the 2013 Derek John de Solla Price Medal has been awarded to Blaise Cronin for his distinguished contributions to the field of scientometrics.</p>
+<p><a rel="noopener" href="https://link.springer.com/article/10.1007/s11192-013-1169-3" target="_blank">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-7">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-7" aria-expanded="true" aria-controls="collapse-4223-7">
+                                2011 - Olle Persson (Sweden)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-7">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1165/persson_high.jpg?width=210&amp;height=280" alt="Olle Persson (Sweden)" data-id="1827"></p>
+<p><a rel="noopener noreferrer" href="http://www.soc.umu.se/om-institutionen/personal/olle-persson/" target="_blank"><strong>Olle Persson</strong></a> (1949- )</p>
+<p>Olle Persson is Professor emeritus in Library and Information Science and was the founder of the Inforsk research group at Umeå University (Sweden) where he teaches Library &amp; Information science. He developed the toolbox <a rel="noopener noreferrer" href="http://homepage.univie.ac.at/juan.gorraiz/bibexcel/" target="_blank">BibExcel</a> which is broadly used by the bibliometric community.</p>
+<p><a rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s11192-011-0499-2" target="_blank">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-8">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-8" aria-expanded="true" aria-controls="collapse-4223-8">
+                                2009 - P&#233;ter Vinkler (Hungary) - Michel Zitt (France)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-8">
+                        <div class="panel-body">
+                            <div>
+<p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1166/vinkler_high.jpg?width=210&amp;height=280" alt="Peter Vinkler" data-id="1830"></p>
+<p><strong>Péter Vinkler (Hungary)</strong> (1941-)</p>
+<p>Péter Vinkler is Senior scientist and Scientific Secretary at the <a href="http://www.issi-society.org/Chemical%20Research%20Center" target="_blank">Chemical Research Center</a> of the <a href="http://www.mta.hu/index.php?id=406&amp;type=0" target="_blank">Hungarian Academy of Sciences</a>. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div>
+<div style="clear: both;"><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1167/zitt_high.jpg?width=210&amp;height=280" alt="Michel Zitt" data-id="1831">
+<p><strong>Michel Zitt (France)</strong> (1947-)</p>
+<p>Michel Zitt is senior researcher at <a href="http://www.inra.fr/esr/" target="_blank">INRA (Lereco lab, Nantes, France)</a> and advisor for scientometrics and R&amp;D at the <a href="http://www.obs-ost.fr/en.html" target="_blank">Observatoire des Sciences et des Techniques (OST, Paris, France)</a>.</p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-9">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-9" aria-expanded="true" aria-controls="collapse-4223-9">
+                                2007 - Katherine W. McCain (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-9">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px;" src="/media/1168/mccain_high.jpg?width=210&amp;height=280" alt="Katherine W. McCain" data-id="1832"></p>
+<p><strong>Katherine W. McCain</strong></p>
+<p>Professor at <a rel="noopener noreferrer" href="http://www.ischool.drexel.edu/" target="_blank">College of Information Science &amp; Technology</a>, <a rel="noopener noreferrer" href="http://www.drexel.edu/" target="_blank">Drexel University</a> (USA).</p>
+<p><a rel="noopener noreferrer" href="http://www.ischool.drexel.edu/faculty/kmccain/" target="_blank">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-10">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-10" aria-expanded="true" aria-controls="collapse-4223-10">
+                                2005 - Peter Ingwersen (Denmark) - Howard D. White (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-10">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1169/ingwersen_high.jpg?width=210&amp;height=280" alt="Peter Ingwersen (Denmark)" data-id="1834"></p>
+<p><strong>Peter Ingwersen</strong> (1947-)</p>
+<p>Research Professor at the <a rel="noopener noreferrer" href="http://www.db.dk/home_uk.htm" target="_blank">Department of Information Studies Royal School of Library and Information Science</a> (Denmark).</p>
+<p><a rel="noopener noreferrer" href="http://www.db.dk/pi/" target="_blank">More...</a></p>
+<div style="clear: both;"><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1170/white_high.jpg?width=210&amp;height=280" alt="Howard D. White" data-id="1835"></div>
+<p><strong>Howard D. White </strong>(1936-)</p>
+<p>Distinguished professor at <a rel="noopener noreferrer" href="http://www.drexel.edu/" target="_blank">Drexel University</a> (USA).</p>
+<p><a rel="noopener noreferrer" href="http://www.cis.drexel.edu/faculty/HUD.Web/HUD.html" target="_blank">more...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-11">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-11" aria-expanded="true" aria-controls="collapse-4223-11">
+                                2003 - Loet Leydesdorff (The Netherlands)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-11">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px;" src="/media/1171/leydesdorff_high.jpg?width=210&amp;height=280" alt="Loet Leydesdorff" data-id="1837"></p>
+<p><strong>Loet Leydesdorff</strong> (1948-2023)</p>
+<p>Loet Leydesdorff was Professor at the University of Amsterdam (The Netherlands). Jointly with Henry Etzkowitz, he developed the Triple Helix model of University-Industry-Government relations.</p>
+<p><a rel="noopener noreferrer" href="http://www.leydesdorff.net/" target="_blank">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-12">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-12" aria-expanded="true" aria-controls="collapse-4223-12">
+                                2001 - Ronald Rousseau (Belgium) - Leo Egghe (Belgium)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-12">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1172/rousseau_high.jpg?width=210&amp;height=280" alt="Ronald Rousseau" data-id="1839"></p>
+<p><strong>Ronald Rousseau</strong> (1949- )</p>
+<p>Ronald Rousseau is Associate Professor at the Catholic School for Higher Education Bruges-Ostend and Guest professor School for Library and Information Science (University Antwerp).</p>
+<p><a rel="noopener noreferrer" href="http://users.pandora.be/ronald.rousseau/index.html" target="_blank">More...</a></p>
+<div style="clear: both;"><img style="width: 210px; height: 280px; float: left; margin-right: 10px;" src="/media/1173/egghe_high.jpg?width=210&amp;height=280" alt="Leo Egghe" data-id="1840"><strong>Leo Egghe</strong> (1952- )</div>
+<p>Leo Egghe is Professor and Chief Librarian at Hasselt University (Belgium).</p>
+<p><a rel="noopener noreferrer" href="http://dblp.uni-trier.de/pers/hd/e/Egghe:Leo" target="_blank">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-13">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-13" aria-expanded="true" aria-controls="collapse-4223-13">
+                                1999 - Wolfgang Gl&#228;nzel (Germany/Hungary) - Henk F. Moed (The Netherlands)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-13" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-13">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px; border: 1px solid black;" src="/media/1317/wolfgang.png?width=210&amp;height=280" alt="Wolfgang Glänzel" data-id="1842"></p>
+<p><strong>Wolfgang Glänzel</strong> (1955- )</p>
+<p>Wolfgang Glänzel is Director of the Centre for R&amp;D Monitoring (ECOOM) and Professor at the <a rel="noopener noreferrer" href="http://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a> (Belgium). He is also Senior Scientist at the <a rel="noopener noreferrer" href="http://konyvtar.mta.hu/index_en.php?name=v_1_4_tud_elemzes" target="_blank">Library of the Hungarian Academy of Sciences</a> in Budapest.</p>
+<p>He is Editor-in-Chief of the journal <em><a rel="noopener noreferrer" href="https://link.springer.com/journal/11192" target="_blank">Scientometrics</a></em> and Secretary/Treasurer of ISSI.</p>
+<div style="clear: both;"><img style="width: 210px; height: 280px; float: left; margin-right: 10px;" src="/media/1175/moed_high.jpg?width=210&amp;height=280" alt="Henk F. Moed" data-id="1843"><strong>Henk F. Moed</strong> (1951-2021)
+<p>Henk Moed was Senior Scientific Advisor at Elsevier. Till 2010 he was Senior Researcher at the <a rel="noopener noreferrer" href="https://www.cwts.nl" target="_blank">Centre for Science and Technology Studies </a>(CWTS) and Professor at <a rel="noopener noreferrer" href="https://www.universiteitleiden.nl/en" target="_blank">Leiden University</a> (The Netherlands).</p>
+<p>Since 1981, he worked on science indicators and quantitative studies of science at Leiden University. Recent work in projects involved bibliometric analysis in relation to aspects of research performance.</p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-14">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-14" aria-expanded="true" aria-controls="collapse-4223-14">
+                                1997 - John Irvine (UK) and Ben Martin (UK) (jointly) - Belver C. Griffith (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-14">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1176/martin_high.jpg?width=210&amp;height=280" alt="Ben Martin" data-id="1845"><strong>Ben Martin</strong> (1952-)</p>
+<p>Ben Martin is Professor of Science and Technology Policy Studies, and Director of <a rel="noopener noreferrer" href="http://www.sussex.ac.uk/spru/" target="_blank">SPRU</a> at University of Sussex. He received the 1997 Price Award jointly with John Irvine.</p>
+<p><a rel="noopener noreferrer" href="http://www.sussex.ac.uk/profiles/1716" target="_blank">More...</a></p>
+<div style="clear: both;"><img style="width: 210px; height: 280px; float: left; margin-right: 10px;" src="/media/1177/griffith_high.jpg?width=210&amp;height=280" alt="Belver C. Griffith" data-id="1847"><strong>Belver C. Griffith</strong> (1931-1999)
+<p>Belver C. Griffith taught at Drexel's College of Information Science and Technology from 1969 until he retired in 1991. He was a pioneer in the field of information science and a world-renowned scientometrician studying the patterns in formal and information communication among scientists. He received many awards for his research, among others, the <strong>Drexel University Research Achievement Award</strong> in 1980 and the 1982 ASIS “<strong>Outstanding Information Teacher Award</strong>”.</p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-15">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-15" aria-expanded="true" aria-controls="collapse-4223-15">
+                                1995 - Anthony F.J. Van Raan (The Netherlands) - Robert K. Merton (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-15" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-15">
+                        <div class="panel-body">
+                            <div><img style="width: 210px; height: 280px; float: left; margin-right: 10px; margin-bottom: 10px;" src="/media/1026/vanraan_high.jpg?width=210&amp;height=280" alt="Anthony F. J. Van Raan" data-id="1284"><strong>Anthony F. J. Van Raan</strong> (1945- )</div>
+<p>Anthony F. J. Van Raan is research/emeritus Professor of Quantitative Studies of Science at Leiden University, The Netherlands.</p>
+<p>From 1985 till 2010 he was the Director of the <a rel="noopener noreferrer" href="https://www.cwts.nl" target="_blank">Centre for Science and Technology Studies (CWTS)</a> at Leiden University.</p>
+<p>He is member of the editorial advisory boards of the international journals <em><a rel="noopener noreferrer" href="http://rev.oxfordjournals.org/" target="_blank">Research Evaluation</a></em>, <em><a rel="noopener noreferrer" href="http://www.kluweronline.com/issn/0138-9138/contents" target="_blank">Scientometrics</a></em> and the <em><a rel="noopener noreferrer" href="http://www.journals.elsevier.com/journal-of-informetrics/" target="_blank">Journal of Informetrics</a></em>.</p>
+<p>His main research topics include: research performance assessments by bibliometric methods, mapping of science and technology and the science and technology interface, the construction of science and technology information systems based on advanced bibliometric methods, and science as a "self-organising ecosystem".</p>
+<p><a rel="noopener noreferrer" href="https://www.cwts.nl/tvr" target="_blank" title="Website Anthony F. J. Van Raan">More...</a></p>
+<p> </p>
+<div style="clear: both;"><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1027/merton_high.jpg?width=210&amp;height=280" alt="Robert K. Merton" data-id="1286">
+<p><strong>Robert K. Merton</strong> (1910 - 2003)</p>
+<p>Robert K. Merton <strong>one of the most influential sociologists</strong> of the 20th century.</p>
+<p>He spent much of his professional life at Columbia University where he was Professor of Sociology 1941-1979 and University Professor Emeritus thereafter.</p>
+<p>He received numerous awards for his research, and was <strong>honorary member of the New York Academy of Sciences</strong> and the <strong>European Academy of Sociology</strong>.</p>
+<p>His name is closely connected with the <strong>Matthew-Effect</strong> in science, Robert K. Merton revealed in the reward and communication system of science.</p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-16">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-16" aria-expanded="true" aria-controls="collapse-4223-16">
+                                1993 - Andr&#225;s Schubert (Hungary)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-16">
+                        <div class="panel-body">
+                            <p><strong><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1021/schubert_high.jpg?width=210&amp;height=280" alt="András Schubert" data-id="1271">András Schubert</strong> (1946- )</p>
+<p>András Schubert is Senior Scientist at the <a rel="noopener noreferrer" href="http://www.mtakszi.iif.hu/" target="_blank" title="Institute for Science Policy Research">Institute for Science Policy Research</a>, Hungarian Academy of Sciences in Budapest (Hungary).</p>
+<p>He is Editor of the journal Scientometrics.</p>
+<p><a rel="noopener noreferrer" href="http://hcr3.isiknowledge.com/author.cgi?&amp;link1=Browse&amp;link2=Results&amp;id=3684" target="_blank" title="more">More...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-17">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-17" aria-expanded="true" aria-controls="collapse-4223-17">
+                                1989 - Bertram C. Brookes (UK) - Jan Vlachy (Czechoslovakia)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-17">
+                        <div class="panel-body">
+                            <div>
+<p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1017/brookes_high.jpg?width=210&amp;height=280" alt="Bertram C. Brookes" data-id="1266"><strong>Bertram C. Brookes</strong> (1910-1991)</p>
+<p>Bertram C. Brookes taught Information Science at the University College London and later at City University London. He was a pioneer in information science and one of founders of informetrics.</p>
+<p>He was active in both philosophy of science and quantitative science studies.</p>
+</div>
+<div style="float: left; clear: both;">
+<p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1018/vlachy_high.jpg?width=210&amp;height=280" alt="Jan Vlachy" data-id="1267"></p>
+<p><strong>Jan Vlachy</strong> (1937 – 2010)</p>
+<p> </p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-18">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-18" aria-expanded="true" aria-controls="collapse-4223-18">
+                                1988 - Francis Narin (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-18" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-18">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1016/narin_high.jpg?width=210&amp;height=280" alt="Francis Narin" data-id="1264"><strong>Francis Narin </strong>(1934-)</p>
+<p>Francis Narin established CHI in 1968, an internationally recognized research consultancy specializing in developing evaluation tools and indicators for science and technology analysis.</p>
+<p>Narin is recognized as one of the world's leading experts on science and technology analysis. He started with the analysis of science in the 1970s, before developing evaluations of patents in the 1980s and later, in the 1990s, analysing linkage between science and technology.</p>
+<p>M<a rel="noopener noreferrer" href="http://www.chiresearch.com/about/staff/fnarin.php3" target="_blank">ore...</a></p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-19">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-19" aria-expanded="true" aria-controls="collapse-4223-19">
+                                1987 - Vasily V. Nalimov (Soviet Union) - Henry Small (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-19">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1015/nalimov_high.jpg?width=210&amp;height=280" alt="Vasily V. Nalimov" data-id="1262"><strong>Vasily V. Nalimov</strong> (1910-1997)</p>
+<p>Vasily V. Nalimov was a Russian polymath and visionary.</p>
+<p>In 1969, he published jointly with Z. M. Mulchenko their pioneering book entitled "<img style="width: 85px; height: 14px;" src="/media/1020/naukometria.gif?width=85&amp;height=14" alt="" data-id="1270">"  (Scientometrics)<br>in which they coined the term <em>Scientometrics</em> which is nowadays used synonymously for bibliometrics and which is also the title of the international core journal of our field.</p>
+<div style="float: left; clear: both;">
+<p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1019/small_high.jpg?width=210&amp;height=280" alt="Henry Small" data-id="1269"></p>
+<strong>Henry Small</strong> (1941- )
+<p>Henry Small is Chief Scientist and Director of Research Service Group at Thomson ISI.</p>
+<p>He is one of the foremost scholars in the area of developing and applying co-citation analysis. This important work has resulted in a better understanding of the structure, relationships, and evolution of the sciences.</p>
+<p>Henry Small received several Awards including the <strong>JASIS Best Paper Award</strong> in 1987, and in 1998, the <strong>Award of Merit</strong> from the American Society for Information Science &amp; Technology (ASIST).</p>
+<p>He has been named the sixth President of ISSI for the period of four years in 2003.</p>
+<p><a rel="noopener noreferrer" href="http://www.isinet.com/rsg/aboutrsg/" target="_blank">More...</a></p>
+</div>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-20">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-20" aria-expanded="true" aria-controls="collapse-4223-20">
+                                1986 - Tibor Braun (Hungary)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-20" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-20">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1014/braun_high.jpg?width=210&amp;height=280" alt="Tibor Braun" data-id="1260"><strong>Tibor Braun</strong> (1932-2022)</p>
+<p>Tibor Braun was director of the Information Science and Scientometric Research Unit (ISSRU) at the Hungarian Academy of Sciences.</p>
+<p>He was also Professor of Chemistry at the Loránd Eötvös University.</p>
+<p>He was the former Editor-in-Chief of the journal Scientometrics since its first appearance in 1978 and served as Honorary Editor later on.</p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-21">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-21" aria-expanded="true" aria-controls="collapse-4223-21">
+                                1985 - Michael J. Moravcsik (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-21" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-21">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1013/moravcsik_high.jpg?width=210&amp;height=280" alt="Michael J. Moravcsik" data-id="1258"><strong>Michael J. Moravcsik</strong> (1928-1989)</p>
+<p>Michael J. Moravcsik was called “multi-dimensional scholar and hero of third world science: physicist, scientometrician, music critic, and ambassador of science.” (E. Garfield and H. Small).</p>
+<p>Till 1989 he was professor of theoretical physics at the University of Oregon in Eugene.</p>
+                        </div>
+                    </div>       
+                    <div role="tab" id="heading-22">
+                        <p class="heading">
+                            <a role="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-4223-22" aria-expanded="true" aria-controls="collapse-4223-22">
+                                1984 - Eugene Garfield (USA)<i class="ion-plus c1-text"></i>
+                            </a>
+                        </p>
+                    </div>
+                    <div id="collapse-4223-22" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-4223-22">
+                        <div class="panel-body">
+                            <p><img style="width: 210px; height: 280px; float: left; margin-right: 20px;" src="/media/1012/garfield_high.jpg?width=210&amp;height=280" alt="Eugene Garfield" data-id="1256"><strong>Eugene Garfield</strong> (1925-2017)</p>
+<p>Eugene Garfield was one of the ‘fathers’ of scientometrics and a scientific information pioneer, awarded the first Derek de Solla Price Medal in 1984.</p>
+<p>He was Founder &amp; Chairman Emeritus of the <a rel="noopener noreferrer" href="http://www.isinet.com/" target="_blank" title="Institute for Scientific Information">Institute for Scientific Information</a>.</p>
+<p>Garfield was the president and editor-in-chief of the journal ‘<a rel="noopener noreferrer" href="http://www.the-scientist.com/" target="_blank" title="The Scientist">The Scientist</a>’.</p>
+<p>See a full biography and publications list <a rel="noopener noreferrer" href="http://www.garfield.library.upenn.edu/" target="_blank">here</a>.</p>
+                        </div>
+                    </div>       
+                </div>
+            </div>
+		    <!--// PAGE COMPONENT ACCORDION -->
+
+
+
+            </div>
+            <!--// CONTENT COL -->
+
+            			<div id="right-col" class="col-lg-3 col-md-4 col-xs-12 pull-right">                                                     
+			    <!-- SUB  -->
+			    		<!-- SUB -->
+		<nav class="sub has-borders c6-borders">
+			<p class="heading inner">
+				<a href="/awards/">
+Awards				</a>
+			</p>
+            <div class="inner">
+                        <ul>
+                    <li  class="active">
+                        <a href="/awards/derek-de-solla-price-memorial-medal/">
+Derek de Solla Price Memorial Medal                        </a>
+                    </li>
+                    <li >
+                        <a href="/awards/issi-paper-of-the-year-award/">
+ISSI Paper of the Year Award                        </a>
+                    </li>
+                    <li >
+                        <a href="/awards/eugene-garfield-doctoral-dissertation-scholarship-2023/">
+Eugene Garfield Doctoral Dissertation Scholarship 2023                        </a>
+                    </li>
+                    <li >
+                        <a href="/awards/issi-student-travel-award/">
+ISSI Student Travel Award                        </a>
+                    </li>
+        </ul>
+
+            </div>
+		</nav>
+		<!--// SUB -->		
+
+	
+  
+
+			    <!--// SUB -->
+			    <!-- PROMO PODS -->
+			                <div class="swp">
+
+            <div class="item listing-pod">
+                <nav class="sub has-borders c6-borders">
+                        <p class="heading inner">Latest news</p>
+                    <div class="listing">
+
+                            <div class="inner" style="padding: 20px 0 0 20px !important;">
+                                <div>
+                                    <a href="/news/issi-newsletter-76-is-out/">
+                                        <div style="margin-bottom: 10px;">
+                                            <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            <time itemprop="datePublished">February 29th, 2024</time>
+                                        </div>
+
+                                        <span class="c3-text">
+ISSI Newsletter #76 is out!                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="inner" style="padding: 20px 0 0 20px !important;">
+                                <div>
+                                    <a href="/news/issi-newsletter-editor-in-chief-call-for-application/">
+                                        <div style="margin-bottom: 10px;">
+                                            <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            <time itemprop="datePublished">February 15th, 2024</time>
+                                        </div>
+
+                                        <span class="c3-text">
+ISSI Newsletter – Editor-in-Chief Call for Application                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                    </div>
+                    <p class="link inner" style="padding: 0 0 20px 20px !important; margin-top: 15px !important;"><a class="btn c1-bg c5-text" href="/news/"  >See all</a></p>
+                </nav>
+            </div>
+
+    <div class="item general-pod">
+        <nav class="sub has-borders c6-borders">
+                    <p class="heading inner">
+<a class="c3-text" href="/join/"  >                        Join our society
+</a>                    </p>
+
+<div class="info inner">
+                    <div class="text"><p><span>Membership benefits include discounted registration for ISSI conferences and participation in voting and eligibility for ISSI awards.</span></p></div>
+
+                    <p class="link">
+                        <a href="/join/"   class="btn c1-bg c5-text">Become a member</a>
+                    </p>
+
+</div>        </nav>
+    </div>
+
+    <div class="item general-pod">
+        <nav class="sub has-borders c6-borders">
+                    <p class="heading inner">
+<a class="c3-text" href="https://groups.google.com/d/forum/issi-society"  title="Link will open in a new window/tab"  target="_blank">                        Join our mailing list
+<i class="ion-android-open after"></i></a>                    </p>
+
+<div class="info inner">
+                    <div class="text"><p><span>The ISSI mailing list is open to join, even for those who are not members of ISSI. This mailing list is a space for respectful dialogue for researchers and practitioners, a location for the latest job advertisements and professional opportunities, and a channel for our Society to keep members informed about issues of relevance.</span></p></div>
+
+                    <p class="link">
+                        <a href="https://groups.google.com/d/forum/issi-society"  title="Link will open in a new window/tab"  target="_blank" class="btn c1-bg c5-text">Subscribe<i class="ion-android-open after"></i></a>
+                    </p>
+
+</div>        </nav>
+    </div>
+            </div>
+
+
+			    <!--// PROMO PODS -->
+			</div>
+
+
+
+        </div>
+        <!--// ROW -->
+    
+    </div>
+    <!--// CONTAINER -->
+
+</section>
+<!--// CONTENT -->
+
+
+
+
+
+
+        <!-- OUTRO STRIP -->
+        
+        <section class="content apc cta-strip c3-bg">
+            <div class="container">
+
+
+                <!-- ROW -->
+                <div class="row">
+                        <div class="col-md-8 col-xs-12">
+                            <div class="text c5-text os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.2s">
+                                <div class="col-md-14 col-md-offset-3 col-sm-12 col-sm-offset-1 col-xs-20 text-center ">
+<h1>Join our society</h1>
+<br />
+<p><a style="text-decoration: none;" data-id="1591" href="/join/" class="btn c3-bg c5-text has-borders c5-borders">Become a member</a>         <a style="text-decoration: none;" data-id="1591" href="https://groups.google.com/d/forum/issi-society" target="_new" class="btn c3-bg c5-text has-borders c5-borders">Subscribe to our mailing list</a></p>
+</div>
+                            </div>
+                        </div>
+                    
+                </div>
+                <!--// ROW -->
+
+            </div>
+        </section>
+
+        <!--// OUTRO STRIP -->
+        <!-- BREADCRUMB -->
+        
+        <section class="breadcrumb-trail c5-bg">
+            <div class="container">
+
+                <!-- ROW -->
+                <div class="row">
+                    <nav class="col-xs-12">
+                        <ol>
+                                    <li id="br_1" itemscope itemtype="http://schema.org/Breadcrumb"  itemref="br_2"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+                                    <li id="br_2" itemscope itemtype="http://schema.org/Breadcrumb" itemprop="child" itemref="br_3"><a href="/awards/" itemprop="url"><span itemprop="title">Awards</span></a></li>
+
+                                    <li id="br_3" itemscope itemtype="http://schema.org/Breadcrumb" class="active" itemprop="child"><span itemprop="title">Derek de Solla Price Memorial Medal</span></li>
+
+                        </ol>
+                    </nav>
+                </div>
+                <!--// ROW -->
+            </div>
+        </section>
+
+        <!--// BREADCRUMB -->
+        <!-- FOOTER -->
+        <footer class="c4-bg">
+            <div class="container">
+
+                <!-- ROW -->
+                <div class="row">
+
+
+
+                    <div class="col-md-4 col-xs-12">
+
+                        	
+        <nav class="quick-links">
+	        <p class="heading">Quick links</p>
+		            <ul class="row">
+                        <li class="col-xs-6">
+                            <a href="/news/"  >
+                               News
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/blog/"  >
+                               Blog
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/about/"  >
+                               About ISSI
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/awards/"  >
+                               Awards
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/join/"  >
+                               Join ISSI
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/mailing-list/"  >
+                               Mailing list
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/conferences/"  >
+                               Conferences
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/conferences/#pos_1959"  >
+                               Past conferences
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/publications/"  >
+                               Publications
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/publications/issi-newsletter/"  >
+                               ISSI Newsletter
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/publications/issi-conference-proceedings/"  >
+                               Conference proceedings
+                            </a>
+                        </li>
+                        <li class="col-xs-6">
+                            <a href="/contact/"  >
+                               Contact
+                            </a>
+                        </li>
+            </ul>
+		</nav>
+
+
+                    </div>
+
+                    <div class="col-md-4 col-xs-12">
+
+                <nav class="quick-links">
+
+                        <p class="heading">Latest blog posts</p>
+
+                    <ul class="row">
+                            <li class="col-xs-12">
+                                <a href="/blog/posts/2024/february/winner-of-the-2023-eugene-garfield-doctoral-dissertation-scholarship-patricia-alonso-&#225;lvarez/" itemprop="url">
+
+                                    Winner of the 2023 Eugene Garfield Doctoral Dissertation Scholarship - Patricia Alonso-&#193;lvarez
+                                </a>
+                            </li>
+                            <li class="col-xs-12">
+                                <a href="/blog/posts/2022/november/open-access-publishing-in-quantitative-science-studies-an-update/" itemprop="url">
+
+                                    Open access publishing in Quantitative Science Studies – An update
+                                </a>
+                            </li>
+                    </ul>
+                </nav>
+
+                                        <nav class="quick-links">
+
+                        <p class="heading">Latest news</p>
+
+                    <ul class="row">
+                            <li class="col-xs-12">
+                                <a href="/news/issi-newsletter-76-is-out/" itemprop="url">
+                                    ISSI Newsletter #76 is out!
+                                </a>
+                            </li>
+                            <li class="col-xs-12">
+                                <a href="/news/issi-newsletter-editor-in-chief-call-for-application/" itemprop="url">
+                                    ISSI Newsletter – Editor-in-Chief Call for Application
+                                </a>
+                            </li>
+                    </ul>
+                </nav>
+
+                    </div>
+
+                    <div class="col-md-4 col-xs-12 ">
+
+                        
+                        <!-- COMPANY DETAILS -->
+                            <div class="company-details">
+		<p class="heading">Contact us</p>
+			<address>
+			<p><strong>ISSI Society</strong></p>
+<p style="margin-top: -10px;">Wolfgang Glänzel (Secretary-Treasurer)<br />Centre for R&amp;D Monitoring (ECOOM)<br />KU Leuven<br />Naamsestraat 61 – P.O. box 3551<br />B-3000 Leuven, Belgium<br />T: +32 16 325 713<br />E: wolfgang.glanzel[at]kuleuven.be</p>
+		</address>
+		</div> 
+
+                        <!--// COMPANY DETAILS -->
+
+                    </div>
+
+                </div>
+                <!--// ROW -->
+                <!-- ROW -->
+                <div class="row">
+
+                    <div class="col-sm-12">
+
+                        <nav class="footer">
+                            <ul class="nav">
+                                <li class="copyright"><div>&copy; 2024</div></li>
+                                	
+		    <li>
+                <a href="/disclaimer/"  >Disclaimer</a>                                       
+		    </li>
+		    <li>
+                <a href="/sitemap/"  >Sitemap</a>                                       
+		    </li>
+
+                                <li class="site_credit pull-right">
+                                    <div>									
+									</div>
+                                </li>
+                            </ul>
+                        </nav>
+
+                    </div>
+
+                </div>
+                <!--// ROW -->
+
+            </div>
+        </footer>
+        <!--// FOOTER -->
+        <!-- BACK TO TOP -->
+        <span id="top-link-block" class="c1-bg c5-text">
+            
+            <a href="#top" class="c1-bg c5-text" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+                <i class="ion-chevron-up"></i>
+            </a>
+        </span>
+        <!--// BACK TO TOP -->
+
+    </div>
+    <!--// SITE -->
+    
+    
+</body>
+</html>

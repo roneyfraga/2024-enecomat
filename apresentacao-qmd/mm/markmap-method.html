@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.17.2/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/index.js"></script><script>((r) => {
+            setTimeout(r);
+          })(() => {
+  const { markmap, mm } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute("style", "position:absolute;bottom:20px;right:20px");
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"Souza et al.","children":[{"content":"<strong>1.</strong> Collect data","children":[{"content":"Scopus","children":[],"payload":{"lines":"5,6"}},{"content":"WoS","children":[],"payload":{"lines":"6,7"}},{"content":"Derwent","children":[],"payload":{"lines":"7,8"}},{"content":"Google Patents","children":[],"payload":{"lines":"8,10"}}],"payload":{"lines":"3,4"}},{"content":"<strong>2.</strong> Import and organize the data","children":[{"content":"<code>R</code> + <code>bibliometrix</code> + <code>others</code>","children":[],"payload":{"lines":"12,14"}}],"payload":{"lines":"10,11"}},{"content":"<strong>3.</strong> Field analysis","children":[{"content":"Publication over time","children":[],"payload":{"lines":"16,17"}},{"content":"Growth rate","children":[],"payload":{"lines":"17,18"}},{"content":"Predicted publication","children":[],"payload":{"lines":"18,19"}},{"content":"Categories overview","children":[],"payload":{"lines":"19,21"}}],"payload":{"lines":"14,15"}},{"content":"<strong>4.</strong> Network analysis <code>birddog</code>","children":[{"content":"<strong>4.1</strong> Creat a citation network","children":[{"content":"Bibliographic coupling, or","children":[],"payload":{"lines":"25,26"}},{"content":"Direct citation, or","children":[],"payload":{"lines":"26,27"}},{"content":"Co-citation","children":[],"payload":{"lines":"27,29"}}],"payload":{"lines":"23,24"}},{"content":"<strong>4.2</strong> Extract the giant component","children":[],"payload":{"lines":"29,30"}},{"content":"<strong>4.3</strong> Build groups","children":[{"content":"Louvain algorithm or alternative","children":[],"payload":{"lines":"33,34"}}],"payload":{"lines":"31,32"}},{"content":"<strong>4.4</strong> Groups attributes","children":[{"content":"Size","children":[],"payload":{"lines":"37,38"}},{"content":"Average age","children":[],"payload":{"lines":"38,39"}},{"content":"Growth rate","children":[],"payload":{"lines":"39,40"}},{"content":"Publication over time","children":[],"payload":{"lines":"40,41"}}],"payload":{"lines":"35,36"}},{"content":"<strong>4.5</strong> Groups contents","children":[{"content":"Natural language procesing - NLP (<em>rake algorithm</em>)","children":[],"payload":{"lines":"44,45"}},{"content":"Text mining - TM (<em>tf-idf</em>)","children":[],"payload":{"lines":"45,46"}},{"content":"Hubs (<em>topological rules</em>)","children":[],"payload":{"lines":"46,47"}},{"content":"Strutural topic modeling – STM","children":[],"payload":{"lines":"47,48"}}],"payload":{"lines":"42,43"}},{"content":"<strong>4.6</strong> Groups evolution network","children":[{"content":"Groups trajectories","children":[],"payload":{"lines":"51,52"}}],"payload":{"lines":"49,50"}}],"payload":{"lines":"21,22"}}],"payload":{"lines":"1,2"}},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":3})</script>
+</body>
+</html>
