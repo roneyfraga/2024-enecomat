@@ -68,7 +68,6 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 
 <br>
 <br>
-<br>
 
 ![](images/roser-2023-linear-timeline-long-run_1600.png){width=80% fig-align="center"}
 
@@ -76,9 +75,7 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 Ver Roser (2023) Technology over the long run: zoom out to see how dramatically the world can change within a lifetime. Our World in Data. @Roser2023
 :::
 
-<br>
-
-::: {style="font-size: 90%; text-align: left; "}
+::: {style="font-size: 120%; text-align: left; "}
 - O problema da perspectiva:
   - Distância da Terra ao Sol: aproximadamente 149.6 milhões de km.
   - Se a Terra fosse do tamanho de uma bola de tênis, o Sol (com 11,7 metros de diâmetro) estaria a aproximadamente **7,19 km** de distância.
@@ -93,22 +90,20 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 
 ### Reflexões 
 
-- A perspectiva de longo prazo deixa claro o quão incomumente rápida é a mudança tecnológica em nosso tempo.
+::: {style="font-size: 120%; text-align: left; line-height: 1.5em; "}
 - A mudança tecnológica era extremamente lenta no passado e rápida agora.
 - Levou 2,4 milhões de anos – 12 voltas da espiral – para nossos ancestrais controlarem o fogo e usá-lo para cozer.
 - Desenrolar a espiral: últimos 12.000 anos.
-- História da comunicação: da escrita ao papel, à imprensa, ao telégrafo, ao telefone, ao rádio, até a Internet e os smartphones.
-- Em 1901 ocorreu o primeiro voo e 66 anos depois, primeiro pouso na lua.
+- "Longa" história da comunicação: da escrita ao papel, à imprensa, ao telégrafo, ao telefone, ao rádio, até a Internet e os smartphones.
+- "Rápida" história da aviação: em 1901 ocorreu o primeiro voo e 66 anos depois, primeiro pouso na lua.
 - A AI irá acelerar a velocidade das inovações? Décadas poderão serem reduzidas a poucos anos? [Ver AI timelines](https://ourworldindata.org/ai-timelines)
 - A **tecnologia continuará a mudar o mundo**, essa é uma `certeza`.
-
-<br>
-
 - Direção da tecnologia: desde a vacina (1796) da varíola até a bomba atômica (1945).
+:::
 
 ### Evitar
 
-::: {style="font-size: 80%; text-align: center; "}
+::: {style="font-size: 120%; text-align: center; "}
 
 - 1970
 - Beneath the Planet of the Apes (en)
@@ -136,7 +131,7 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 ::: columns
 ::: {.column width="50%"}
 
-::: {style="font-size: 85%; text-align: left; "}
+::: {style="font-size: 120%; text-align: left; "}
 
 **Artigos**
 
@@ -154,12 +149,8 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 
 ---------
 
-- Previsão de **2020** @Bornmann2021
-  -  taxa de crescimento geral de 4.10% a.a. com tempo de duplicação de 17.3 anos
-  1. Fase: Emergência da física moderna e pré-industrialização (1675–1809)
-  2. Fase: Revolução Industrial (1815–1882)
-  3. Fase: Crises econômicas períodos de Guerras Mundiais e Pós-guerra (1881–1952)
-  4. Fase: Período pós-guerra (depois de 1952 até hoje)
+- Previsões atualizadas em **2021** @Bornmann2021
+
 
 :::
 
@@ -167,11 +158,9 @@ Ver Roser (2023) Technology over the long run: zoom out to see how dramatically 
 
 ::: {.column width="50%"}
 
-::: {style="font-size: 85%; text-align: left; "}
-
 **Patentes**
 
----------
+::: {style="font-size: 110%; text-align: left; "}
 
 - **1421** na Itália (guincho para transportar mármore)
 - **1449** na Inglatera (vitrais de vidro)
@@ -245,21 +234,19 @@ Fonte: https://images.app.goo.gl/zwu7u92cyMYmDpSe8
 
 ## Previsões Erradas sobre Tecnologia  {.smaller}
 
-<br>
-
-<br>
-
+::: {style="font-size: 130%; text-align: left; "}
 1. **A Era do Papel**: Em 1975, o presidente da Xerox, Joseph C. Wilson, previu que a sociedade estaria completamente digitalizada e que o papel seria obsoleto. 
 
 2. **Computadores em Casa**: Em 1977, Ken Olsen, fundador da Digital Equipment Corporation, afirmou que "não havia razão para qualquer indivíduo ter um computador em casa". 
 
-3. **A Internet como uma Fadinha**: Em 1995, o CEO da Microsoft, Bill Gates, disse que a internet era uma "fada" e que não teria um grande impacto nos negócios. 
+3. **A Internet não teria grande impacto nos  negócios**: Em 1995, o CEO da Microsoft, Bill Gates, disse que a internet era uma "fada" e que não teria um grande impacto nos negócios. 
 
 4. **O Fim da Televisão**: Nos anos 2000, muitos especialistas previram que a televisão tradicional seria substituída por streaming e conteúdo digital. 
 
 5. **Carros Voadores**: Durante as décadas de 1950 e 1960, muitos futuristas previram que teríamos carros voadores em 2000. 
 
 6. **Inteligência Artificial Substituindo Humanos**: Nos anos 1980 e 1990, houve previsões de que a inteligência artificial substituiria completamente os humanos em muitas profissões até o início dos anos 2000. 
+:::
 
 ::: {.notes}
 - Não sou futorologista
@@ -284,22 +271,20 @@ Fonte: <https://images.app.goo.gl/PL8siUX3fx7ABzGv6>
 
 ### {.smaller}
 
+::: {style="font-size: 110%; text-align: left; "}
 - **Regras do Jogo**
-  - Retângulo com 64 casas, uma grade em duas cores alternada de 8x8;
+  - Tabuleiro quadrado com 64 casas, grades em duas cores alternadas de 8x8;
   - Cada jogador começa com 16 peças: 1 rei, 1 rainha, 2 torres, 2 bispos, 2 cavalos e 8 peões;
   - Movimentação das peças são pré-determinadas.
 
-<br>
-
 - **Bobby Fischer**
-  - Conhecido pela alta capacidade antecipar lances à frente.
+  - Conhecido pela alta capacidade de antecipar lances à frente.
   - Pergunta: qual sua capacidade para antecipar possibilidades de jogadas?
   - Resposta: Depende de quão aberto está o jogo, pode ser quase impossível prever várias rodadas com precisão.  
   - Xadrez é sobre: memorização e planejamento, a criatividade é baixa.
- 
-<br>
 
 - Em 1997 pela primeira vez um campeão mundial, **Garry Kasparov**, foi derrotado por computador, o **Deep Blue** da IBM.
+:::
 
 :::
 
@@ -319,22 +304,23 @@ Fonte: <https://images.app.goo.gl/PL8siUX3fx7ABzGv6>
 ::: columns
 ::: {.column width="40%"}
 
-::: {style="font-size: 80%; "}
+::: {style="font-size: 100%; "}
+
 ::: {.callout-note}
+
+::: {style="font-size: 130%; "}
 Diferentemente do xadrez, a economia é um sistema complexo!
+:::
 :::
 
 - 1987 prêmio oferecido pelo rei da Suécia para provar que o sistema solar é estável
 
-- 1989 **Henri Poincaré**, descobriu o contrário, a teoria do caos
-  - matemático e físico francês
+- 1989 **Henri Poincaré** ganhou o prêmio descobrindo o contrário, a teoria do caos
   - o sistema solar é instável
-  - se jupter e mercúrio entrarem em ressonância eles irão desastabilizar o sistema solar
 
 - 1950 **Edward Lorenz**
-  - matemático e meteorologista dos EUA, com 38 anos
   - previsões de meteorologia, quando mudava de 6 dígitos para 3 dígitos, os resultados das previsões alteravam radicalmente
-  - A teoria do caos trata de sistemas complexos que apresentam um fenômeno fundamental de instabilidade chamado sensibilidade às condições iniciais que, modulando uma propriedade suplementar de recorrência, torna-os não previsíveis na prática a longo prazo. 
+  - sistemas complexos são sensíveis às condições iniciais, torna-os não previsíveis na prática a longo prazo. 
 :::
 
 :::
@@ -364,28 +350,28 @@ Diferentemente do xadrez, a economia é um sistema complexo!
 ::: columns
 ::: {.column width="50%"}
 
-::: {style="font-size: 80%; "}
-1. **Interconexão e Interdependência**:
+::: {style="font-size: 100%; "}
+1. [**Interconexão e Interdependência**:]{style="font-size: 115%; "}
    - Os elementos de um sistema complexo estão interligados, e suas interações podem gerar comportamentos e padrões coletivos.
-2. **Auto-organização**:
+2. [**Auto-organização**:]{style="font-size: 115%; "}
    - Sistemas complexos têm a capacidade de se auto-organizar, formando estruturas e padrões sem a necessidade de um controle centralizado.
-3. **Não-linearidade**:
+3. [**Não-linearidade**:]{style="font-size: 115%; "}
    - As relações entre os componentes de um sistema complexo são frequentemente não-lineares, o que significa que pequenas mudanças podem ter grandes efeitos.
-4. **Adaptabilidade**:
+4. [**Adaptabilidade**:]{style="font-size: 115%; "}
    - Sistemas complexos são dinâmicos e podem se adaptar a mudanças em seu ambiente, respondendo a estímulos externos de maneira flexível.
 :::
 :::
 
 ::: {.column width="50%"}
 
-::: {style="font-size: 80%; "}
-5. **Hierarquia e Subsistemas**:
+::: {style="font-size: 100%; "}
+5. [**Hierarquia e Subsistemas**:]{style="font-size: 115%; "}
    - Sistemas complexos podem ser compostos por subsistemas que operam em diferentes níveis hierárquicos, cada um com suas próprias dinâmicas.
-6. **Fluxo de Informação**:
+6. [**Fluxo de Informação**:]{style="font-size: 115%; "}
    - A comunicação e o fluxo de informações entre as partes do sistema são fundamentais para sua operação e evolução.
-7. **Retroalimentação**:
+7. [**Retroalimentação**:]{style="font-size: 115%; "}
    - Os sistemas complexos operam com mecanismos de feedback, que podem ser positivos ou negativos, influenciando o comportamento do sistema como um todo.
-8. **Propriedades Emergentes**:
+8. [**Propriedades Emergentes**:]{style="font-size: 115%; "}
    - As propriedades de um sistema complexo não podem ser compreendidas apenas pela análise de suas partes isoladas; o todo é mais que a soma das partes.
 :::
 
@@ -453,7 +439,11 @@ Pergunta que ainda não temos resposta:
 ::: {.column width="80%"}
 
 ::: {.callout-note}
+
+::: {style="font-size: 160%; text-align: left; line-height: 1.0em; "}
 Schumpeter investigou a anatomia do motor capitalista. @Dosi2023
+:::
+
 :::
 
 :::
@@ -471,19 +461,17 @@ Fonte: <https://images.app.goo.gl/R2VeTdEKSDoQugGF6>
 
 ::: {.rows width="70%"}
 
+::: {style="font-size: 120%; text-align: left; line-height: 1.8em; "}
 **Livros**
 
 1. "The Theory of Economic Development" (1911): introduziu o conceito de "destruição criadora", a ideia de que o progresso econômico envolve a destruição de velhas estruturas e a criação de novas.
 
-<br>
-
 2. "Business Cycles" (1939): analisou os ciclos econômicos, baseando-se na teoria de que a inovação por empresários é o motor do crescimento econômico e que este crescimento ocorre em ciclos.
 
-<br>
-
 3. "Capitalism, Socialism and Democracy" (1942): este livro explora a relação entre inovação, democracia e mudança econômica. 
+:::
 
-::: {style="font-size: 110%; text-align: center; "}
+::: {style="font-size: 130%; text-align: center; "}
 - **Capítulo 7: o processo de destruição criadora**
 :::
 
@@ -511,45 +499,55 @@ Fonte: <https://www.the-waves.org/2023/11/15/innovation-waves-prosperity-through
 
 ### Ciclos {.smaller}
 
-::: {style="font-size: 85%; "}
-- Primeira onda - De 1785 a 1845, devido à expansão da máquina a vapor, o carvão substituiu a água, o vento e a força muscular, tornando o fornecimento de energia melhor, mais confiável e mais barato.
+::: {style="font-size: 80%; "}
+- [Primeira onda - De 1785 a 1845, máquina a vapor e a mecanização da indústria têxtil.]{style="font-size: 130%; "}
   - Europa nos séculos IV e V: 1 moinho de água = 2 hp, liberou 30 a 60 pessoas. @Reynolds1983
   - Englaterra de 1086, em  3.000 locais, existiam 6,082 moinhos de água.
   - Englaterra de 1300, estimasse que existiam 10.000 moinhos de água.
   - Século XVIII: @Munro2002 os moinhos extrapolaram seu impacto em diversas indústrias.
-<!-- liberou pessoas, aminais e pessoas escravisadas -->
-- Segunda onda - Ao longo de 55 anos, de 1845 a 1900, a máquina a vapor impulsionou a implantação da rede ferroviária.
-- Terceira onda - Telefones, lâmpadas e motores elétricos alimentados por eletricidade começaram a se desdobrar como grandes ondas de reinvenção.
-- Quarta onda - A era entre 1950 e 1990 é marcada como a quarta onda.
-- Quinta onda - O início de 1990 testemunhou o surgimento de computadores pessoais, software e telefones celulares.
-- Sexta onda - Além de impulsionar a prosperidade, as últimas cinco ondas de inovação criaram urgência em sustentabilidade.
+:::
+
+::: {style="font-size: 100%; "}
+- Segunda onda - De 1845 a 1900, a máquina a vapor impulsionou a implantação da rede ferroviária.
+- Terceira onda - Telefones, lâmpadas e motores elétricos alimentados por eletricidade, reinvenções.
+- Quarta onda - A era entre 1950 e 1990 eletrônicos, aviação, pretróleo e automóveis.
+- Quinta onda - O início de 1990 computadores pessoais, software e telefones celulares.
+- Sexta onda - Sustentabilidade?
 
 ::: {style="font-size: 90%; text-align: left; "}
 Ler Freeman e Soete @Freeman2008 A economia da inovação industrial.
 :::
 :::
 
+<!-- liberou pessoas, aminais e pessoas escravisadas -->
+
 ### Empresário
 
 <br>
+
+::: {style="font-size: 120%; "}
 
 > É útil pensar em uma inovação como algo novo que foi colocado em uso. Assim, essa inovação representa, em certo sentido, uma nova tecnologia. Embutido nesta distinção entre invenção e inovação está um processo pelo qual as invenções se tornam aplicadas. Este processo é central para o que chamamos de empreendedorismo. O empreendedorismo é um processo que envolve a organização de recursos, e o resultado desse processo é uma inovação. Claro, para que o empreendedorismo tenha valor econômico, a saída resultante ou inovação deve ter valor econômico. @Audretsch2002
 
 - Schumpeter Mark I *vs* Schumpeter Mark II
 
+:::
+
 ### Implicações {.smaller}
 
+::: {style="font-size: 105%; "}
 - O empresário busca lucro.
 - Economia deixar de tender ao equilíbrio (equilíbrio geral paretiano).
 - Os mecanismos de preços deixam de ser exclusivos para definir competição. <!--(efeito amazon)-->
 - Os resultados não são presumidos antes de um evento, e sim descobertos. 
-- A economia passa ser não direcionada, sem predeterminação para um determinado ponto final.
+- A economia passa a ser não direcionada, sem predeterminação para um determinado ponto final.
 - A coevolução entra em prática, com a ação de um impactando no outro.
 - As interdependências possibilitam a cocriação (invenção).
 - Os processos emergem de tempos em tempos, resultando em inovações.
 - Utiliza-se o princípio da seleção, a ideia de escolher a melhor ideia.
 - Padrões emergem a partir das iterações.
 - Trajetórias tecnológicas...
+:::
 
 :::
 :::
@@ -561,18 +559,20 @@ Ler Freeman e Soete @Freeman2008 A economia da inovação industrial.
 
 ### Dosi 1982 {.smaller}
 
-::: {style="font-size: 90%; text-align: left; line-height: 1.4em;"}
+<!-- ::: {style="font-size: 90%; text-align: left; line-height: 1.4em;"} -->
+
+::: {style="font-size: 100%; text-align: left; line-height: 1.0em;"}
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="40%"}
 
 - Dosi (1982) @Dosi1982 Technological Paradigms and Technological Trajectories. Research Policy. 
   - Doutorado na SPRU (Science Policy Research Unit) da Universidade de Sussex.
-  - Orientando por Christopher Freeman.
+  - Orientado por Christopher Freeman.
 
 :::
 
-::: {.column width="40%"}
+::: {.column width="20%"}
 
 ![](images/dosi-v2.jpg){height="130" fig-align="left"}
 
@@ -580,17 +580,41 @@ Ler Freeman e Soete @Freeman2008 A economia da inovação industrial.
 Fonte: <https://images.app.goo.gl/BW7DSw3wsb2JumoP6>
 :::
 :::
+
+::: {.column width="40%"}
+
+::: {style="font-size: 100%; text-align: left; line-height: 1.0em;"}
+- Discussão anterior a Dosi, a inovação é fruto do: livre mercado *vs* desenvolvimento científico.
+- Paradigma Científico (Thomas Khun) é modelo de prática científica utilizado em consenso pela comunidade acadêmica.
+:::
+:::
 :::
 
-- Discussão anterior a Dosi, a inovação é fruto do: livre mercado *vs* desenvolvimento científico.
+::: columns
+::: {.column width="50%"}
 
-- Paradigma Científico (Thomas Khun) é modelo de prática científica utilizado em consenso pela comunidade acadêmica.
+::: {.callout-note}
+## [Paradigma Tecnológico]{style="font-size: 130%; "}
 
-- **Paradigma Tecnológico**
-  - soluções de determinados problemas tecnológicos, baseados em determinados princípios derivados das ciências naturais e em determinadas tecnologias matérias.
+::: {style="font-size: 120%; text-align: left; "}
+Soluções de determinados problemas tecnológicos, baseados em determinados princípios derivados das ciências naturais e em determinadas tecnologias matérias.
+:::
 
-- **Trajetórias Tecnológicas**
-  - as soluções de problemas são determinadas por um paradigma, que pode ser representada pelo movimento de *trade-offs* multidimensionais entre as variáveis tecnológicas que o paradigma define como relevantes.
+:::
+:::
+
+::: {.column width="50%"}
+
+::: {.callout-tip}
+## [Trajetórias Tecnológicas]{style="font-size: 130%; "}
+
+::: {style="font-size: 120%; text-align: left; "}
+As soluções de problemas são determinadas por um paradigma, que pode ser representada pelo movimento de *trade-offs* multidimensionais entre as variáveis tecnológicas que o paradigma define como relevantes.
+:::
+
+:::
+:::
+:::
 
 - <span style="color: CornflowerBlue;">Descontinuidade</span>: Invenções/Inovações Radiais tendem a superar Paradigmas Científicos/Tecnológicos. 
 
@@ -657,18 +681,18 @@ Fonte: <https://images.app.goo.gl/nRkcUUXzRBgGU4gX8>
 
 #### Química (analógica) {.smaller}
 
-::: {style="font-size: 80%; text-align: left; "}
-- Em 1884, George Eastman patenteou tecnologias de filme fotográfico com vantagens pela pequeno tamanho e boa qualidade de imagem, permitindo que a Eastman Kodak dominasse o setor de câmeras por mais de um século. @Ho2015
+::: {style="font-size: 100%; text-align: left; "}
+- Em **1884**, George Eastman patenteou tecnologias de filme fotográfico. @Ho2015
 
-- Em 1913, novas tecnologias de lentes e controle de luz permitiram que Oskar Barnack, da Ernst Leitz Optische Werke, da Alemanha, desenvolvesse o protótipo Leica 35 mm, que estabeleceu um novo padrão industrial para câmeras de filme.
+- Em **1913**, lentes e controle de luz permitiram que Oskar Barnack, da Ernst Leitz Optische Werke, da Alemanha, desenvolvesse o protótipo Leica 35 mm.
 
-- Em 1935, a Kodak lançou o primeiro filme colorido que inaugurou a era da fotografia colorida.
+- Em **1935**, a Kodak lançou o primeiro filme colorido que inaugurou a era da fotografia colorida.
 
-- Em 1963, a Polaroid lançou o filme e a câmera coloridos instantâneos, permitindo que os usuários tirassem e imprimissem fotos coloridas por conta própria.
+- Em **1963**, a Polaroid lançou o filme e a câmera coloridos instantâneos.
 
-- O setor de filmes e impressão comercial foi classificado como seguindo o padrão de inovação industrial baseado na ciência, com uma trajetória que acompanha o desenvolvimento das ciências químicas e de materiais. 
+- O setor de filmes e impressão comercial têm inovação industrial baseado na ciência, com uma trajetória que acompanha o desenvolvimento das ciências químicas e de materiais. 
 
-- O serviço de impressão de fotos criou outro setor que depende de equipamentos de impressão comercial e segue uma trajetória tecnológica de padrão dominado pelo fornecedor. @Pavitt1984
+- Seguem trajetória tecnológica de padrão dominado pelo fornecedor. @Pavitt1984
 :::
 :::
 
@@ -678,13 +702,13 @@ Fonte: <https://images.app.goo.gl/nRkcUUXzRBgGU4gX8>
 
 <!-- falar sobre o 11 de setembro e o fim da indústria do filme -->
 
-::: {style="font-size: 80%; text-align: left; "}
+::: {style="font-size: 90%; text-align: left; "}
 
-- Em 1969, o dispositivo de carga acoplada (CCD) foi inventado por Willard Boyle e George Smith no AT&T Bell Labs. O CCD captura imagens ao detectar a intensidade da luz e registrá-la em semicondutores, substituindo o processo químico anterior por um processo eletrônico. @Ho2015
+- Em **1969**, sensor (CCD) foi inventado por no AT&T Bell Labs. @Ho2015
 
-- Em 1981, a Sony lançou a primeira câmera digital e a tecnologia logo foi adotada por muitas outras empresas de câmeras.
+- Em **1981**, a Sony lançou a primeira câmera digital e a tecnologia logo foi adotada por muitas outras empresas de câmeras.
 
-- Embora a Kodak, a Canon, a Fujifilm e a Konica tenham dominado a era das câmeras de filme, somente a Canon manteve sua posição de liderança na era digital, aproveitando suas tecnologias ópticas avançadas e concentrando-se em câmeras digitais SLR (single-lens reflex) de alta qualidade. 
+- Embora a Kodak, a Canon, a Fujifilm e a Konica tenham dominado a era das câmeras de filme, somente a Canon manteve sua posição de liderança na era digital, construindo câmeras digitais SLR (single-lens reflex). 
 
 - Impressão de fotos pessoais.
 
@@ -694,13 +718,13 @@ Fonte: <https://images.app.goo.gl/nRkcUUXzRBgGU4gX8>
 
 -----------
 
-- Câmera fotográfica Canon como câmera de vídeo.
+- Em **2008**, Câmera fotográfica que grava vídeo (Canon 5D Mark II).
 
-- era digital até 2015: setor dominado por DSLR (Canon 5D Mark II).
+- era digital até **2015**: setor dominado por DSLR .
 
 ------------
 
-- 2015 até agora: mirrorless.
+- **2015** até agora: mirrorless.
   - 2010 Sony NEX-3 (APS-C).
   - 2013 Sony A7 (fullframe).
 :::
@@ -722,7 +746,7 @@ Fonte: Zhang 2023 @Zhang2023 A holistic method for radical concept generation ba
 
 ::: {.column width="45%"}
 
-::: {style="font-size: 90%; text-align: left; "}
+::: {style="font-size: 100%; text-align: left; "}
 - Função Sigmóide $\sigma(x) = \frac{1}{1 + e^{-x}}$
 
 - Mudanças ocorrem devido: @Priestley2020
@@ -773,7 +797,6 @@ Fonte: Zhang 2023 @Zhang2023 A holistic method for radical concept generation ba
 #| echo: true
 #| code-fold: true
 #| label: fig-rede1
-#| fig-cap: "Rede de citação"
 #| fig-subcap: 
 #|   - "Citações"
 #|   - "Citações com Layout de Árvore"
@@ -846,16 +869,9 @@ plot(
 ::: columns
 ::: {.column width="35%"}
 
-::: {style="font-size: 85%; text-align: left; "}
+::: {style="font-size: 105%; text-align: left; "}
 
 - Análise de Caminho Principal (pt_br) 
-
-- Hummon e Doreian (1989) @Hummon1989 propuseram a metodologia.
-
-- Objetivo: captar o principal fluxo de ideias via redes de citações (artigos ou patentes).
-
-- Directed Acyclic Graph (DAG)
-  - se nó $i$ cita nó $j$, não existe citação do nó $j$ para o nó $i$.
 
 - **Passo 1**: calcular os pesos das citações:
   - Search path link count (SPLC); @Hummon1989
@@ -873,16 +889,15 @@ plot(
 
 ::: {.column width="65%"}
 
-::: {style="font-size: 75%; text-align: left; "}
-- Passo 1: o valor de SPC para o link (B, D) é 5 porque cinco caminhos (B-D-F-H-K, B-D-F-I-L, B-D-F-I-M-N, B-D-I-L e B-D-I-M-N) passam por ele. 
-- Passo 2: global search (B, N) está em vermelho, é o caminho com maior peso (5 + 3 + 2 + 2 + 3 = 15). 
+::: {style="font-size: 95%; text-align: left; "}
+- **Passo 1**: o valor de SPC para o link (B, D) é 5 porque cinco caminhos (B-D-F-H-K, B-D-F-I-L, B-D-F-I-M-N, B-D-I-L e B-D-I-M-N) passam por ele. 
+- **Passo 2**: global search (B, N) está em vermelho, é o caminho com maior peso (5 + 3 + 2 + 2 + 3 = 15). 
 :::
 
 ```{r, fig.width=14, fig.height=13}
 #| echo: true
 #| code-fold: true
 #| label: fig-rede-mpa
-#| fig-cap: "Main Path Analisys"
 #| fig-subcap: 
 #|   - "Passo 1"
 #|   - "Passo 2"
@@ -1069,8 +1084,7 @@ Fonte: <https://en.wikipedia.org/wiki/Main_path_analysis>
 Fonte: <https://images.app.goo.gl/uXg2ezPVmn5vhtdd9>
 :::
 
-- University of Ljubljana
-- Slovenia
+- University of Ljubljana, Slovenia
 
 :::
 
@@ -1143,9 +1157,8 @@ Fonte: <https://images.app.goo.gl/4WPBtxaBMP94fNNL6>
 Fonte: <https://images.app.goo.gl/cpckusuPLndzqniY9>
 :::
 
-::: {style="font-size: 80%; text-align: right; "}
-- National Taiwan University of Science and Technology
-- Taiwan
+::: {style="font-size: 95%; text-align: left; "}
+- National Taiwan University of Science and Technology, Taiwan
 :::
 
 :::
@@ -1162,7 +1175,7 @@ Fonte: <https://images.app.goo.gl/cpckusuPLndzqniY9>
 ::: columns
 ::: {.column width="30%"}
 
-::: {style="font-size: 80%; text-align: right; "}
+::: {style="font-size: 90%; text-align: left; "}
 - Identifica não apenas o caminho principal único, mas também caminhos derivados emanando de junções tecnológicas no caminho principal. @Kim2018
 :::
 
@@ -1172,10 +1185,8 @@ Fonte: <https://images.app.goo.gl/cpckusuPLndzqniY9>
 Fonte: <https://images.app.goo.gl/cpckusuPLndzqniY9>
 :::
 
-::: {style="font-size: 80%; text-align: right; "}
-- Statistical Inference & Information Theory Laboratory
-- KAIST Electrical Engineering
-- Republic of Korea
+::: {style="font-size: 95%; text-align: right; "}
+- KAIST Electrical Engineering, Republic of Korea
 :::
 
 :::
@@ -1313,6 +1324,7 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
 
 ### Forecasting {.smaller}
 
+::: {style="font-size: 110%; text-align: left; "}
 - technological forecasting 
   - Coates 2001 @Coates2001 
   - Daim 2006 @Daim2006 
@@ -1320,12 +1332,14 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
   - Amparo 2012 @Amparo2012
   - Robinson 2013 @Robinson2013 
   - Lee 2021 @Lee2021 
+:::
 
 ### Mapping {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
 
+::: {style="font-size: 110%; text-align: left; "}
 - mapping science/technology 
   - Klavans 2008 @Klavans2008 
   - Rafols 2010 @Rafols2010 
@@ -1335,16 +1349,21 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
   - Deorsola 2013 @Deorsola2013 
   - Jeong 2021 @Jeong2021 
 :::
+:::
   
 ::: {.column width="50%"}
+
+::: {style="font-size: 110%; text-align: left; "}
 - roadmap 
   - Jeong 2021 @Jeong2021 
   - Kostoff 2001 @Kostoff2001 
 :::
 :::
+:::
 
 ### Topics {.smaller}
 
+::: {style="font-size: 110%; text-align: left; "}
 - research fronts/topics/fields/domains/trends/landscape/structure
   - Jo 2007 @Jo2007
   - Shibata 2008 @Shibata2008 
@@ -1357,12 +1376,14 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
   - Huang 2013 @Huang2013 
   - Maltseva 2020 @Maltseva2020
   - Qian 2021 @Qian2021
+:::
 
 ### Emergence {.smaller}
 
 ::: columns
 ::: {.column width="30%"}
 
+::: {style="font-size: 110%; text-align: left; "}
 - Kontostathis 2004 @Kontostathis2004
 - Morris 2005 @Morris2005
 - Daim 2006 @Daim2006
@@ -1375,11 +1396,13 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
 - Cozzens 2010 @Cozzens2010
 - Schiebel 2010 @Schiebel2010
 - Ohniwa 2010 @Ohniwa2010
+:::
 
 :::
 
 ::: {.column width="30%"}
 
+::: {style="font-size: 110%; text-align: left; "}
 - Glanzel 2011 @Glanzel2011
 - Shibata 2011 @Shibata2011
 - Alexander 2012 @Alexander2012 
@@ -1393,9 +1416,11 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
 - Rotolo 2015 @Rotolo2015
 - Carley 2017 @Carley2017 
 :::
+:::
 
 ::: {.column width="30%"}
 
+::: {style="font-size: 110%; text-align: left; "}
 - Garner 2017 @Garner2017 
 - Carley 2018 @Carley2018 
 - Teran 2018 @Teran2018
@@ -1407,6 +1432,7 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
 - Porter 2020 @Porter2020 
 - Choi 2021 @Choi2021 
 - Jang 2021 @Jang2021
+:::
 
 :::
 :::
@@ -1416,7 +1442,7 @@ Fonte: <https://images.app.goo.gl/Stm3TC2PHkdSNLQx9>
 ::: columns
 ::: {.column width="50%"}
 
-::: {style="font-size: 80%; text-align: left; "}
+::: {style="font-size: 105%; text-align: left; "}
 
 O estudo de Rotolo 2015 @Rotolo2015, *"What is an emerging technology?"*, gerou a base conceitual necessária para a consolidação dos estudos de emergência como um campo do conhecimento. O autor sustenta que os estudos de emergência estão concentrados na área em *Science and Technology Studies*, e que os atributos de uma tecnologia emergente são:
 
@@ -1426,15 +1452,7 @@ iii. coerência;
 iv. impacto proeminente; e 
 v. incerteza e ambiguidade. 
 
-----------------------
-
-Carley 2017 @Carley2017 propõem que a emergência deva apresentar propriedades de mais fácil mensuração que as propriedades sugeridas por @Rotolo2015. As tecnologias emergentes têm: 
-
-i. novidade; 
-ii. persistência; 
-iii. comunidade; e 
-iv. crescimento.
-
+Carley 2017 @Carley2017: i. novidade; ii. persistência; iii. comunidade; e iv. crescimento.
 :::
 
 :::
@@ -1458,7 +1476,7 @@ Fonte: Rotolo (2015) What is an emerging technology?
 ::: columns
 ::: {.column width="40%"}
 
-::: {style="font-size: 80%; text-align: left; "}
+::: {style="font-size: 100%; text-align: left; "}
 
 - Nomeclaturas
   - emerging research topics
@@ -1468,14 +1486,10 @@ Fonte: Rotolo (2015) What is an emerging technology?
   - emerging technologies
   - emerging research fields
 
-<br>
-
-- Três estágios de desenvolvimento de campo de tópicos de pesquisa emergentes
+- Três estágios de desenvolvimento 
   - o estágio de emergência
   - o estágio de exploração
   - o estágio de desenvolvimento
-
-<br>
 
 - Beijing University of Technology, China
 
@@ -1502,13 +1516,17 @@ Fonte: Rotolo (2015) What is an emerging technology?
 ::: {.column width="50%"}
 
 ![](images/shibata2009-fig1.png)
+:::
+
+::: {.column width="50%"}
+
+<br>
 
 - citação direta
 - co-citação
 - acoplamento bibliográfico
-:::
 
-::: {.column width="50%"}
+<br>
 
 - Autores que discutiram as diferentes redes
   - Jarneving (2007) @Jarneving2005
@@ -1624,6 +1642,7 @@ Small et al. (2014) Identifying emerging topics in science and technology. Resea
 
 ### Macro *vs* Micro
 
+::: {style="font-size: 110%; text-align: left; "}
 <br>
 
 A equipe da SciTech trabalha com modelos macro, que utilizam toda a base Scopus.
@@ -1636,6 +1655,8 @@ Quando a assunto são as análises micro, Small et al. @Small2014 afirmam:
 
 ::: {style="font-size: 120%; text-align: left; "}
 > Direct citation ... used by Shibata et al. (2008, 2010) to cluster sets of documents on gallium nitride, complex networks, and regenerative medicine. Annual clusterings were done with a fixed starting year – e.g., 1990–2000, 1990–2001, 1990–2002, etc. – and clusters from each model with high overlap were matched and linked to show evolution in field structure. **This method is capable of effectively showing births, deaths, splits, and merges in the cluster structure.**
+:::
+
 :::
 :::
 
@@ -1767,6 +1788,13 @@ Fonte: Shibata et al. (2011) @Shibata2011 Detecting emerging research fronts in 
 <iframe class="slide-deck" src="mm/markmap-method.html" height="880" width="1900" style="border:3px solid darkgray;"> </iframe>
 ```
 </div>
+
+::: footer
+
+::: {style="font-size: 110%; "}
+[https://roneyfraga.com/class/2024-enecomat/mm/markmap-method.html](https://roneyfraga.com/class/2024-enecomat/mm/markmap-method.html)
+:::
+:::
 
 ## Biofertilizantes - `1.` Collect data {.smaller}
 
@@ -3019,8 +3047,10 @@ Cansaço da audiência.
 ## TODO  {.smaller}
 
 :::: columns
-::: {.column width="40%"}
+::: {.column width="33%"}
 
+
+::: {style="font-size: 120%; text-align: right ; "}
 ::: {.callout-tip}
 ## Indicadores por grupo
 
@@ -3039,9 +3069,11 @@ Cansaço da audiência.
   - estima curva em S
 :::
 :::
+:::
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
+::: {style="font-size: 120%; text-align: right ; "}
 ::: {.callout-tip}
 ## Indicadores por grupo
 
@@ -3061,10 +3093,13 @@ Cansaço da audiência.
   - technology cycle time 
 :::
 :::
+:::
 
-::: {.column width="20%"}
+::: {.column width="33%"}
 
 <br>
+
+::: {style="font-size: 120%; text-align: right ; "}
 
 ::: {.callout-note}
 ## Difusão tecnológica
@@ -3083,6 +3118,8 @@ Lançar para o plúblico o pacote de R `birddog`.
 :::
 
 :::
+
+:::
 :::: 
 
 ## A quem interessa? {.smaller}
@@ -3092,6 +3129,7 @@ Lançar para o plúblico o pacote de R `birddog`.
 
 <br>
 
+::: {style="font-size: 120%; text-align: right ; "}
 1. Pesquisadores e Acadêmicos
 2. Indústrias e Empresas
 3. Governo e Formuladores de Políticas Públicas
@@ -3099,6 +3137,7 @@ Lançar para o plúblico o pacote de R `birddog`.
 5. Sociedade em Geral
 6. Instituições de Ensino Superior
 7. Agências de Fomento à Pesquisa
+:::
 
 :::
 
@@ -3134,6 +3173,9 @@ Ex.: Acrocomia na Alemanha
 <br>
 <br>
 
+
+::: {style="font-size: 120%; text-align: left ; "}
+
 Sala 310, Faculdade de Economia - UFMT, Cuiabá - MT.
 
 [roneyfraga.com](https://roneyfraga.com)
@@ -3149,6 +3191,7 @@ Sala 310, Faculdade de Economia - UFMT, Cuiabá - MT.
 [https://scholar.google.com.br](https://scholar.google.com.br/citations?user=xsbuansAAAAJ&hl=pt-BR)
 
 [www.researchgate.net](https://www.researchgate.net/profile/Roney-Souza-2)
+::: 
 
 ::: footer
 [https://github.com/roneyfraga/2024-enecomat](https://github.com/roneyfraga/2024-enecomat)
