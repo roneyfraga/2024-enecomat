@@ -3171,8 +3171,6 @@ Ex.: Acrocomia na Alemanha
 ::: {style="font-size: 55%; text-align: left; "}
 
 <br>
-<br>
-
 
 ::: {style="font-size: 120%; text-align: left ; "}
 
@@ -3182,7 +3180,7 @@ Sala 310, Faculdade de Economia - UFMT, Cuiabá - MT.
 
 <roneyfraga@gmail.com>
 
-`@roneyfraga` [telegram]{style="font-size: 85%; "}
+[roneyfraga](https://telegram.org) [telegram]{style="font-size: 85%; "}
 
 [http://lattes.cnpq.br/6380212729787758](http://lattes.cnpq.br/6380212729787758)
 
@@ -3191,7 +3189,12 @@ Sala 310, Faculdade de Economia - UFMT, Cuiabá - MT.
 [https://scholar.google.com.br](https://scholar.google.com.br/citations?user=xsbuansAAAAJ&hl=pt-BR)
 
 [www.researchgate.net](https://www.researchgate.net/profile/Roney-Souza-2)
+
 ::: 
+
+<br>
+
+![](images/qrcode.png){width=40% fig-align="left"}
 
 ::: footer
 [https://github.com/roneyfraga/2024-enecomat](https://github.com/roneyfraga/2024-enecomat)
